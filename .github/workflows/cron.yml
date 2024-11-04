@@ -12,6 +12,7 @@ jobs:
         uses: actions/checkout@v2.3.1
       - name: Jalankan Skrip
         env:
+          STARTUP : a
           # STARTUP : ${{ secrets.STARTUP  }}
           # SCAN: ${{ secrets.SCAN  }}
           # TEMPLATE_WEB: ${{ secrets.TEMPLATE_WEB  }}
