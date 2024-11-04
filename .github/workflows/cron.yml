@@ -22,8 +22,8 @@ jobs:
       - name: Copy files 🚚
         run: |
           cp -pr ${GITHUB_WORKSPACE}/remote/* ${GITHUB_WORKSPACE}/local/docs
-          ls -l  ${GITHUB_WORKSPACE}
-          ls -lR ${GITHUB_WORKSPACE}/local
+          # ls -l  ${GITHUB_WORKSPACE}
+          # ls -lR ${GITHUB_WORKSPACE}/local
       - name: Commit & Push changes 🔥
         uses: Andro999b/push@v1.3
         with:
