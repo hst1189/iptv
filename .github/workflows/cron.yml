@@ -22,12 +22,12 @@ jobs:
       - name: Copy files 🚚
         working-directory: local
         run: |
-          cp -pr $GITHUB_WORKSPACE/remote/* $GITHUB_WORKSPACE/local/docs
-          ls -la $GITHUB_WORKSPACE/local/docs
+          cp -pr remote/* local/docs
+          ls -la local/docs
       - name: Commit & Push changes 🔥
         uses: Andro999b/push@v1.3
         with:
-          directory: $GITHUB_WORKSPACE/local/docs
+          directory: local
           github_token: ${{ secrets.GITHUB_TOKEN }}
           author_email: 'github-actions[bot]@users.noreply.github.com'
           author_name: 'github-actions[bot]'
