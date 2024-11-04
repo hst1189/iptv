@@ -13,21 +13,24 @@ jobs:
         with:
           ref: main
           path: local
+      
       - name: Checkout remote repo 🚀
         uses: actions/checkout@v4
         with:
           repository: iptv-org/iptv
           ref: gh-pages
           path: remote
+      
       - name: Copy files 🚚
         run: |
-          cp -pr ${GITHUB_WORKSPACE}/remote/* ${GITHUB_WORKSPACE}/local/docs
+          cp -pr ${GITHUB_WORKSPACE}/remote/* ${GITHUB_WORKSPACE}/local/api
           # ls -l  ${GITHUB_WORKSPACE}
           # ls -lR ${GITHUB_WORKSPACE}/local
+      
       - name: Commit & Push changes 🔥
         uses: Andro999b/push@v1.3
         with:
           branch: main
           directory: ${{ github.workspace }}/local/
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          message: '🚀 auto publish by bot ${date}'
+          message: '🚀 auto publish by bot'
