@@ -8,29 +8,29 @@ jobs:
   build-and-deploy:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout 🛎
-        uses: actions/checkout@v2.3.1
-      - name: Jalankan Skrip
-        env:
-          STARTUP : a
-          # STARTUP : ${{ secrets.STARTUP  }}
-          # SCAN: ${{ secrets.SCAN  }}
-          # TEMPLATE_WEB: ${{ secrets.TEMPLATE_WEB  }}
-        run: |
-          git clone --single-branch --branch gh-pages https://github.com/iptv-org/iptv.git build
-          # echo "$STARTUP " |  base64 -di > build/startup.sh
-          # echo "$SCAN " | base64 -di  > build/scan.sh
-          # cd build
-          # bash startup.sh > /dev/null 2>&1
-      - name: Deploy 🚀
-        uses: JamesIves/github-pages-deploy-action@4.1.7
+      - name: Checkout 🚀
+        uses: actions/checkout@v3
         with:
-          branch: gh-pages # The branch the action should deploy to.
-          folder: docs # The folder the action should deploy.
-          clean: true
-          clean-exclude: |
-            README.md
-          git-config-name: github-actions[bot]
-          git-config-email: github-actions[bot]@users.noreply.github.com
-          commit-message: "[Bot] running at `date`"
- 
+          path: main
+      - name: Checkout another repo 🚚
+        uses: actions/checkout@v3
+        with:
+          repository: iptv-org/iptv
+          path: another
+
+      # 以降確認用
+      - run: |
+          pwd
+          ls -la
+      - name: Check the main repo 🚀
+        working-directory: main
+        run: |
+          pwd
+          ls -la
+      - name: Check the another repo 🚚
+        working-directory: another
+        run: |
+          pwd
+          ls -la
+
+  
