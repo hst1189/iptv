@@ -20,14 +20,13 @@ jobs:
           ref: gh-pages
           path: remote
       - name: Copy files 🚚
-        working-directory: local
         run: |
-          cp -pr remote/* local/docs
-          ls -la local/docs
+          cp -pr $GITHUB_WORKSPACE/remote/* $GITHUB_WORKSPACE/local/docs
+          ls -la $GITHUB_WORKSPACE/local/docs
       - name: Commit & Push changes 🔥
         uses: Andro999b/push@v1.3
         with:
-          directory: local
+          directory: $GITHUB_WORKSPACE/local
           github_token: ${{ secrets.GITHUB_TOKEN }}
           author_email: 'github-actions[bot]@users.noreply.github.com'
           author_name: 'github-actions[bot]'
