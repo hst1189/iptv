@@ -23,7 +23,8 @@ jobs:
         working-directory: local
         run: |
           cp -pr $GITHUB_WORKSPACE/remote/* $GITHUB_WORKSPACE/local/docs
-          ls -la $GITHUB_WORKSPACE/local/docs
+          cd $GITHUB_WORKSPACE/local/docs
+          ls -la
       - name: Commit & Push changes 🔥
         uses: Andro999b/push@v1.3
         with:
