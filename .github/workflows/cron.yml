@@ -27,6 +27,7 @@ jobs:
       - name: Commit & Push changes 🔥
         uses: Andro999b/push@v1.3
         with:
+          branch: main
           directory: ${{ github.workspace }}/local/
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          message: 'chore: auto publish by bot ${date}'
+          message: '🚀 auto publish by bot ${date}'
