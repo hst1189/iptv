@@ -19,15 +19,15 @@ jobs:
           repository: iptv-org/iptv
           ref: gh-pages
           path: remote
-      - name: copy files 🚚
+      - name: Copy files 🚚
         working-directory: local
         run: |
           cp -pr $GITHUB_WORKSPACE/remote/* $GITHUB_WORKSPACE/local/docs
-          cd $GITHUB_WORKSPACE/local/docs
-          ls -la
+          ls -la $GITHUB_WORKSPACE/local/docs
       - name: Commit & Push changes 🔥
         uses: Andro999b/push@v1.3
         with:
+          directory: $GITHUB_WORKSPACE/local/docs
           github_token: ${{ secrets.GITHUB_TOKEN }}
           author_email: 'github-actions[bot]@users.noreply.github.com'
           author_name: 'github-actions[bot]'
