@@ -8,27 +8,25 @@ jobs:
   build-and-deploy:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout 🚀
+      - name: Checkout local repo 🐾
         uses: actions/checkout@v4
         with:
-          path: main
-      - name: Checkout another repo 🚚
+          ref: main
+          path: local
+  
+      - name: Checkout remote repo 🚀
         uses: actions/checkout@v4
         with:
           repository: iptv-org/iptv
           ref: gh-pages
-          path: another
-
-      # 以降確認用
-      - name: Check the main repo 🚀
-        working-directory: main
+          path: remote
+  
+      - name: copy files 🚚
+        working-directory: local
         run: |
           pwd
-          ls -la
-      - name: Check the another repo 🚚
-        working-directory: another
-        run: |
-          pwd
-          ls -la
-
+          ls -la $GITHUB_WORKSPACE/local
+          ls -la $GITHUB_WORKSPACE/remote
+          cp $GITHUB_WORKSPACE/remote/*.* $GITHUB_WORKSPACE/local/docs
+          ls -la $GITHUB_WORKSPACE/local/docs
   
