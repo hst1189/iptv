@@ -27,6 +27,6 @@ jobs:
       - name: Commit & Push changes 🔥
         uses: Andro999b/push@v1.3
         with:
-          directory: ${GITHUB_REPOSITORY}/local
+          directory: /home/runner/work/iptv/iptv/local/
           github_token: ${{ secrets.GITHUB_TOKEN }}
           message: 'chore: auto publish by bot ${date}'
