@@ -1,8 +1,11 @@
 # iptv
+自动收集直播源
 
 ## API使用方法
 将.m3u 导入播放器即可
 
+## 一覧 
+https://cdn.jsdelivr.net/gh/hst1189/iptv/api/
 
 ### 分类总和
 - https://cdn.jsdelivr.net/gh/hst1189/iptv/api/index.category.m3u
