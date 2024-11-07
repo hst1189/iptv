@@ -44,17 +44,13 @@ jobs:
 
       - name: Copy files 🚚
         run: |
-          cp -rfp ${GITHUB_WORKSPACE}/remote1/*                 ${GITHUB_WORKSPACE}/local/work > /dev/null 2>&1
-          cp -rfp ${GITHUB_WORKSPACE}/remote2/lists             ${GITHUB_WORKSPACE}/local/api  > /dev/null 2>&1
-          cp -rfp ${GITHUB_WORKSPACE}/remote2/playlists         ${GITHUB_WORKSPACE}/local/work > /dev/null 2>&1
-          cp -rfp ${GITHUB_WORKSPACE}/remote2/*.m3u             ${GITHUB_WORKSPACE}/local/work > /dev/null 2>&1
-          cp -rfp ${GITHUB_WORKSPACE}/remote2/*.m3u8            ${GITHUB_WORKSPACE}/local/work > /dev/null 2>&1
-          cp -rfp ${GITHUB_WORKSPACE}/remote3/m3u8/*.m3u        ${GITHUB_WORKSPACE}/local/work > /dev/null 2>&1
-          cp -rfp ${GITHUB_WORKSPACE}/remote3/m3u8/*.m3u8       ${GITHUB_WORKSPACE}/local/work > /dev/null 2>&1
-          cp -rfp ${GITHUB_WORKSPACE}/remote4/tv/m3u/*.m3u      ${GITHUB_WORKSPACE}/local/work > /dev/null 2>&1
-          cp -rfp ${GITHUB_WORKSPACE}/remote4/tv/m3u/*.m3u8     ${GITHUB_WORKSPACE}/local/work > /dev/null 2>&1
-          cp -rfp ${GITHUB_WORKSPACE}/remote4/radio/m3u/*.m3u   ${GITHUB_WORKSPACE}/local/work > /dev/null 2>&1
-          cp -rfp ${GITHUB_WORKSPACE}/remote4/radio/m3u/*.m3u8  ${GITHUB_WORKSPACE}/local/work > /dev/null 2>&1
+          cp -rfp ${GITHUB_WORKSPACE}/remote1/*                 ${GITHUB_WORKSPACE}/local/work
+          cp -rfp ${GITHUB_WORKSPACE}/remote2/lists             ${GITHUB_WORKSPACE}/local/api
+          cp -rfp ${GITHUB_WORKSPACE}/remote2/playlists         ${GITHUB_WORKSPACE}/local/work
+          cp -rfp ${GITHUB_WORKSPACE}/remote2/*.m3u*             ${GITHUB_WORKSPACE}/local/work
+          cp -rfp ${GITHUB_WORKSPACE}/remote3/m3u8/*.m3u*        ${GITHUB_WORKSPACE}/local/work
+          cp -rfp ${GITHUB_WORKSPACE}/remote4/tv/m3u/*.m3u*      ${GITHUB_WORKSPACE}/local/work
+          cp -rfp ${GITHUB_WORKSPACE}/remote4/radio/m3u/*.m3u*   ${GITHUB_WORKSPACE}/local/work
 
 
       - name: Commit & Push changes 🔥
