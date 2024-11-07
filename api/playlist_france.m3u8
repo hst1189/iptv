@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="NRJ 12" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/NRJ12_logo_2015.svg/749px-NRJ12_logo_2015.svg.png" tvg-id="NRJ12.fr" group-title="France",NRJ 12
+https://nrj12.nrjaudio.fm/hls/live/2038374/nrj_12/master.m3u8
+#EXTINF:-1 tvg-name="CGTN Français" tvg-logo="https://i.imgur.com/fMsJYzl.png" tvg-id="CGTNFrench.cn" group-title="France",CGTN Français
+https://news.cgtn.com/resource/live/french/cgtn-f.m3u8
+#EXTINF:-1 tvg-name="RT France Ⓖ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/RT-France-logo.svg/512px-RT-France-logo.svg.png" tvg-id="RTFrance.fr" group-title="France",RT France Ⓖ
+https://rt-fra.rttv.com/dvr/rtfrance/playlist.m3u8

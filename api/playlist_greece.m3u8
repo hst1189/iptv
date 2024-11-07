@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="Star Ⓖ" tvg-logo="https://i.imgur.com/CJOtJlL.png" tvg-id="StarChannel.gr" group-title="Greece",Star Ⓖ
+https://livestar.siliconweb.com/media/star1/star1mediumhd.m3u8
+#EXTINF:-1 tvg-name="Kontra" tvg-logo="https://i.imgur.com/zMgczHY.png" tvg-id="KontraChannel.gr" group-title="Greece",Kontra
+http://kontralive.siliconweb.com/live/kontratv/playlist.m3u8
+#EXTINF:-1 tvg-name="Skai TV" tvg-logo="https://i.imgur.com/TSg7B8X.png" tvg-id="SkaiTV.gr" group-title="Greece",Skai TV
+https://skai-live.siliconweb.com/media/cambria4/index.m3u8
+#EXTINF:-1 tvg-name="Open TV" tvg-logo="https://i.imgur.com/T99OSnk.png" tvg-id="OpenTV.gr" group-title="Greece",Open TV
+https://liveopencloud.siliconweb.com/1/ZlRza2R6L2tFRnFJ/eWVLSlQx/hls/live/playlist.m3u8

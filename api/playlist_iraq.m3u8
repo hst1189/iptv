@@ -1,0 +1,11 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="Al-Iraqiya" tvg-logo="https://i.imgur.com/imdV6kL.png" group-title="Iraq",Al-Iraqiya
+https://cdn.catiacast.video/abr/8d2ffb0aba244e8d9101a9488a7daa05/playlist.m3u8
+#EXTINF:-1 tvg-name="Dijlah TV" tvg-logo="https://i.imgur.com/FJEeYiz.png" tvg-id="DijlahTV.iq" group-title="Iraq",Dijlah TV
+https://ghaasiflu.online/Dijlah/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 tvg-name="Al-Sharqiya" tvg-logo="https://i.imgur.com/bPYyXNf.png" tvg-id="AlSharqiya.iq" group-title="Iraq",Al-Sharqiya
+https://5d94523502c2d.streamlock.net/home/mystream/playlist.m3u8
+#EXTINF:-1 tvg-name="Al-Sharqiya News" tvg-logo="https://i.imgur.com/P6p17ZY.jpg" tvg-id="AlSharqiyaNews.iq" group-title="Iraq",Al-Sharqiya News
+https://5d94523502c2d.streamlock.net/alsharqiyalive/mystream/playlist.m3u8
+#EXTINF:-1 tvg-name="Zagros TV" tvg-logo="https://i.imgur.com/UjIuIQX.png" tvg-id="ZagrosTV.iq" group-title="Iraq",Zagros TV
+https://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/playlist.m3u8

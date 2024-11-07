@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="Frikanalen" tvg-logo="https://i.imgur.com/rY3Owxl.png" tvg-id="Frikanalen.no" group-title="Norway",Frikanalen
+https://frikanalen.no/stream/index.m3u8

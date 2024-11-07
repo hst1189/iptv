@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="KCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Logo_of_the_Korean_Central_Television.svg/640px-Logo_of_the_Korean_Central_Television.svg.png" tvg-id="KCTV.kp" group-title="North Korea",KCTV
+https://tv.nknews.org/tvdash/stream.mpd

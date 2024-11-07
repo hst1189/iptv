@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="Aryen TV" tvg-logo="https://i.imgur.com/qUg7edz.png" tvg-id="AryenTV.se" group-title="Sweden",Aryen TV
+https://aryen.tv/live/tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Sundskanalen" tvg-logo="https://i.imgur.com/8uT0p3q.jpg" tvg-id="Sundskanalen.se" group-title="Sweden",Sundskanalen
+https://stream.sundskanalen.se/live/view/index.m3u8
+#EXTINF:-1 tvg-name="ATG Live Ⓢ" tvg-logo="https://i.imgur.com/bPWFXkL.png" tvg-id="ATGLive.se" group-title="Sweden",ATG Live Ⓢ
+https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free.m3u8
+#EXTINF:-1 tvg-name="Kanal 10 Sverige" tvg-logo="https://i.imgur.com/vlh699v.png" tvg-id="Kanal10.se" group-title="Sweden",Kanal 10 Sverige
+https://rrr.sz.xlcdn.com/?account=cn_kanal10media&file=live_transcoded&type=live&service=wowza&protocol=https&output=playlist.m3u8
+#EXTINF:-1 tvg-name="Di TV" tvg-logo="https://i.imgur.com/zApTDWn.png" tvg-id="DiTV.se" group-title="Sweden",Di TV
+https://cdn0-03837-liveedge0.dna.ip-only.net/03837-liveedge0/smil:03837-tx4/playlist.m3u8
+#EXTINF:-1 tvg-name="Expressen TV" tvg-logo="https://i.imgur.com/8EjMSr7.png" tvg-id="ExpressenTV.se" group-title="Sweden",Expressen TV
+https://cdn0-03837-liveedge0.dna.ip-only.net/03837-liveedge0/smil:03837-tx2/playlist.m3u8
