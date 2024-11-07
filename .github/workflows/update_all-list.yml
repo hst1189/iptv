@@ -63,13 +63,25 @@ jobs:
           cd ${GITHUB_WORKSPACE}/local/work/
           rm -rf *
           cp -rfp ${GITHUB_WORKSPACE}/remote2/lists      ${GITHUB_WORKSPACE}/local/api/
-          cp -rfp ${GITHUB_WORKSPACE}/remote2/playlists  ${GITHUB_WORKSPACE}/local/work/   
+          cp -rfp ${GITHUB_WORKSPACE}/remote2/playlists  ${GITHUB_WORKSPACE}/local/work/
           cp -rfp ${GITHUB_WORKSPACE}/remote2/*.m3u*     ${GITHUB_WORKSPACE}/local/work/
           ls -lat | sort -s -k 1,1
       - name: 2-3. Check files 🔥
         run: |
-          iptv-checker -o ${GITHUB_WORKSPACE}/local/output -p 100 -t 60000 ${GITHUB_WORKSPACE}/local/work/playlist.m3u8
-          cp -pr ${GITHUB_WORKSPACE}/local/output/online.m3u ${GITHUB_WORKSPACE}/local/api/playlist.m3u8
+          function read_dir(){
+            for file in `ls $1`
+            do
+              if [ -d $1"/"$file ]  //注意此处之间一定要加上空格，否则会报错
+              then
+                read_dir $1"/"$file
+              else
+                echo $1"/"$file
+                iptv-checker -o ${GITHUB_WORKSPACE}/local/output -p 100 -t 60000 $1"/"$file
+                cp -pr ${GITHUB_WORKSPACE}/local/output/online.m3u ${GITHUB_WORKSPACE}/local/api/$file
+              fi
+            done
+          }
+          read_dir ${GITHUB_WORKSPACE}/local/work/
 
 
 #      # remote 3

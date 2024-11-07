@@ -1,25 +1,16 @@
-#!/usr/bin/env bash
+#! /usr/bin/env bash
 
-curl -sS https://raw.githubusercontent.com/linuxmint/hypnotix/master/usr/share/hypnotix/countries.list -o ./countries.list
-echo "FO:Faroe Islands" >> ./countries.list
+function read_dir(){
+    for file in `ls $1`
+    do
+        if [ -d $1"/"$file ]  //注意此处之间一定要加上空格，否则会报错
+        then
+            read_dir $1"/"$file
+        else
+            echo $1"/"$file
+        fi
+    done
+}
+#测试目录 test
+read_dir test
 
-for country in `cat ./flag_order.txt | grep -v "^$" | grep -v "#"`; do
-    country_name=`echo "$country"|sed -e "s/_/ /g"`
-
-    [[ "$country_name" == "korea" ]] && country_name="south korea"
-    [[ "$country_name" == "uk" ]] && country_name="united kingdom"
-
-    country_code_line=`cat ./countries.list|grep -m 1 -i "$country_name"`
-
-    if [[ -z "$country_code_line" ]]; then
-        echo "MISSING COUNTRY CODE FOR: $country"
-        exit 1
-    elif [[ -n "$country_code_line" ]]; then
-        IFS=':'; country_code_arr=($country_code_line); unset IFS
-        country_code="${country_code_arr[0],,}"
-    fi
-
-    echo "[<img src=\"https://hatscripts.github.io/circle-flags/flags/$country_code.svg\" width=\"24\">](lists/$country.md)"
-done
-
-rm ./countries.list
