@@ -5,7 +5,7 @@ on:
     - cron: '0 0 * * *'
 
 jobs:
-  update all list:
+  update-all-list:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout local repo 🐾
