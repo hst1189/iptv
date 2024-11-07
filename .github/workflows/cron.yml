@@ -30,11 +30,10 @@ jobs:
 
       - name: Copy files 🚚
         run: |
-          cp -pr ${GITHUB_WORKSPACE}/remote1/*          ${GITHUB_WORKSPACE}/local/api
-          cp -pr ${GITHUB_WORKSPACE}/remote2/lists      ${GITHUB_WORKSPACE}/local/api
-          cp -pr ${GITHUB_WORKSPACE}/remote2/playlists  ${GITHUB_WORKSPACE}/local/api
-          cp -pr ${GITHUB_WORKSPACE}/remote2/*.txt      ${GITHUB_WORKSPACE}/local/api
-          cp -pr ${GITHUB_WORKSPACE}/remote2/*.m3u8     ${GITHUB_WORKSPACE}/local/api
+          cp -pr ${GITHUB_WORKSPACE}/remote1/*              ${GITHUB_WORKSPACE}/local/api
+          cp -pr ${GITHUB_WORKSPACE}/remote2/lists          ${GITHUB_WORKSPACE}/local/api
+          cp -pr ${GITHUB_WORKSPACE}/remote2/playlists      ${GITHUB_WORKSPACE}/local/api
+          cp -pr ${GITHUB_WORKSPACE}/remote2/playlist.m3u8  ${GITHUB_WORKSPACE}/local/api
           # ls -l  ${GITHUB_WORKSPACE}
           # ls -lR ${GITHUB_WORKSPACE}/local
 
