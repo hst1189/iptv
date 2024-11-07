@@ -1,5 +1,4 @@
-name: Check m3u8 file quality
-
+name: Check m3u8 file
 on:
   workflow_dispatch:
   schedule:
