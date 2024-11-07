@@ -60,7 +60,7 @@ jobs:
           cp -rfp ${GITHUB_WORKSPACE}/remote4/tv/m3u/*.m3u*     ${GITHUB_WORKSPACE}/local/work/tv/
           cp -rfp ${GITHUB_WORKSPACE}/remote4/radio/m3u/*.m3u*  ${GITHUB_WORKSPACE}/local/work/radio/
           
-          ls- l
+          ls -l
 
       - name: Commit & Push changes 🔥
         uses: Andro999b/push@v1.3
