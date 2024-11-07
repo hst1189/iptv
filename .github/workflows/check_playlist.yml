@@ -44,7 +44,6 @@ jobs:
         # m3u-linter -c ./M3u-linter.config.json ./work/index.language.m3u
         # m3u-linter -c ./M3u-linter.config.json ./work/index.region.m3u
 
-
       - name: Install IPTV Checker and check the playlist
         run: |
           npm install -g iptv-checker || true
@@ -56,4 +55,12 @@ jobs:
         # iptv-checker -o ./output -p 100 -t 60000 ./work/index.country.m3u
         # iptv-checker -o ./output -p 100 -t 60000 ./work/index.language.m3u
         # iptv-checker -o ./output -p 100 -t 60000 ./work/index.region.m3u
+
+      - name: Commit & Push changes 🔥
+        uses: Andro999b/push@v1.3
+        with:
+          branch: main
+          directory: ${{ github.workspace }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          message: '🚀 auto publish by bot'
 
