@@ -1,18 +1,26 @@
-# iptv
+# 📖 iptv
 自动收集直播源
 
-## API使用方法
+## 📖 API使用方法
 将.m3u 导入播放器即可
 
-## 一覧 
+## 📖 一覧 
 https://cdn.jsdelivr.net/gh/hst1189/iptv/api/
 
-### 分类总和
+<details>
+<summary> 📖 ### +---总分类</summary>
+
+### 总分类
 - https://cdn.jsdelivr.net/gh/hst1189/iptv/api/index.category.m3u
 - https://cdn.jsdelivr.net/gh/hst1189/iptv/api/index.country.m3u
 - https://cdn.jsdelivr.net/gh/hst1189/iptv/api/index.language.m3u
 - https://cdn.jsdelivr.net/gh/hst1189/iptv/api/index.m3u
 - https://cdn.jsdelivr.net/gh/hst1189/iptv/api/index.region.m3u
+</details>
+
+
+<details>
+<summary> 📖 ### +---categories</summary>
 
 ### +---categories
 - https://cdn.jsdelivr.net/gh/hst1189/iptv/api/animation.m3u
@@ -44,6 +52,11 @@ https://cdn.jsdelivr.net/gh/hst1189/iptv/api/
 - https://cdn.jsdelivr.net/gh/hst1189/iptv/api/undefined.m3u
 - https://cdn.jsdelivr.net/gh/hst1189/iptv/api/weather.m3u
 - https://cdn.jsdelivr.net/gh/hst1189/iptv/api/xxx.m3u
+</details>
+
+
+<details>
+<summary> 📖 ### +---countries</summary>
 
 ### +---countries
 - https://cdn.jsdelivr.net/gh/hst1189/iptv/api/ad.m3u
@@ -286,6 +299,11 @@ https://cdn.jsdelivr.net/gh/hst1189/iptv/api/
 - https://cdn.jsdelivr.net/gh/hst1189/iptv/api/za.m3u
 - https://cdn.jsdelivr.net/gh/hst1189/iptv/api/zm.m3u
 - https://cdn.jsdelivr.net/gh/hst1189/iptv/api/zw.m3u
+</details>
+
+
+<details>
+<summary> 📖 ### +---languages</summary>
 
 ### +---languages
 - https://cdn.jsdelivr.net/gh/hst1189/iptv/api/acf.m3u
@@ -429,7 +447,11 @@ https://cdn.jsdelivr.net/gh/hst1189/iptv/api/
 - https://cdn.jsdelivr.net/gh/hst1189/iptv/api/yue.m3u
 - https://cdn.jsdelivr.net/gh/hst1189/iptv/api/zho.m3u
 - https://cdn.jsdelivr.net/gh/hst1189/iptv/api/zza.m3u
+</details>
 
+
+<details>
+<summary> 📖 ### +---regions</summary>
 
 ### +---regions
 - https://cdn.jsdelivr.net/gh/hst1189/iptv/api/afr.m3u
@@ -466,7 +488,11 @@ https://cdn.jsdelivr.net/gh/hst1189/iptv/api/
 - https://cdn.jsdelivr.net/gh/hst1189/iptv/api/ssa.m3u
 - https://cdn.jsdelivr.net/gh/hst1189/iptv/api/wafr.m3u
 - https://cdn.jsdelivr.net/gh/hst1189/iptv/api/wer.m3u
+</details>
 
+
+<details>
+<summary> 📖 ### +---subdivisions</summary>
 
 ### +---subdivisions
 - https://cdn.jsdelivr.net/gh/hst1189/iptv/api/ar-a.m3u
@@ -746,10 +772,12 @@ https://cdn.jsdelivr.net/gh/hst1189/iptv/api/
 - https://cdn.jsdelivr.net/gh/hst1189/iptv/api/us-wi.m3u
 - https://cdn.jsdelivr.net/gh/hst1189/iptv/api/ve-d.m3u
 - https://cdn.jsdelivr.net/gh/hst1189/iptv/api/ve-k.m3u
+</details>
 
 
 
 
-## 感謝：
+## 📖 收集来源：
 - https://github.com/iptv-org/iptv/tree/gh-pages  ※毎日０時更新
-- https://github.com/Free-TV/IPTV                 ※手動更新のよう
+- https://github.com/Free-TV/IPTV                 ※手動更新の様子
+- https://xmltv.tvkaista.net/                     ※EPG 
