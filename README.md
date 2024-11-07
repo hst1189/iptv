@@ -1,8 +1,92 @@
 # 📖 iptv
 自动收集直播源
 
+[<img src="https://hatscripts.github.io/circle-flags/flags/us.svg" width="24">](api/lists/usa.md)
+[<img src="https://hatscripts.github.io/circle-flags/flags/ca.svg" width="24">](api/lists/canada.md)
+[<img src="https://hatscripts.github.io/circle-flags/flags/gb.svg" width="24">](api/lists/uk.md)
+[<img src="https://hatscripts.github.io/circle-flags/flags/ie.svg" width="24">](api/lists/ireland.md)
+[<img src="https://hatscripts.github.io/circle-flags/flags/au.svg" width="24">](api/lists/australia.md)
+[<img src="https://hatscripts.github.io/circle-flags/flags/in.svg" width="24">](api/lists/india.md)
+[<img src="https://hatscripts.github.io/circle-flags/flags/jp.svg" width="24">](api/lists/japan.md)
+[<img src="https://hatscripts.github.io/circle-flags/flags/cn.svg" width="24">](api/lists/china.md)
+[<img src="https://hatscripts.github.io/circle-flags/flags/hk.svg" width="24">](api/lists/hong_kong.md)
+[<img src="https://hatscripts.github.io/circle-flags/flags/mo.svg" width="24">](api/lists/macau.md)
+[<img src="https://hatscripts.github.io/circle-flags/flags/tw.svg" width="24">](api/lists/taiwan.md)
+[<img src="https://hatscripts.github.io/circle-flags/flags/kp.svg" width="24">](api/lists/north_korea.md)
+[<img src="https://hatscripts.github.io/circle-flags/flags/kr.svg" width="24">](api/lists/korea.md)
+[<img src="https://hatscripts.github.io/circle-flags/flags/dk.svg" width="24">](api/lists/denmark.md)
+[<img src="https://hatscripts.github.io/circle-flags/flags/fo.svg" width="24">](api/lists/faroe_islands.md)
+[<img src="https://hatscripts.github.io/circle-flags/flags/gl.svg" width="24">](api/lists/greenland.md)
+[<img src="https://hatscripts.github.io/circle-flags/flags/fi.svg" width="24">](api/lists/finland.md)
+[<img src="https://hatscripts.github.io/circle-flags/flags/is.svg" width="24">](api/lists/iceland.md)
+[<img src="https://hatscripts.github.io/circle-flags/flags/no.svg" width="24">](api/lists/norway.md)
+[<img src="https://hatscripts.github.io/circle-flags/flags/se.svg" width="24">](api/lists/sweden.md)
+[<img src="https://hatscripts.github.io/circle-flags/flags/ee.svg" width="24">](api/lists/estonia.md)
+[<img src="https://hatscripts.github.io/circle-flags/flags/lv.svg" width="24">](api/lists/latvia.md)
+[<img src="https://hatscripts.github.io/circle-flags/flags/lt.svg" width="24">](api/lists/lithuania.md)
+[<img src="https://hatscripts.github.io/circle-flags/flags/be.svg" width="24">](api/lists/belgium.md)
+[<img src="https://hatscripts.github.io/circle-flags/flags/nl.svg" width="24">](api/lists/netherlands.md)
+[<img src="https://hatscripts.github.io/circle-flags/flags/lu.svg" width="24">](api/lists/luxembourg.md)
+[<img src="https://hatscripts.github.io/circle-flags/flags/de.svg" width="24">](api/lists/germany.md)
+[<img src="https://hatscripts.github.io/circle-flags/flags/at.svg" width="24">](api/lists/austria.md)
+[<img src="https://hatscripts.github.io/circle-flags/flags/ch.svg" width="24">](api/lists/switzerland.md)
+[<img src="https://hatscripts.github.io/circle-flags/flags/pl.svg" width="24">](api/lists/poland.md)
+[<img src="https://hatscripts.github.io/circle-flags/flags/cz.svg" width="24">](api/lists/czech_republic.md)
+[<img src="https://hatscripts.github.io/circle-flags/flags/sk.svg" width="24">](api/lists/slovakia.md)
+[<img src="https://hatscripts.github.io/circle-flags/flags/hu.svg" width="24">](api/lists/hungary.md)
+[<img src="https://hatscripts.github.io/circle-flags/flags/ro.svg" width="24">](api/lists/romania.md)
+[<img src="https://hatscripts.github.io/circle-flags/flags/md.svg" width="24">](api/lists/moldova.md)
+[<img src="https://hatscripts.github.io/circle-flags/flags/bg.svg" width="24">](api/lists/bulgaria.md)
+[<img src="https://hatscripts.github.io/circle-flags/flags/fr.svg" width="24">](api/lists/france.md)
+[<img src="https://hatscripts.github.io/circle-flags/flags/it.svg" width="24">](api/lists/italy.md)
+[<img src="https://hatscripts.github.io/circle-flags/flags/pt.svg" width="24">](api/lists/portugal.md)
+[<img src="https://hatscripts.github.io/circle-flags/flags/es.svg" width="24">](api/lists/spain.md)
+[<img src="https://hatscripts.github.io/circle-flags/flags/ru.svg" width="24">](api/lists/russia.md)
+[<img src="https://hatscripts.github.io/circle-flags/flags/by.svg" width="24">](api/lists/belarus.md)
+[<img src="https://hatscripts.github.io/circle-flags/flags/ua.svg" width="24">](api/lists/ukraine.md)
+[<img src="https://hatscripts.github.io/circle-flags/flags/az.svg" width="24">](api/lists/azerbaijan.md)
+[<img src="https://hatscripts.github.io/circle-flags/flags/ge.svg" width="24">](api/lists/georgia.md)
+[<img src="https://hatscripts.github.io/circle-flags/flags/ba.svg" width="24">](api/lists/bosnia_and_herzegovina.md)
+[<img src="https://hatscripts.github.io/circle-flags/flags/hr.svg" width="24">](api/lists/croatia.md)
+[<img src="https://hatscripts.github.io/circle-flags/flags/me.svg" width="24">](api/lists/montenegro.md)
+[<img src="https://hatscripts.github.io/circle-flags/flags/mk.svg" width="24">](api/lists/north_macedonia.md)
+[<img src="https://hatscripts.github.io/circle-flags/flags/rs.svg" width="24">](api/lists/serbia.md)
+[<img src="https://hatscripts.github.io/circle-flags/flags/si.svg" width="24">](api/lists/slovenia.md)
+[<img src="https://hatscripts.github.io/circle-flags/flags/al.svg" width="24">](api/lists/albania.md)
+[<img src="https://hatscripts.github.io/circle-flags/flags/xk.svg" width="24">](api/lists/kosovo.md)
+[<img src="https://hatscripts.github.io/circle-flags/flags/gr.svg" width="24">](api/lists/greece.md)
+[<img src="https://hatscripts.github.io/circle-flags/flags/cy.svg" width="24">](api/lists/cyprus.md)
+[<img src="https://hatscripts.github.io/circle-flags/flags/ad.svg" width="24">](api/lists/andorra.md)
+[<img src="https://hatscripts.github.io/circle-flags/flags/mt.svg" width="24">](api/lists/malta.md)
+[<img src="https://hatscripts.github.io/circle-flags/flags/mc.svg" width="24">](api/lists/monaco.md)
+[<img src="https://hatscripts.github.io/circle-flags/flags/sm.svg" width="24">](api/lists/san_marino.md)
+[<img src="https://hatscripts.github.io/circle-flags/flags/ir.svg" width="24">](api/lists/iran.md)
+[<img src="https://hatscripts.github.io/circle-flags/flags/iq.svg" width="24">](api/lists/iraq.md)
+[<img src="https://hatscripts.github.io/circle-flags/flags/il.svg" width="24">](api/lists/israel.md)
+[<img src="https://hatscripts.github.io/circle-flags/flags/qa.svg" width="24">](api/lists/qatar.md)
+[<img src="https://hatscripts.github.io/circle-flags/flags/tr.svg" width="24">](api/lists/turkey.md)
+[<img src="https://hatscripts.github.io/circle-flags/flags/ae.svg" width="24">](api/lists/united_arab_emirates.md)
+[<img src="https://hatscripts.github.io/circle-flags/flags/ar.svg" width="24">](api/lists/argentina.md)
+[<img src="https://hatscripts.github.io/circle-flags/flags/cr.svg" width="24">](api/lists/costa_rica.md)
+[<img src="https://hatscripts.github.io/circle-flags/flags/do.svg" width="24">](api/lists/dominican_republic.md)
+[<img src="https://hatscripts.github.io/circle-flags/flags/mx.svg" width="24">](api/lists/mexico.md)
+[<img src="https://hatscripts.github.io/circle-flags/flags/py.svg" width="24">](api/lists/paraguay.md)
+[<img src="https://hatscripts.github.io/circle-flags/flags/pe.svg" width="24">](api/lists/peru.md)
+[<img src="https://hatscripts.github.io/circle-flags/flags/ve.svg" width="24">](api/lists/venezuela.md)
+[<img src="https://hatscripts.github.io/circle-flags/flags/br.svg" width="24">](api/lists/brazil.md)
+[<img src="https://hatscripts.github.io/circle-flags/flags/tt.svg" width="24">](api/lists/trinidad.md)
+[<img src="https://hatscripts.github.io/circle-flags/flags/td.svg" width="24">](api/lists/chad.md)
+[<img src="https://hatscripts.github.io/circle-flags/flags/so.svg" width="24">](api/lists/somalia.md)
+
+
 ## 📖 API使用方法
-将.m3u 导入播放器即可
+1. 下载.m3u 导入本地播放器 即可
+2. URL直接指定
+
+## 📖 电视源有效性检测
+通过iptv-checker，实行自动检测
+https://www.npmjs.com/package/iptv-checker
+
 
 ## 📖 一覧 
 https://cdn.jsdelivr.net/gh/hst1189/iptv/api/
