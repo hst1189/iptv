@@ -32,7 +32,7 @@ jobs:
                 "no-multi-spaces": false,
                 "no-extra-comma": true,
                 "space-before-paren": false,
-                "no-dash": true
+                "no-dash": false
               }
             }
           EOF

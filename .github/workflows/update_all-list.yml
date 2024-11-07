@@ -1,4 +1,4 @@
-name: update all-list for api 
+name: Update all-list for api 
 on:
   workflow_dispatch:
   schedule:
