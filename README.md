@@ -751,4 +751,5 @@ https://cdn.jsdelivr.net/gh/hst1189/iptv/api/
 
 
 ## 感謝：
-- https://github.com/iptv-org/iptv/tree/gh-pages
+- https://github.com/iptv-org/iptv/tree/gh-pages  ※毎日０時更新
+- https://github.com/Free-TV/IPTV                 ※手動更新のよう
