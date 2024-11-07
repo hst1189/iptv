@@ -1,4 +1,4 @@
-name: Build and Deploy
+name: update all-list for api 
 on:
   workflow_dispatch:
   schedule:
