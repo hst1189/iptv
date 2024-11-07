@@ -45,7 +45,7 @@ jobs:
       - name: Copy files 🚚
         run: |
           cd ${GITHUB_WORKSPACE}/local/work/
-          rm -f *
+          rm -rf *
           
           cp -rfp ${GITHUB_WORKSPACE}/remote1/*                 ${GITHUB_WORKSPACE}/local/work/
           
