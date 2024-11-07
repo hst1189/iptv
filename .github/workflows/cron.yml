@@ -13,20 +13,31 @@ jobs:
         with:
           ref: main
           path: local
-      
-      - name: Checkout remote repo 🚀
+
+      - name: Checkout remote repo@iptv-org/iptv 🚀
         uses: actions/checkout@v4
         with:
           repository: iptv-org/iptv
           ref: gh-pages
-          path: remote
-      
+          path: remote1
+
+      - name: Checkout remote repo@Free-TV/IPTV 🚀
+        uses: actions/checkout@v4
+        with:
+          repository: Free-TV/IPTV
+          ref: master
+          path: remote2
+
       - name: Copy files 🚚
         run: |
-          cp -pr ${GITHUB_WORKSPACE}/remote/* ${GITHUB_WORKSPACE}/local/api
+          cp -pr ${GITHUB_WORKSPACE}/remote1/*          ${GITHUB_WORKSPACE}/local/api
+          cp -pr ${GITHUB_WORKSPACE}/remote2/lists      ${GITHUB_WORKSPACE}/local/api
+          cp -pr ${GITHUB_WORKSPACE}/remote2/playlists  ${GITHUB_WORKSPACE}/local/api
+          cp -pr ${GITHUB_WORKSPACE}/remote2/*.txt      ${GITHUB_WORKSPACE}/local/api
+          cp -pr ${GITHUB_WORKSPACE}/remote2/*.m3u8     ${GITHUB_WORKSPACE}/local/api
           # ls -l  ${GITHUB_WORKSPACE}
           # ls -lR ${GITHUB_WORKSPACE}/local
-      
+
       - name: Commit & Push changes 🔥
         uses: Andro999b/push@v1.3
         with:
