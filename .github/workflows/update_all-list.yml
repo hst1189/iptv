@@ -33,7 +33,7 @@ jobs:
           cp -pr ${GITHUB_WORKSPACE}/remote1/*              ${GITHUB_WORKSPACE}/local/work
           cp -pr ${GITHUB_WORKSPACE}/remote2/lists          ${GITHUB_WORKSPACE}/local/work
           cp -pr ${GITHUB_WORKSPACE}/remote2/playlists      ${GITHUB_WORKSPACE}/local/work
-        # cp -pr ${GITHUB_WORKSPACE}/remote2/playlist.m3u8  ${GITHUB_WORKSPACE}/local/work
+          cp -pr ${GITHUB_WORKSPACE}/remote2/playlist.m3u8  ${GITHUB_WORKSPACE}/local/work
 
       - name: Setup Node 📖
         uses: actions/setup-node@v1

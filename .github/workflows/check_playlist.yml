@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  check m3u8:
+  check-m3u8:
     runs-on: ubuntu-latest
 
     steps:
@@ -36,7 +36,7 @@ jobs:
               }
             }
           EOF
-          ls -la ./work || true
+          ls -l ./work || true
           m3u-linter -c ./M3u-linter.config.json ./work/playlist.m3u8
         # m3u-linter -c ./M3u-linter.config.json ./work/index.m3u
         # m3u-linter -c ./M3u-linter.config.json ./work/index.category.m3u
