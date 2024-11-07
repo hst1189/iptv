@@ -2,7 +2,7 @@ name: Check m3u8 file
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 0 * * *'  #毎周日0時実施
+    - cron: '0 0 * * 0'  #毎周日0時実施
 
 jobs:
   check-m3u8:
