@@ -8,65 +8,77 @@ jobs:
   update-all-list:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout local repo 🐾
+      - name: 1-0. Checkout local repo 🐾
         uses: actions/checkout@v4
         with:
           ref: main
           path: local
 
-      - name: Checkout remote repo@iptv-org/iptv 🚀
+      # remote 1
+      - name: 1-1. Checkout remote repo@iptv-org/iptv 🚀
         uses: actions/checkout@v4
         with:
           repository: iptv-org/iptv
           ref: gh-pages
           path: remote1
+      - name: 1-2. Copy files 🚚
+        run: |
+          cd ${GITHUB_WORKSPACE}/local/work/
+          rm -rf *
+          cp -rfp ${GITHUB_WORKSPACE}/remote1/*  ${GITHUB_WORKSPACE}/local/work/
+          ls -lat | sort -s -k 1,1
 
-      - name: Checkout remote repo@Free-TV/IPTV 🚀
+
+      # remote 2
+      - name: 2-1. Checkout remote repo@Free-TV/IPTV 🚀
         uses: actions/checkout@v4
         with:
           repository: Free-TV/IPTV
           ref: master
           path: remote2
+      - name: 2-2. Copy files 🚚
+        run: |
+          cd ${GITHUB_WORKSPACE}/local/work/
+          rm -rf *
+          cp -rfp ${GITHUB_WORKSPACE}/remote2/lists      ${GITHUB_WORKSPACE}/local/api/
+          cp -rfp ${GITHUB_WORKSPACE}/remote2/playlists  ${GITHUB_WORKSPACE}/local/work/   
+          cp -rfp ${GITHUB_WORKSPACE}/remote2/*.m3u*     ${GITHUB_WORKSPACE}/local/work/
+          ls -lat | sort -s -k 1,1
 
-      - name: Checkout remote repo@imDazui/Tvlist-awesome-m3u-m3u8 🚀
+
+      # remote 3
+      - name: 3-1 .Checkout remote repo@imDazui/Tvlist-awesome-m3u-m3u8 🚀
         uses: actions/checkout@v4
         with:
           repository: imDazui/Tvlist-awesome-m3u-m3u8
           ref: master
           path: remote3
+      - name: 3-2. Copy files 🚚
+        run: |
+          cd ${GITHUB_WORKSPACE}/local/work/
+          rm -rf *
+          mkdir   ${GITHUB_WORKSPACE}/local/work/imDazui/
+          cp -rfp ${GITHUB_WORKSPACE}/remote3/m3u/*.m3u*  ${GITHUB_WORKSPACE}/local/work/imDazui/
+          ls -lat | sort -s -k 1,1
 
-      - name: Checkout remote repo@fanmingming/live 🚀
+
+      # remote 4
+      - name: 4-1. Checkout remote repo@fanmingming/live 🚀
         uses: actions/checkout@v4
         with:
           repository: fanmingming/live
           ref: main
           path: remote4
-
-      - name: Copy files 🚚
+      - name: 4-2. Copy files 🚚
         run: |
           cd ${GITHUB_WORKSPACE}/local/work/
           rm -rf *
-          
-          # remote1
-          cp -rfp ${GITHUB_WORKSPACE}/remote1/*                 ${GITHUB_WORKSPACE}/local/work/
-          
-          # remote2
-          cp -rfp ${GITHUB_WORKSPACE}/remote2/lists             ${GITHUB_WORKSPACE}/local/api/
-          cp -rfp ${GITHUB_WORKSPACE}/remote2/playlists         ${GITHUB_WORKSPACE}/local/work/   
-          cp -rfp ${GITHUB_WORKSPACE}/remote2/*.m3u*            ${GITHUB_WORKSPACE}/local/work/
-          
-          # remote3
-          mkdir   ${GITHUB_WORKSPACE}/local/work/imDazui/ 
-          cp -rfp ${GITHUB_WORKSPACE}/remote3/m3u/*.m3u*        ${GITHUB_WORKSPACE}/local/work/imDazui/
-          
-          # remote4
           mkdir   ${GITHUB_WORKSPACE}/local/work/tv/
           mkdir   ${GITHUB_WORKSPACE}/local/work/radio/
           cp -rfp ${GITHUB_WORKSPACE}/remote4/tv/m3u/*.m3u*     ${GITHUB_WORKSPACE}/local/work/tv/
           cp -rfp ${GITHUB_WORKSPACE}/remote4/radio/m3u/*.m3u*  ${GITHUB_WORKSPACE}/local/work/radio/
-          
-          # list all
           ls -lat | sort -s -k 1,1
+
 
       - name: Commit & Push changes 🔥
         uses: Andro999b/push@v1.3
