@@ -47,20 +47,26 @@ jobs:
           cd ${GITHUB_WORKSPACE}/local/work/
           rm -rf *
           
+          # remote1
           cp -rfp ${GITHUB_WORKSPACE}/remote1/*                 ${GITHUB_WORKSPACE}/local/work/
           
+          # remote2
           cp -rfp ${GITHUB_WORKSPACE}/remote2/lists             ${GITHUB_WORKSPACE}/local/api/
           cp -rfp ${GITHUB_WORKSPACE}/remote2/playlists         ${GITHUB_WORKSPACE}/local/work/   
           cp -rfp ${GITHUB_WORKSPACE}/remote2/*.m3u*            ${GITHUB_WORKSPACE}/local/work/
           
-          cp -rfp ${GITHUB_WORKSPACE}/remote3/m3u/*.m3u*        ${GITHUB_WORKSPACE}/local/work/
+          # remote3
+          mkdir   ${GITHUB_WORKSPACE}/local/work/imDazui/ 
+          cp -rfp ${GITHUB_WORKSPACE}/remote3/m3u/*.m3u*        ${GITHUB_WORKSPACE}/local/work/imDazui/
           
+          # remote4
           mkdir   ${GITHUB_WORKSPACE}/local/work/tv/
           mkdir   ${GITHUB_WORKSPACE}/local/work/radio/
           cp -rfp ${GITHUB_WORKSPACE}/remote4/tv/m3u/*.m3u*     ${GITHUB_WORKSPACE}/local/work/tv/
           cp -rfp ${GITHUB_WORKSPACE}/remote4/radio/m3u/*.m3u*  ${GITHUB_WORKSPACE}/local/work/radio/
           
-          ls -l
+          # list all
+          ls -lat | sort -s -k 1,1
 
       - name: Commit & Push changes 🔥
         uses: Andro999b/push@v1.3
