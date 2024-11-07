@@ -31,7 +31,7 @@ jobs:
       - name: Checkout remote repo@imDazui/Tvlist-awesome-m3u-m3u8 🚀
         uses: actions/checkout@v4
         with:
-          repository: Free-TV/IPTV
+          repository: imDazui/Tvlist-awesome-m3u-m3u8
           ref: master
           path: remote3
 
