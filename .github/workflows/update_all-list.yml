@@ -1,11 +1,11 @@
-name: Update all-list for api 
+name: Update all list
 on:
   workflow_dispatch:
   schedule:
     - cron: '0 0 * * *'
 
 jobs:
-  build-and-deploy:
+  update all list:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout local repo 🐾
@@ -30,12 +30,55 @@ jobs:
 
       - name: Copy files 🚚
         run: |
-          cp -pr ${GITHUB_WORKSPACE}/remote1/*              ${GITHUB_WORKSPACE}/local/api
-          cp -pr ${GITHUB_WORKSPACE}/remote2/lists          ${GITHUB_WORKSPACE}/local/api
-          cp -pr ${GITHUB_WORKSPACE}/remote2/playlists      ${GITHUB_WORKSPACE}/local/api
-          cp -pr ${GITHUB_WORKSPACE}/remote2/playlist.m3u8  ${GITHUB_WORKSPACE}/local/api
-          # ls -l  ${GITHUB_WORKSPACE}
-          # ls -lR ${GITHUB_WORKSPACE}/local
+          cp -pr ${GITHUB_WORKSPACE}/remote1/*              ${GITHUB_WORKSPACE}/local/work
+          cp -pr ${GITHUB_WORKSPACE}/remote2/lists          ${GITHUB_WORKSPACE}/local/work
+          cp -pr ${GITHUB_WORKSPACE}/remote2/playlists      ${GITHUB_WORKSPACE}/local/work
+        # cp -pr ${GITHUB_WORKSPACE}/remote2/playlist.m3u8  ${GITHUB_WORKSPACE}/local/work
+
+      - name: Setup Node 📖
+        uses: actions/setup-node@v1
+        with:
+          node-version: "20.10.x"
+
+      - name: Install m3u-linter and check the playlist 📋
+        run: |
+          npm install -g m3u-linter || true
+          cat <<EOF > M3u-linter.config.json
+            {
+              "files": ["playlist1.m3u", "playlist2.m3u"],
+              "rules": {
+                "no-empty-lines": true,
+                "require-header": true,
+                "attribute-quotes": true,
+                "require-info": true,
+                "no-trailing-spaces": true,
+                "no-whitespace-before-title": true,
+                "no-multi-spaces": false,
+                "no-extra-comma": true,
+                "space-before-paren": false,
+                "no-dash": false
+              }
+            }
+          EOF
+          ls -l ./work || true
+          m3u-linter -c ./M3u-linter.config.json ./work/playlist.m3u8
+        # m3u-linter -c ./M3u-linter.config.json ./work/index.m3u
+        # m3u-linter -c ./M3u-linter.config.json ./work/index.category.m3u
+        # m3u-linter -c ./M3u-linter.config.json ./work/index.country.m3u
+        # m3u-linter -c ./M3u-linter.config.json ./work/index.language.m3u
+        # m3u-linter -c ./M3u-linter.config.json ./work/index.region.m3u
+
+      - name: Install IPTV Checker and check the playlist 📋
+        run: |
+          npm install -g iptv-checker || true
+          sudo apt-get install -y ffmpeg
+          iptv-checker -o ./output -p 100 -t 60000 ./work/playlist.m3u8
+        # iptv-checker -o ./output -p 100 -t 60000 ./work/index.m3u
+        # iptv-checker -o ./output -p 100 -t 60000 ./work/index.category.m3u
+        # iptv-checker -o ./output -p 100 -t 60000 ./work/index.country.m3u
+        # iptv-checker -o ./output -p 100 -t 60000 ./work/index.language.m3u
+        # iptv-checker -o ./output -p 100 -t 60000 ./work/index.region.m3u
+
 
       - name: Commit & Push changes 🔥
         uses: Andro999b/push@v1.3
