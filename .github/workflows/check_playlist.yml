@@ -2,12 +2,11 @@ name: Check m3u8 file
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 0 * * 7' #毎周日0時実施
+    - cron: '0 0 * * 7'  #毎周日0時実施
 
 jobs:
   check-m3u8:
     runs-on: ubuntu-latest
-
     steps:
       - name: Checkout code 📖
         uses: actions/checkout@v4
@@ -44,9 +43,8 @@ jobs:
       - name: Install IPTV Checker and check the playlist 📋
         run: |
           npm install -g iptv-checker || true
-          mkdir -p output
           sudo apt-get install -y ffmpeg
-          
+          mkdir -p output
           iptv-checker -o ./output -p 100 -t 60000 ./work/playlist.m3u8
           cp -pr ./output/online.m3u ./api/playlist.m3u8
 
