@@ -68,7 +68,6 @@ jobs:
           ls -lat | sort -s -k 1,1
       - name: 2-3. Check files 🔥
         run: |
-#         m3u-linter -c ${GITHUB_WORKSPACE}/local/M3u-linter.config.json ${GITHUB_WORKSPACE}/local/work/playlist.m3u8
           iptv-checker -o ${GITHUB_WORKSPACE}/local/output -p 100 -t 60000 ${GITHUB_WORKSPACE}/local/work/playlist.m3u8
           cp -pr ${GITHUB_WORKSPACE}/local/output/online.m3u ${GITHUB_WORKSPACE}/local/api/playlist.m3u8
 
@@ -87,6 +86,12 @@ jobs:
 #          mkdir   ${GITHUB_WORKSPACE}/local/work/imDazui/
 #          cp -rfp ${GITHUB_WORKSPACE}/remote3/m3u/*.m3u*  ${GITHUB_WORKSPACE}/local/work/imDazui/
 #          ls -lat | sort -s -k 1,1
+#      - name: 3-3. Check files 🔥
+#        run: |
+#          m3u-linter -c ${GITHUB_WORKSPACE}/local/M3u-linter.config.json ${GITHUB_WORKSPACE}/local/work/playlist.m3u8
+#          iptv-checker -o ${GITHUB_WORKSPACE}/local/output -p 100 -t 60000 ${GITHUB_WORKSPACE}/local/work/playlist.m3u8
+#          cp -pr ${GITHUB_WORKSPACE}/local/output/online.m3u ${GITHUB_WORKSPACE}/local/api/playlist.m3u8
+
 
 
 #      # remote 4
@@ -105,6 +110,11 @@ jobs:
 #          cp -rfp ${GITHUB_WORKSPACE}/remote4/tv/m3u/*.m3u*     ${GITHUB_WORKSPACE}/local/work/tv/
 #          cp -rfp ${GITHUB_WORKSPACE}/remote4/radio/m3u/*.m3u*  ${GITHUB_WORKSPACE}/local/work/radio/
 #          ls -lat | sort -s -k 1,1
+#      - name: 4-3. Check files 🔥
+#        run: |
+#          m3u-linter -c ${GITHUB_WORKSPACE}/local/M3u-linter.config.json ${GITHUB_WORKSPACE}/local/work/playlist.m3u8
+#          iptv-checker -o ${GITHUB_WORKSPACE}/local/output -p 100 -t 60000 ${GITHUB_WORKSPACE}/local/work/playlist.m3u8
+#          cp -pr ${GITHUB_WORKSPACE}/local/output/online.m3u ${GITHUB_WORKSPACE}/local/api/playlist.m3u8
 
 
       - name: Commit & Push changes 🔥
