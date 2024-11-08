@@ -73,13 +73,9 @@ jobs:
             for file in `ls $1`
             do
               echo $1"/"$file
-              if [ -d $1"/"$file ]
-              then
+              if [ -d $1"/"$file ]; then
                   dirwork=$file"/"
-                  echo ${GITHUB_WORKSPACE}/local/api/$file
-                  if [ -d ${GITHUB_WORKSPACE}/local/api/$file ]
-                  then
-                    echo "is dir, need to mkdir"
+                  if [ ! -d ${GITHUB_WORKSPACE}/local/api/$file ]; then
                     mkdir -p ${GITHUB_WORKSPACE}/local/api/$file
                   fi
                   read_dir $1"/"$file
