@@ -76,9 +76,9 @@ jobs:
               then
                   dirwork=$file"/"
                   echo $dirwork
-                  if [ -d ${GITHUB_WORKSPACE}/local/api/$dirwork ]
+                  if [ -d ${GITHUB_WORKSPACE}/local/api/$file ]
                   then
-                    mkdir ${GITHUB_WORKSPACE}/local/api/$dirwork
+                    mkdir ${GITHUB_WORKSPACE}/local/api/$file
                   fi
                   read_dir $1"/"$file
               else
