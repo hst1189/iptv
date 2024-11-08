@@ -74,16 +74,17 @@ jobs:
             do
               if [ -d $1"/"$file ]
               then
-                dirwork=$file"/"
-                echo $dirwork
-                if [ -d ${GITHUB_WORKSPACE}/local/api/$dirwork ]
-                  mkdir ${GITHUB_WORKSPACE}/local/api/$dirwork
-                fi
-                read_dir $1"/"$file
+                  dirwork=$file"/"
+                  echo $dirwork
+                  if [ -d ${GITHUB_WORKSPACE}/local/api/$dirwork ]
+                  then
+                    mkdir ${GITHUB_WORKSPACE}/local/api/$dirwork
+                  fi
+                  read_dir $1"/"$file
               else
-                echo $file
-                iptv-checker -o ${GITHUB_WORKSPACE}/local/output -p 100 -t 60000 $1"/"$file
-                cp -pr ${GITHUB_WORKSPACE}/local/output/online.m3u ${GITHUB_WORKSPACE}/local/api/$dirwork$file
+                  echo $file
+                  iptv-checker -o ${GITHUB_WORKSPACE}/local/output -p 100 -t 60000 $1"/"$file
+                  cp -pr ${GITHUB_WORKSPACE}/local/output/online.m3u ${GITHUB_WORKSPACE}/local/api/$dirwork$file
               fi
             done
           }
