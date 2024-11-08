@@ -72,17 +72,18 @@ jobs:
           function read_dir(){  
             for file in `ls $1`
             do
+              echo $1"/"$file
               if [ -d $1"/"$file ]
               then
                   dirwork=$file"/"
-                  echo $dirwork
+                  echo ${GITHUB_WORKSPACE}/local/api/$file
                   if [ -d ${GITHUB_WORKSPACE}/local/api/$file ]
                   then
+                    echo "is dir, need to mkdir"
                     mkdir -p ${GITHUB_WORKSPACE}/local/api/$file
                   fi
                   read_dir $1"/"$file
               else
-                  echo $file
                   iptv-checker -o ${GITHUB_WORKSPACE}/local/output -p 100 -t 60000 $1"/"$file
                   cp -pr ${GITHUB_WORKSPACE}/local/output/online.m3u ${GITHUB_WORKSPACE}/local/api/$dirwork$file
               fi
