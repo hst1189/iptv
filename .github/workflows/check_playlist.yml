@@ -24,7 +24,12 @@ jobs:
           npm install -g iptv-checker || true
           sudo apt-get install -y ffmpeg
 
-      - name: 2-3. Check files 🔥
+      - name: Checkout local repo 🐾
+        uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - name: Check files 🔥
         run: |
           dirwork=""
           function read_dir(){
