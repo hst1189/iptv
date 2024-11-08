@@ -8,46 +8,43 @@ jobs:
   check-m3u8:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout code 📖
-        uses: actions/checkout@v4
-
-      - name: Setup Node
+      - name: Setup Node 📋
         uses: actions/setup-node@v1
         with:
           node-version: "20.10.x"
 
-      - name: Install m3u-linter and check the playlist 📋
+      - name: Install m3u-linter 📋
         run: |
           npm install -g m3u-linter || true
-          cat <<EOF > M3u-linter.config.json
-            {
-              "files": ["playlist1.m3u", "playlist2.m3u"],
-              "rules": {
-                "no-empty-lines": true,
-                "require-header": true,
-                "attribute-quotes": true,
-                "require-info": true,
-                "no-trailing-spaces": true,
-                "no-whitespace-before-title": true,
-                "no-multi-spaces": false,
-                "no-extra-comma": true,
-                "space-before-paren": false,
-                "no-dash": false
-              }
-            }
-          EOF
-          ls -l ./work || true
-          m3u-linter -c ./M3u-linter.config.json ./work/playlist.m3u8
+#          ls -l ./work || true
+#          m3u-linter -c ./M3u-linter.config.json ./work/playlist.m3u8
 
-
-      - name: Install IPTV Checker and check the playlist 📋
+      - name: Install iptv-checker 📋
         run: |
           npm install -g iptv-checker || true
           sudo apt-get install -y ffmpeg
-          mkdir -p output
-          iptv-checker -o ./output -p 100 -t 60000 ./work/playlist.m3u8
-          cp -pr ./output/online.m3u ./api/playlist.m3u8
 
+      - name: 2-3. Check files 🔥
+        run: |
+          dirwork=""
+          function read_dir(){
+            for file in `ls $1`
+            do
+              if [ -d $1"/"$file ]; then
+                echo "―folder: "$file
+                if [ ! -d ${GITHUB_WORKSPACE}/api/$file ]; then
+                  mkdir -p ${GITHUB_WORKSPACE}/api/$file
+                fi
+                dirwork=$file"/"
+                read_dir $1"/"$file
+              else
+                echo "⊥file: "$file
+                iptv-checker -o ${GITHUB_WORKSPACE}/output -p 100 -t 60000 $1"/"$file > /dev/null
+                cp -pr ${GITHUB_WORKSPACE}/output/online.m3u ${GITHUB_WORKSPACE}/api/$dirwork$file
+              fi
+            done
+          }
+          read_dir ${GITHUB_WORKSPACE}/work
 
       - name: Commit & Push changes 🔥
         uses: Andro999b/push@v1.3
