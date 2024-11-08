@@ -32,15 +32,15 @@ jobs:
             do
               if [ -d $1"/"$file ]; then
                 echo "―folder: "$file
-                if [ ! -d ${GITHUB_WORKSPACE}/api/$file ]; then
-                  mkdir -p ${GITHUB_WORKSPACE}/api/$file
+                if [ ! -d ${GITHUB_WORKSPACE}/docs/$file ]; then
+                  mkdir -p ${GITHUB_WORKSPACE}/docs/$file
                 fi
                 dirwork=$file"/"
                 read_dir $1"/"$file
               else
                 echo "⊥file: "$file
                 iptv-checker -o ${GITHUB_WORKSPACE}/output -p 100 -t 60000 $1"/"$file > /dev/null
-                cp -pr ${GITHUB_WORKSPACE}/output/online.m3u ${GITHUB_WORKSPACE}/api/$dirwork$file
+                cp -pr ${GITHUB_WORKSPACE}/output/online.m3u ${GITHUB_WORKSPACE}/docs/$dirwork$file
               fi
             done
           }
