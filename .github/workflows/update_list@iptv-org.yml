@@ -1,0 +1,74 @@
+name: Update list via@iptv-org/iptv
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 0 * * 1'  #ñàé¸àÍ0éûé¿é{
+
+jobs:
+  update-list:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Setup Node ?
+        uses: actions/setup-node@v1
+        with:
+          node-version: "20.10.x"
+
+      - name: Install m3u-linter ?
+        run: |
+          npm install -g m3u-linter || true
+#         m3u-linter -c ./M3u-linter.config.json ./work/playlist.m3u8
+
+      - name: Install iptv-checker ?
+        run: |
+          npm install -g iptv-checker || true
+          sudo apt-get install -y ffmpeg
+
+      # local
+      - name: 1-0. Checkout local repo ?
+        uses: actions/checkout@v4
+        with:
+          ref: main
+          path: local
+
+      # remote 1
+      - name: 1-1. Checkout remote repo@iptv-org/iptv ?
+        uses: actions/checkout@v4
+        with:
+          repository: iptv-org/iptv
+          ref: gh-pages
+          path: remote1
+      - name: 1-2. Copy files ?
+        run: |
+          cd ${GITHUB_WORKSPACE}/local/work/
+          rm -rf *
+          cp -rfp ${GITHUB_WORKSPACE}/remote1/*  ${GITHUB_WORKSPACE}/local/work/
+          tree -a
+      - name: 1-3. Check files ?
+        run: |
+          dirwork=""
+#          function read_dir(){
+#            for file in `ls $1`
+#            do
+#              if [ -d $1"/"$file ]; then
+#                echo "Å\folder: "$file
+#                if [ ! -d ${GITHUB_WORKSPACE}/docs/$file ]; then
+#                  mkdir -p ${GITHUB_WORKSPACE}/docs/$file
+#                fi
+#                dirwork=$file"/"
+#               read_dir $1"/"$file
+#              else
+#                echo "Å€file: "$file
+          iptv-checker -o ${GITHUB_WORKSPACE}/output -p 100 -t 60000 ${GITHUB_WORKSPACE}/local/work/index.m3u
+          cp -pr ${GITHUB_WORKSPACE}/output/online.m3u ${GITHUB_WORKSPACE}/docs/${dirwork}index.m3u
+#              fi
+#            done
+#          }
+#          read_dir ${GITHUB_WORKSPACE}/work
+
+      - name: Commit & Push changes ?
+        uses: Andro999b/push@v1.3
+        with:
+          branch: main
+          directory: ${{ github.workspace }}/local/
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          message: '? auto publish by bot'
