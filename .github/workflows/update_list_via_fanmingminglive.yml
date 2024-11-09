@@ -48,25 +48,27 @@ jobs:
           tree -a
       - name: 4-3. Check files 🔥
         run: |
-          dirwork=""
-          function read_dir(){
-            for file in `ls $1`
-            do
-              if [ -d $1"/"$file ]; then
-                echo "―folder: "$file
-                if [ ! -d ${GITHUB_WORKSPACE}/local/docs/m3u/$file ]; then
-                  mkdir -p ${GITHUB_WORKSPACE}/local/docs/m3u/$file
-                fi
-                dirwork=$file"/"
-                read_dir $1"/"$file
-              else
-                echo "⊥file: "$file
-                iptv-checker -o ${GITHUB_WORKSPACE}/local/output -p 100 -t 60000 $1"/"$file
-                cp -pr ${GITHUB_WORKSPACE}/local/output/online.m3u ${GITHUB_WORKSPACE}/local/docs/m3u/$dirwork$file
-              fi
-            done
-          }
-          read_dir ${GITHUB_WORKSPACE}/local/work
+          cp -rfp ${GITHUB_WORKSPACE}/local/work/*  ${GITHUB_WORKSPACE}/local/docs/m3u
+
+#          dirwork=""
+#          function read_dir(){
+#            for file in `ls $1`
+#            do
+#              if [ -d $1"/"$file ]; then
+#                echo "―folder: "$file
+#                if [ ! -d ${GITHUB_WORKSPACE}/local/docs/m3u/$file ]; then
+#                  mkdir -p ${GITHUB_WORKSPACE}/local/docs/m3u/$file
+#                fi
+#                dirwork=$file"/"
+#                read_dir $1"/"$file
+#              else
+#                echo "⊥file: "$file
+#                iptv-checker -o ${GITHUB_WORKSPACE}/local/output -p 100 -t 60000 $1"/"$file
+#                cp -pr ${GITHUB_WORKSPACE}/local/output/online.m3u ${GITHUB_WORKSPACE}/local/docs/m3u/$dirwork$file
+#              fi
+#            done
+#          }
+#          read_dir ${GITHUB_WORKSPACE}/local/work
 
       - name: Commit & Push changes 🔥
         uses: Andro999b/push@v1.3
