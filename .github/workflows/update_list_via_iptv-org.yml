@@ -45,17 +45,10 @@ jobs:
           tree -a
       - name: 1-3. Check files 🔥
         run: |
-#          iptv-checker -o ${GITHUB_WORKSPACE}/local/output -p 100 -t 60000 ${GITHUB_WORKSPACE}/local/work/index.category.m3u
           cp -pr ${GITHUB_WORKSPACE}/local/work/index.category.m3u ${GITHUB_WORKSPACE}/local/docs/m3u/index.category.m3u
-
-#          iptv-checker -o ${GITHUB_WORKSPACE}/local/output -p 100 -t 60000 ${GITHUB_WORKSPACE}/local/work/index.country.m3u
-          cp -pr ${GITHUB_WORKSPACE}/local/work/index.country.m3u ${GITHUB_WORKSPACE}/local/docs/m3u/index.country.m3u
-
-#          iptv-checker -o ${GITHUB_WORKSPACE}/local/output -p 100 -t 60000 ${GITHUB_WORKSPACE}/local/work/index.language.m3u
+          cp -pr ${GITHUB_WORKSPACE}/local/work/index.country.m3u  ${GITHUB_WORKSPACE}/local/docs/m3u/index.country.m3u
           cp -pr ${GITHUB_WORKSPACE}/local/work/index.language.m3u ${GITHUB_WORKSPACE}/local/docs/m3u/index.language.m3u
-
-#          iptv-checker -o ${GITHUB_WORKSPACE}/local/output -p 100 -t 60000 ${GITHUB_WORKSPACE}/local/work/index.m3u
-          cp -pr ${GITHUB_WORKSPACE}/local/work/index.m3u ${GITHUB_WORKSPACE}/local/docs/m3u/index.m3u
+          cp -pr ${GITHUB_WORKSPACE}/local/work/index.m3u          ${GITHUB_WORKSPACE}/local/docs/m3u/index.m3u
 
 
           if [ ! -d ${GITHUB_WORKSPACE}/local/docs/m3u/countries ]; then
