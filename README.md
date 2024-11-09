@@ -862,8 +862,16 @@ https://cdn.jsdelivr.net/gh/hst1189/iptv/api/
 
 
 ## 📖 收集来源：
+
+### m3u
 - https://github.com/iptv-org/iptv/tree/gh-pages        ※全球电视台 - 毎日０時更新
 - https://github.com/Free-TV/IPTV                       ※全球电视台 - 不定期更新（貌似手動更新）
-- https://github.com/imDazui/Tvlist-awesome-m3u-m3u8/   ※超多中文电视台 - 不定期更新（很久未更新了）
+- https://github.com/imDazui/Tvlist-awesome-m3u-m3u8/   ※超多中文电视台 - 不定期更新（貌似很久未更新了）
 - https://github.com/fanmingming/live/                  ※超多中文电视台 - 不定期更新（貌似手動更新）
-- https://xmltv.tvkaista.net/                           ※EPG
+
+### EPG
+- https://github.com/iptv-org/epg/tree/master/sites     ※各国EPG网站 - 不定期更新（貌似手動更新）
+- https://xmltv.tvkaista.net/                           ※各国EPG网站 - 不定期更新（iptv-org 源）
+- https://xmltv.tvkaista.net/guides/tv.cctv.com.xml     ※中国电视台EPG - 不定期更新
+- https://epg.112114.xyz/pp.xml                         ※中国电视台EPG - 毎日０時更新
+- https://epg.112114.xyz/epginfo                        ※中国电视台EPG - 毎日０時更新
