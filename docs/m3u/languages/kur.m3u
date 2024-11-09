@@ -1,0 +1,64 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="AfarinTV.iq" tvg-logo="https://i.imgur.com/6MnXD7g.png" group-title="Kids",Afarin TV (720p) [Not 24/7]
+https://5ab29cc78f681.streamlock.net/afarinTV/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="AmozhgaryTV.iq" tvg-logo="https://i.imgur.com/sseqFsO.png" group-title="Religious",Amozhgary TV (1080p)
+https://media.streambrothers.com:1936/8248/8248/playlist.m3u8
+#EXTINF:-1 tvg-id="AryenTV.se" tvg-logo="https://i.imgur.com/hIhzT7t.png" group-title="Undefined",Aryen TV (1080p) [Not 24/7]
+https://aryen.tv/live/tv/playlist.m3u8
+#EXTINF:-1 tvg-id="BaharTV.af" tvg-logo="https://bahartv-af.com/wp-content/uploads/2017/01/IMG_1864-2.png" group-title="General",Bahar TV (720p) [Not 24/7]
+https://59d39900ebfb8.streamlock.net/bahartv/bahartv/playlist.m3u8
+#EXTINF:-1 tvg-id="Channel8.iq" tvg-logo="https://static.wikia.nocookie.net/haribosky/images/b/bd/Channel_8_Logo_PNG.png/revision/latest?cb=20211023173015" group-title="News",Channel 8 Kurdish (720p)
+https://live.channel8.com/Channel8-Kurdish/index.fmp4.m3u8
+#EXTINF:-1 tvg-id="CiraTV.de" tvg-logo="https://i.imgur.com/YFnmSLW.png" group-title="Undefined",Cira TV
+https://cira-tv.akamaized.net/hls/stream_0.m3u8
+#EXTINF:-1 tvg-id="GaliKurdistan.iq" tvg-logo="https://i.imgur.com/Jd9DywP.png" group-title="News",Gali Kurdistan (720p) [Not 24/7]
+https://live.bradosti.net/live/GaliKurdistan_playlist.m3u8
+#EXTINF:-1 tvg-id="JinTV.nl" tvg-logo="https://i.imgur.com/37ajg2j.png" group-title="Culture",Jin TV
+https://live.jintv.org/medialive/jintv.m3u8
+#EXTINF:-1 tvg-id="KomalaTV.se" tvg-logo="https://i.imgur.com/D6KBLB8.png" group-title="Culture",Komala TV (1080p)
+https://live.tvkomala.com/live/komala/playlist.m3u8
+#EXTINF:-1 tvg-id="KurdChannel.iq" tvg-logo="https://i.imgur.com/xPwzad9.png" group-title="Undefined",Kurd Channel (480p)
+https://kurd-channel.ikoflix.com/hls/stream_2.m3u8
+#EXTINF:-1 tvg-id="Kurdistan24.iq" tvg-logo="https://i.imgur.com/9QWs2ms.png" group-title="News",Kurdistan 24 (720p)
+https://d1x82nydcxndze.cloudfront.net/live/index.m3u8
+#EXTINF:-1 tvg-id="KurdistanTV.iq" tvg-logo="https://i.imgur.com/mjQptpc.png" group-title="General",Kurdistan TV (720p) [Not 24/7]
+https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="KurdMaxShow.iq" tvg-logo="https://i.imgur.com/XTmyGmL.png" group-title="Entertainment",KurdMax Show (720p)
+https://6476e46b58f91.streamlock.net/liveTrans/SHOW1/playlist.m3u8
+#EXTINF:-1 tvg-id="Kurdsat.iq" tvg-logo="https://i.imgur.com/UAbSwYA.png" group-title="Entertainment",Kurdsat HD
+https://kurdsat.akamaized.net/hls/stream_0.m3u8
+#EXTINF:-1 tvg-id="MedMuzik.tr" tvg-logo="https://i.imgur.com/gtUFmCD.png" group-title="Undefined",Med Muzik (720p)
+https://med-musik.icdndhcp.com/live3/live3.m3u8
+#EXTINF:-1 tvg-id="NRTTV.iq" tvg-logo="https://i.imgur.com/uGKGtbW.png" group-title="Undefined",NRT TV (720p) [Not 24/7]
+https://media.streambrothers.com:1936/8226/8226/playlist.m3u8
+#EXTINF:-1 tvg-id="NUBARPlusPlus.iq" tvg-logo="https://i.ibb.co/XpgWb6B/IMG-20230628-140407.jpg" group-title="Entertainment",NUBAR Plus TV (720p)
+http://stream.nubar.tv:1935/private/NUBARPlus/playlist.m3u8
+#EXTINF:-1 tvg-id="PayamTV.iq" tvg-logo="https://i.imgur.com/qySEibb.png" group-title="Undefined",Payam TV (720p) [Not 24/7]
+https://5ab29cc78f681.streamlock.net/PayamTV/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="4KurdHD.fr" tvg-logo="https://i.imgur.com/xy7W0wD.png" group-title="Music",Persiana 4Kurd
+https://4kuhls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="RojavaTV.sy" tvg-logo="https://i.imgur.com/42noysO.png" group-title="Undefined",Rojava TV
+https://rojava-tv.akamaized.net/hls/rojava-tv.m3u8
+#EXTINF:-1 tvg-id="RonahiTV.sy" tvg-logo="https://i.imgur.com/JSvJpD8.png" group-title="Undefined",Ronahi TV
+https://ronahi-tv.akamaized.net/hls/ronahi-tv.m3u8
+#EXTINF:-1 tvg-id="RudawTV.iq" tvg-logo="https://i.imgur.com/Zo3IWOn.png" group-title="News",Rudaw TV (1080p)
+https://svs.itworkscdn.net/rudawlive/rudawlive.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="SpedaTV.iq" tvg-logo="https://i.imgur.com/va3TVSd.jpg" group-title="Undefined",Speda TV (720p)
+https://speda.dwasat.com/upload/images/spedahd.m3u8
+#EXTINF:-1 tvg-id="QuranTV.iq" tvg-logo="https://i.ibb.co/qjsV044/IMG-20230628-141804.jpg" group-title="Religious",SPI Quran (720p)
+https://cdn1.karwan.tv/spi-quran/index.m3u8
+#EXTINF:-1 tvg-id="SPITV.iq" tvg-logo="https://i.ibb.co/sjQMzjf/IMG-20230628-141212.jpg" group-title="Undefined",SPI TV (720p)
+https://cdn1.karwan.tv/spi-tv/index.m3u8
+#EXTINF:-1 tvg-id="SterkTV.be" tvg-logo="https://i.imgur.com/bIheNAI.png" group-title="News",Stêrk TV (1080p)
+https://muzkurd.com/sterktv/sterk/playlist.m3u8
+#EXTINF:-1 tvg-id="TRTKurdi.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/TRT_Kurd%C3%AE_logo.svg/512px-TRT_Kurd%C3%AE_logo.svg.png" group-title="Undefined",TRT Kurdî (720p)
+https://tv-trtkurdi.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="WaarTV.iq" tvg-logo="https://i.imgur.com/rK0y02d.png" group-title="Undefined",Waar TV
+https://ca-rt.onetv.app/Waar/index-0.m3u8
+#EXTINF:-1 tvg-id="ZarokTV.tr" tvg-logo="https://i.imgur.com/o0eevnb.png" group-title="Undefined",Zarok TV (720p)
+https://zindikurmanci.zaroktv.com.tr/hls/stream.m3u8
+#EXTINF:-1 tvg-id="ZarokTV.iq" tvg-logo="https://i.imgur.com/o0eevnb.png" group-title="Animation;Education;Family;Kids;Music",Zarok TV Sorani (720p)
+https://zindisorani.zaroktv.com.tr/hls/stream.m3u8
+#EXTINF:-1 tvg-id="ZoomNews.us" tvg-logo="https://t4.ftcdn.net/jpg/03/88/22/21/360_F_388222175_D6PTsMoUyegpPJ63zvkecPsZAttc95mD.jpg" group-title="News",Zoom TV Kurdish (720p)
+#EXTVLCOPT:http-referrer=https://zoomnews.info/
+https://live.zoomnews.info/live/Zoom_playlist.m3u8
