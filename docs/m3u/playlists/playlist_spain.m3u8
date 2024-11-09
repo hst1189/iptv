@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="24h" tvg-logo="https://i.imgur.com/ZKR2jKr.png" tvg-id="24h.es" group-title="Spain",24h
+https://rtvelivestream-clnx.rtve.es/rtvesec/24h/24h_main_720.m3u8
+#EXTINF:-1 tvg-name="EITB1" tvg-logo="https://i.imgur.com/VBVu2bu.png" tvg-id="ETB1.es" group-title="Spain",EITB1
+https://multimedia.eitb.eus/live-content/etb1hd-hls/bitrate_4.m3u8
+#EXTINF:-1 tvg-name="EITB2" tvg-logo="https://i.imgur.com/VBVu2bu.png" tvg-id="ETB2.es" group-title="Spain",EITB2
+https://multimedia.eitb.eus/live-content/etb2hd-hls/bitrate_4.m3u8
+#EXTINF:-1 tvg-name="Aragón TV" tvg-logo="https://i.imgur.com/8H3Q07b.png" tvg-id="AragonTV.es" group-title="Spain",Aragón TV
+https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8

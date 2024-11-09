@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="Sor TV" tvg-logo="https://i.imgur.com/BcfZgD8.png" tvg-id="SorTV.md" group-title="Moldova",Sor TV
+http://188.237.212.16:8888/live/cameraFeed.m3u8

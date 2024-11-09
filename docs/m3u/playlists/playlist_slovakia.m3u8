@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="Senzi" tvg-logo="https://i.imgur.com/W82dwzf.png" tvg-id="Senzi.sk" group-title="Slovakia",Senzi
+http://lb.streaming.sk/senzi/stream/playlist.m3u8
