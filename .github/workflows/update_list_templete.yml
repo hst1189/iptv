@@ -1,4 +1,4 @@
-name: Update list via xxx
+name: Update list via xxx_templete
 on:
   workflow_dispatch:
   schedule:
@@ -66,6 +66,7 @@ jobs:
 #            done
 #          }
 #          read_dir ${GITHUB_WORKSPACE}/local/work
+          tree -a ${GITHUB_WORKSPACE}/local/docs
 
       - name: Commit & Push changes 🔥
         uses: Andro999b/push@v1.3
