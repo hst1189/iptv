@@ -1,8 +1,8 @@
-name: Update list via Free-TV
+name: Update list via fanmingminglive
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 0 * * 2'  #毎周二0時実施
+    - cron: '0 0 * * 4'  #毎周四0時実施
 
 jobs:
   update-list:
@@ -30,23 +30,23 @@ jobs:
           ref: main
           path: local
 
-      # remote 2
-      - name: 2-1. Checkout remote repo@Free-TV/IPTV 🚀
+      # remote 4
+      - name: 4-1. Checkout remote repo@fanmingming/live 🚀
         uses: actions/checkout@v4
         with:
-          repository: Free-TV/IPTV
-          ref: master
-          path: remote2
-      - name: 2-2. Copy files 🚚
+          repository: fanmingming/live
+          ref: main
+          path: remote4
+      - name: 4-2. Copy files 🚚
         run: |
           cd ${GITHUB_WORKSPACE}/local/work/
           rm -rf *
-          cp -rfp ${GITHUB_WORKSPACE}/remote2/epglist.txt   ${GITHUB_WORKSPACE}/local/docs/
-          cp -rfp ${GITHUB_WORKSPACE}/remote2/lists         ${GITHUB_WORKSPACE}/local/docs/
-          cp -rfp ${GITHUB_WORKSPACE}/remote2/playlists     ${GITHUB_WORKSPACE}/local/work/
-          cp -rfp ${GITHUB_WORKSPACE}/remote2/playlist.m3u8 ${GITHUB_WORKSPACE}/local/work/
+          mkdir   ${GITHUB_WORKSPACE}/local/work/fanmingming-tv/
+          mkdir   ${GITHUB_WORKSPACE}/local/work/fanmingming-radio/
+          cp -rfp ${GITHUB_WORKSPACE}/remote4/tv/m3u/*.m3u*     ${GITHUB_WORKSPACE}/local/work/fanmingming-tv/
+          cp -rfp ${GITHUB_WORKSPACE}/remote4/radio/m3u/*.m3u*  ${GITHUB_WORKSPACE}/local/work/fanmingming-radio/
           tree -a
-      - name: 2-3. Check files 🔥
+      - name: 4-3. Check files 🔥
         run: |
           dirwork=""
           function read_dir(){

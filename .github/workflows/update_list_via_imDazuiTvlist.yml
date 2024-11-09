@@ -1,8 +1,8 @@
-name: Update list via Free-TV
+name: Update list via imDazuiTvlist
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 0 * * 2'  #毎周二0時実施
+    - cron: '0 0 * * 3'  #毎周三0時実施
 
 jobs:
   update-list:
@@ -30,23 +30,21 @@ jobs:
           ref: main
           path: local
 
-      # remote 2
-      - name: 2-1. Checkout remote repo@Free-TV/IPTV 🚀
+      # remote 3
+      - name: 3-1 .Checkout remote repo@imDazui/Tvlist-awesome-m3u-m3u8 🚀
         uses: actions/checkout@v4
         with:
-          repository: Free-TV/IPTV
+          repository: imDazui/Tvlist-awesome-m3u-m3u8
           ref: master
-          path: remote2
-      - name: 2-2. Copy files 🚚
+          path: remote3
+      - name: 3-2. Copy files 🚚
         run: |
           cd ${GITHUB_WORKSPACE}/local/work/
           rm -rf *
-          cp -rfp ${GITHUB_WORKSPACE}/remote2/epglist.txt   ${GITHUB_WORKSPACE}/local/docs/
-          cp -rfp ${GITHUB_WORKSPACE}/remote2/lists         ${GITHUB_WORKSPACE}/local/docs/
-          cp -rfp ${GITHUB_WORKSPACE}/remote2/playlists     ${GITHUB_WORKSPACE}/local/work/
-          cp -rfp ${GITHUB_WORKSPACE}/remote2/playlist.m3u8 ${GITHUB_WORKSPACE}/local/work/
+          mkdir   ${GITHUB_WORKSPACE}/local/work/imDazui/
+          cp -rfp ${GITHUB_WORKSPACE}/remote3/m3u/*.m3u*  ${GITHUB_WORKSPACE}/local/work/imDazui/
           tree -a
-      - name: 2-3. Check files 🔥
+      - name: 3-3. Check files 🔥
         run: |
           dirwork=""
           function read_dir(){
