@@ -45,7 +45,7 @@ jobs:
           tree -a
       - name: 1-3. Check files 🔥
         run: |
-          cp -rfp ${GITHUB_WORKSPACE}/local/work/*  ${GITHUB_WORKSPACE}/local/docs/
+          cp -rfp ${GITHUB_WORKSPACE}/local/work/*  ${GITHUB_WORKSPACE}/local/docs/m3u
 
 #          dirwork=""
 #          function read_dir(){

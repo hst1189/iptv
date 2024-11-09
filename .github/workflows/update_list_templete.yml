@@ -1,4 +1,4 @@
-name: Update list via xxx
+name: Update list via templete
 on:
   workflow_dispatch:
   schedule:
