@@ -1,74 +1,77 @@
-name: Update list via@iptv-org/iptv
+name: Update list via iptv-org
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 0 * * 1'  #–ˆŽüˆê0ŽžŽÀŽ{
+    - cron: '0 0 * * 1'  #æ¯Žå‘¨ä¸€0æ™‚å®Ÿæ–½
 
 jobs:
   update-list:
     runs-on: ubuntu-latest
     steps:
-      - name: Setup Node ?
+      - name: Setup Node ðŸ“‹
         uses: actions/setup-node@v1
         with:
           node-version: "20.10.x"
 
-      - name: Install m3u-linter ?
+      - name: Install m3u-linter ðŸ“‹
         run: |
           npm install -g m3u-linter || true
 #         m3u-linter -c ./M3u-linter.config.json ./work/playlist.m3u8
 
-      - name: Install iptv-checker ?
+      - name: Install iptv-checker ðŸ“‹
         run: |
           npm install -g iptv-checker || true
           sudo apt-get install -y ffmpeg
 
       # local
-      - name: 1-0. Checkout local repo ?
+      - name: 1-0. Checkout local repo ðŸ¾
         uses: actions/checkout@v4
         with:
           ref: main
           path: local
 
       # remote 1
-      - name: 1-1. Checkout remote repo@iptv-org/iptv ?
+      - name: 1-1. Checkout remote repo@iptv-org/iptv ðŸš€
         uses: actions/checkout@v4
         with:
           repository: iptv-org/iptv
           ref: gh-pages
           path: remote1
-      - name: 1-2. Copy files ?
+      - name: 1-2. Copy files ðŸšš
         run: |
           cd ${GITHUB_WORKSPACE}/local/work/
           rm -rf *
           cp -rfp ${GITHUB_WORKSPACE}/remote1/*  ${GITHUB_WORKSPACE}/local/work/
           tree -a
-      - name: 1-3. Check files ?
+      - name: 1-3. Check files ðŸ”¥
         run: |
-          dirwork=""
+          iptv-checker -o ${GITHUB_WORKSPACE}/local/output -p 100 -t 60000 ${GITHUB_WORKSPACE}/local/work/index.m3u
+          cp -pr ${GITHUB_WORKSPACE}/local/output/online.m3u ${GITHUB_WORKSPACE}/local/docs/index.m3u
+        
+#          dirwork=""
 #          function read_dir(){
 #            for file in `ls $1`
 #            do
 #              if [ -d $1"/"$file ]; then
-#                echo "\folder: "$file
+#                echo "â€•folder: "$file
 #                if [ ! -d ${GITHUB_WORKSPACE}/docs/$file ]; then
 #                  mkdir -p ${GITHUB_WORKSPACE}/docs/$file
 #                fi
 #                dirwork=$file"/"
-#               read_dir $1"/"$file
+#                read_dir $1"/"$file
 #              else
-#                echo "Ûfile: "$file
-          iptv-checker -o ${GITHUB_WORKSPACE}/output -p 100 -t 60000 ${GITHUB_WORKSPACE}/local/work/index.m3u
-          cp -pr ${GITHUB_WORKSPACE}/output/online.m3u ${GITHUB_WORKSPACE}/docs/${dirwork}index.m3u
+#                echo "âŠ¥file: "$file
+#                iptv-checker -o ${GITHUB_WORKSPACE}/output -p 100 -t 60000 $1"/"$file > /dev/null
+#                cp -pr ${GITHUB_WORKSPACE}/output/online.m3u ${GITHUB_WORKSPACE}/docs/$dirwork$file
 #              fi
 #            done
 #          }
 #          read_dir ${GITHUB_WORKSPACE}/work
 
-      - name: Commit & Push changes ?
+      - name: Commit & Push changes ðŸ”¥
         uses: Andro999b/push@v1.3
         with:
           branch: main
           directory: ${{ github.workspace }}/local/
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          message: '? auto publish by bot'
+          message: 'ðŸš€ auto publish by bot'

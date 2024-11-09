@@ -1,11 +1,11 @@
-name: Update all list
+name: Update list via xxx
 on:
   workflow_dispatch:
   schedule:
     - cron: '0 0 * * 6'  #毎周六0時実施
 
 jobs:
-  update-all-list:
+  update-list:
     runs-on: ubuntu-latest
     steps:
       - name: Setup Node 📋
@@ -16,7 +16,7 @@ jobs:
       - name: Install m3u-linter 📋
         run: |
           npm install -g m3u-linter || true
-#          m3u-linter -c ./M3u-linter.config.json ./work/playlist.m3u8
+#         m3u-linter -c ./M3u-linter.config.json ./work/playlist.m3u8
 
       - name: Install iptv-checker 📋
         run: |
@@ -30,21 +30,24 @@ jobs:
           ref: main
           path: local
 
-#      # remote 1
-#      - name: 1-1. Checkout remote repo@iptv-org/iptv 🚀
-#        uses: actions/checkout@v4
-#        with:
-#          repository: iptv-org/iptv
-#          ref: gh-pages
-#          path: remote1
-#      - name: 1-2. Copy files 🚚
-#        run: |
-#          cd ${GITHUB_WORKSPACE}/local/work/
-#          rm -rf *
-#          cp -rfp ${GITHUB_WORKSPACE}/remote1/*  ${GITHUB_WORKSPACE}/local/work/
-#          ls -lat | sort -s -k 1,1
-#      - name: 1-3. Check files 🔥
-#        run: |
+      # remote 1
+      - name: 1-1. Checkout remote repo@iptv-org/iptv 🚀
+        uses: actions/checkout@v4
+        with:
+          repository: iptv-org/iptv
+          ref: gh-pages
+          path: remote1
+      - name: 1-2. Copy files 🚚
+        run: |
+          cd ${GITHUB_WORKSPACE}/local/work/
+          rm -rf *
+          cp -rfp ${GITHUB_WORKSPACE}/remote1/*  ${GITHUB_WORKSPACE}/local/work/
+          tree -a
+      - name: 1-3. Check files 🔥
+        run: |
+          iptv-checker -o ${GITHUB_WORKSPACE}/local/output -p 100 -t 60000 ${GITHUB_WORKSPACE}/local/work/index.m3u
+          cp -pr ${GITHUB_WORKSPACE}/local/output/online.m3u ${GITHUB_WORKSPACE}/docs/index.m3u
+        
 #          dirwork=""
 #          function read_dir(){
 #            for file in `ls $1`
@@ -79,7 +82,7 @@ jobs:
           cp -rfp ${GITHUB_WORKSPACE}/remote2/lists      ${GITHUB_WORKSPACE}/local/docs/
           cp -rfp ${GITHUB_WORKSPACE}/remote2/playlists  ${GITHUB_WORKSPACE}/local/work/
           cp -rfp ${GITHUB_WORKSPACE}/remote2/*.m3u*     ${GITHUB_WORKSPACE}/local/work/
-          ls -lat | sort -s -k 1,1
+          tree -a
       - name: 2-3. Check files 🔥
         run: |
           dirwork=""
@@ -116,7 +119,7 @@ jobs:
           rm -rf *
           mkdir   ${GITHUB_WORKSPACE}/local/work/imDazui/
           cp -rfp ${GITHUB_WORKSPACE}/remote3/m3u/*.m3u*  ${GITHUB_WORKSPACE}/local/work/imDazui/
-          ls -lat | sort -s -k 1,1
+          tree -a
       - name: 3-3. Check files 🔥
         run: |
           dirwork=""
@@ -154,7 +157,7 @@ jobs:
           mkdir   ${GITHUB_WORKSPACE}/local/work/radio/
           cp -rfp ${GITHUB_WORKSPACE}/remote4/tv/m3u/*.m3u*     ${GITHUB_WORKSPACE}/local/work/tv/
           cp -rfp ${GITHUB_WORKSPACE}/remote4/radio/m3u/*.m3u*  ${GITHUB_WORKSPACE}/local/work/radio/
-          ls -lat | sort -s -k 1,1
+          tree -a
       - name: 4-3. Check files 🔥
         run: |
           dirwork=""
