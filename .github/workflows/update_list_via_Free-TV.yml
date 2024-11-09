@@ -16,7 +16,7 @@ jobs:
       - name: Install m3u-linter 📋
         run: |
           npm install -g m3u-linter || true
-#         m3u-linter -c ./M3u-linter.config.json ./work/playlist.m3u8
+#         m3u-linter -c ./m3u-linter.config.json ./work/playlist.m3u8
 
       - name: Install iptv-checker 📋
         run: |
@@ -41,7 +41,6 @@ jobs:
         run: |
           cd ${GITHUB_WORKSPACE}/local/work/
           rm -rf *
-          cp -rfp ${GITHUB_WORKSPACE}/remote2/epglist.txt   ${GITHUB_WORKSPACE}/local/docs/
           cp -rfp ${GITHUB_WORKSPACE}/remote2/lists         ${GITHUB_WORKSPACE}/local/docs/
           cp -rfp ${GITHUB_WORKSPACE}/remote2/playlists     ${GITHUB_WORKSPACE}/local/work/
           cp -rfp ${GITHUB_WORKSPACE}/remote2/playlist.m3u8 ${GITHUB_WORKSPACE}/local/work/
