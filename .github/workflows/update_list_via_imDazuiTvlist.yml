@@ -47,7 +47,7 @@ jobs:
       - name: 3-3. Check files 🔥
         run: |
           cp -rfp ${GITHUB_WORKSPACE}/local/work/*  ${GITHUB_WORKSPACE}/local/docs/m3u
-
+          tree -a ${GITHUB_WORKSPACE}/local/docs
 #          dirwork=""
 #          function read_dir(){
 #            for file in `ls $1`
@@ -67,7 +67,7 @@ jobs:
 #            done
 #          }
 #          read_dir ${GITHUB_WORKSPACE}/local/work
-          tree -a ${GITHUB_WORKSPACE}/local/docs
+#          tree -a ${GITHUB_WORKSPACE}/local/docs
 
       - name: Commit & Push changes 🔥
         uses: Andro999b/push@v1.3
