@@ -870,8 +870,8 @@ https://cdn.jsdelivr.net/gh/hst1189/iptv/api/
 - https://github.com/fanmingming/live/                  ※超多中文电视台 - 不定期更新（貌似手動更新）
 
 ### EPG
-- https://github.com/iptv-org/epg/tree/master/sites     ※各国EPG网站 - 不定期更新（貌似手動更新）
-- https://xmltv.tvkaista.net/                           ※各国EPG网站 - 不定期更新（iptv-org 源）
+- https://github.com/iptv-org/epg/tree/master/sites     ※各国EPG - 不定期更新（貌似手動更新）
+- https://xmltv.tvkaista.net/                           ※各国EPG - 不定期更新（实际用的是 iptv-org ）
 - https://xmltv.tvkaista.net/guides/tv.cctv.com.xml     ※中国电视台EPG - 不定期更新
 - https://epg.112114.xyz/pp.xml                         ※中国电视台EPG - 毎日０時更新
 - https://epg.112114.xyz/epginfo                        ※中国电视台EPG - 毎日０時更新
