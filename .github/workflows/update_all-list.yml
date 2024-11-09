@@ -8,6 +8,20 @@ jobs:
   update-all-list:
     runs-on: ubuntu-latest
     steps:
+      - name: Setup Node 📋
+        uses: actions/setup-node@v1
+        with:
+          node-version: "20.10.x"
+
+      - name: Install m3u-linter 📋
+        run: |
+          npm install -g m3u-linter || true
+#          m3u-linter -c ./M3u-linter.config.json ./work/playlist.m3u8
+
+      - name: Install iptv-checker 📋
+        run: |
+          npm install -g iptv-checker || true
+          sudo apt-get install -y ffmpeg
 
       # local
       - name: 1-0. Checkout local repo 🐾
@@ -16,20 +30,40 @@ jobs:
           ref: main
           path: local
 
-      # remote 1
-      - name: 1-1. Checkout remote repo@iptv-org/iptv 🚀
-        uses: actions/checkout@v4
-        with:
-          repository: iptv-org/iptv
-          ref: gh-pages
-          path: remote1
-      - name: 1-2. Copy files 🚚
-        run: |
-          cd ${GITHUB_WORKSPACE}/local/work/
-          rm -rf *
-          cp -rfp ${GITHUB_WORKSPACE}/remote1/*  ${GITHUB_WORKSPACE}/local/work/
-          ls -lat | sort -s -k 1,1
-
+#      # remote 1
+#      - name: 1-1. Checkout remote repo@iptv-org/iptv 🚀
+#        uses: actions/checkout@v4
+#        with:
+#          repository: iptv-org/iptv
+#          ref: gh-pages
+#          path: remote1
+#      - name: 1-2. Copy files 🚚
+#        run: |
+#          cd ${GITHUB_WORKSPACE}/local/work/
+#          rm -rf *
+#          cp -rfp ${GITHUB_WORKSPACE}/remote1/*  ${GITHUB_WORKSPACE}/local/work/
+#          ls -lat | sort -s -k 1,1
+#      - name: 1-3. Check files 🔥
+#        run: |
+#          dirwork=""
+#          function read_dir(){
+#            for file in `ls $1`
+#            do
+#              if [ -d $1"/"$file ]; then
+#                echo "―folder: "$file
+#                if [ ! -d ${GITHUB_WORKSPACE}/docs/$file ]; then
+#                  mkdir -p ${GITHUB_WORKSPACE}/docs/$file
+#                fi
+#                dirwork=$file"/"
+#                read_dir $1"/"$file
+#              else
+#                echo "⊥file: "$file
+#                iptv-checker -o ${GITHUB_WORKSPACE}/output -p 100 -t 60000 $1"/"$file > /dev/null
+#                cp -pr ${GITHUB_WORKSPACE}/output/online.m3u ${GITHUB_WORKSPACE}/docs/$dirwork$file
+#              fi
+#            done
+#          }
+#          read_dir ${GITHUB_WORKSPACE}/work
 
       # remote 2
       - name: 2-1. Checkout remote repo@Free-TV/IPTV 🚀
@@ -42,10 +76,31 @@ jobs:
         run: |
           cd ${GITHUB_WORKSPACE}/local/work/
           rm -rf *
-          cp -rfp ${GITHUB_WORKSPACE}/remote2/lists      ${GITHUB_WORKSPACE}/local/api/
+          cp -rfp ${GITHUB_WORKSPACE}/remote2/lists      ${GITHUB_WORKSPACE}/local/docs/
           cp -rfp ${GITHUB_WORKSPACE}/remote2/playlists  ${GITHUB_WORKSPACE}/local/work/
           cp -rfp ${GITHUB_WORKSPACE}/remote2/*.m3u*     ${GITHUB_WORKSPACE}/local/work/
           ls -lat | sort -s -k 1,1
+      - name: 2-3. Check files 🔥
+        run: |
+          dirwork=""
+          function read_dir(){
+            for file in `ls $1`
+            do
+              if [ -d $1"/"$file ]; then
+                echo "―folder: "$file
+                if [ ! -d ${GITHUB_WORKSPACE}/docs/$file ]; then
+                  mkdir -p ${GITHUB_WORKSPACE}/docs/$file
+                fi
+                dirwork=$file"/"
+                read_dir $1"/"$file
+              else
+                echo "⊥file: "$file
+                iptv-checker -o ${GITHUB_WORKSPACE}/output -p 100 -t 60000 $1"/"$file > /dev/null
+                cp -pr ${GITHUB_WORKSPACE}/output/online.m3u ${GITHUB_WORKSPACE}/docs/$dirwork$file
+              fi
+            done
+          }
+          read_dir ${GITHUB_WORKSPACE}/work
 
 
       # remote 3
@@ -62,7 +117,27 @@ jobs:
           mkdir   ${GITHUB_WORKSPACE}/local/work/imDazui/
           cp -rfp ${GITHUB_WORKSPACE}/remote3/m3u/*.m3u*  ${GITHUB_WORKSPACE}/local/work/imDazui/
           ls -lat | sort -s -k 1,1
-
+      - name: 3-3. Check files 🔥
+        run: |
+          dirwork=""
+          function read_dir(){
+            for file in `ls $1`
+            do
+              if [ -d $1"/"$file ]; then
+                echo "―folder: "$file
+                if [ ! -d ${GITHUB_WORKSPACE}/docs/$file ]; then
+                  mkdir -p ${GITHUB_WORKSPACE}/docs/$file
+                fi
+                dirwork=$file"/"
+                read_dir $1"/"$file
+              else
+                echo "⊥file: "$file
+                iptv-checker -o ${GITHUB_WORKSPACE}/output -p 100 -t 60000 $1"/"$file > /dev/null
+                cp -pr ${GITHUB_WORKSPACE}/output/online.m3u ${GITHUB_WORKSPACE}/docs/$dirwork$file
+              fi
+            done
+          }
+          read_dir ${GITHUB_WORKSPACE}/work
 
       # remote 4
       - name: 4-1. Checkout remote repo@fanmingming/live 🚀
@@ -80,7 +155,27 @@ jobs:
           cp -rfp ${GITHUB_WORKSPACE}/remote4/tv/m3u/*.m3u*     ${GITHUB_WORKSPACE}/local/work/tv/
           cp -rfp ${GITHUB_WORKSPACE}/remote4/radio/m3u/*.m3u*  ${GITHUB_WORKSPACE}/local/work/radio/
           ls -lat | sort -s -k 1,1
-
+      - name: 4-3. Check files 🔥
+        run: |
+          dirwork=""
+          function read_dir(){
+            for file in `ls $1`
+            do
+              if [ -d $1"/"$file ]; then
+                echo "―folder: "$file
+                if [ ! -d ${GITHUB_WORKSPACE}/docs/$file ]; then
+                  mkdir -p ${GITHUB_WORKSPACE}/docs/$file
+                fi
+                dirwork=$file"/"
+                read_dir $1"/"$file
+              else
+                echo "⊥file: "$file
+                iptv-checker -o ${GITHUB_WORKSPACE}/output -p 100 -t 60000 $1"/"$file > /dev/null
+                cp -pr ${GITHUB_WORKSPACE}/output/online.m3u ${GITHUB_WORKSPACE}/docs/$dirwork$file
+              fi
+            done
+          }
+          read_dir ${GITHUB_WORKSPACE}/work
 
       - name: Commit & Push changes 🔥
         uses: Andro999b/push@v1.3
