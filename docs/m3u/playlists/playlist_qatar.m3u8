@@ -1,8 +1,8 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Al Jazeera Mubasher" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/90/Al_Jazeera_Mubasher_logo.png" tvg-id="AlJazeeraMubasher.qa" group-title="Qatar",Al Jazeera Mubasher
-https://live-hls-web-ajm.getaj.net/AJM/index.m3u8
 #EXTINF:-1 tvg-name="Al Araby TV" tvg-logo="https://i.imgur.com/YMqWEe4.png" tvg-id="AlkassFour.qa" group-title="Qatar",Al Araby TV
 https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-name="Al Jazeera Mubasher" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/90/Al_Jazeera_Mubasher_logo.png" tvg-id="AlJazeeraMubasher.qa" group-title="Qatar",Al Jazeera Mubasher
+https://live-hls-web-ajm.getaj.net/AJM/index.m3u8
 #EXTINF:-1 tvg-name="Al Rayyan Old TV" tvg-logo="https://i.imgur.com/4qB5iN0.png" tvg-id="AlRayyanOldTV.qa" group-title="Qatar",Al Rayyan Old TV
 https://alrayyancdn.vidgyor.com/pub-nooldraybinbdh/liveabr/playlist_dvr.m3u8
 #EXTINF:-1 tvg-name="Al Rayyan" tvg-logo="https://i.imgur.com/Ts3RjTV.png" tvg-id="AlRayyanTV.qa" group-title="Qatar",Al Rayyan

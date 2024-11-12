@@ -3,9 +3,7 @@
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_1M.m3u8
 #EXTINF:-1 tvg-name="QVC" tvg-logo="https://i.imgur.com/xWSzQ34.png" tvg-id="QVC.jp" group-title="Japan",QVC
 https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8
-#EXTINF:-1 tvg-name="Shop Channel" tvg-logo="https://i.imgur.com/GTyQhBF.png" tvg-id="ShopChannel.jp" group-title="Japan",Shop Channel
-https://stream3.shopch.jp/HLS/master.m3u8
-#EXTINF:-1 tvg-name="NHK Kishou-Saigai Ⓢ" tvg-logo="https://i.imgur.com/oWKCBIz.png" tvg-id="NHKKishouSaigai.jp" group-title="Japan",NHK Kishou-Saigai Ⓢ
-https://newssimul-stream.nhk.jp/hls/live/2010561/nhknewssimul/master.m3u8
 #EXTINF:-1 tvg-name="日テレNEWS24 Ⓢ" tvg-logo="https://i.imgur.com/Wfu61ZU.png" tvg-id="NTVNEWS24.jp" group-title="Japan",日テレNEWS24 Ⓢ
 https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
+#EXTINF:-1 tvg-name="Shop Channel" tvg-logo="https://i.imgur.com/GTyQhBF.png" tvg-id="ShopChannel.jp" group-title="Japan",Shop Channel
+https://stream3.shopch.jp/HLS/master.m3u8

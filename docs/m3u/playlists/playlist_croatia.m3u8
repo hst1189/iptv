@@ -3,19 +3,19 @@
 http://89.201.163.244:8080/hls/hdmi.m3u8
 #EXTINF:-1 tvg-name="Trend TV" tvg-logo="https://upload.wikimedia.org/wikipedia/hr/2/22/TrendTV.jpg" tvg-id="TrendTV.hr" group-title="Croatia",Trend TV
 http://185.62.75.22:1935/trend/myStream/playlist.m3u8
-#EXTINF:-1 tvg-name="RTL" tvg-logo="https://i.imgur.com/zAjr6pO.png" tvg-id="RTLCroatia.hr" group-title="Croatia",RTL
-https://d1cs5tlhj75jxe.cloudfront.net/rtl/playlist.m3u8
-#EXTINF:-1 tvg-name="RTL 2" tvg-logo="https://i.imgur.com/dQLaylJ.png" tvg-id="RTL2Croatia.hr" group-title="Croatia",RTL 2
-https://d1um9c09e0t5ag.cloudfront.net/rtl2/playlist.m3u8
-#EXTINF:-1 tvg-name="RTL Kockica" tvg-logo="https://i.imgur.com/BiSVmRa.png" tvg-id="RTLKockica.hr" group-title="Croatia",RTL Kockica
-https://d1rzyyum8t0q1e.cloudfront.net/rtl-kockica/playlist.m3u8
-#EXTINF:-1 tvg-name="TV Jadran" tvg-logo="https://upload.wikimedia.org/wikipedia/hr/9/9a/Tv_jadran_logo.png" tvg-id="TVJadran.hr" group-title="Croatia",TV Jadran
-https://tvjadran.stream.agatin.hr:3412/live/tvjadranlive.m3u8
 #EXTINF:-1 tvg-name="CMC TV" tvg-logo="https://i.imgur.com/Fh2vawT.png" tvg-id="CMCTV.hr" group-title="Croatia",CMC TV
 https://stream.cmctv.hr:49998/cmc/live.m3u8
+#EXTINF:-1 tvg-name="RTL 2" tvg-logo="https://i.imgur.com/dQLaylJ.png" tvg-id="RTL2Croatia.hr" group-title="Croatia",RTL 2
+https://d1um9c09e0t5ag.cloudfront.net/rtl2/playlist.m3u8
 #EXTINF:-1 tvg-name="TV Nova" tvg-logo="https://upload.wikimedia.org/wikipedia/hr/c/c8/TVnova-logo.png" tvg-id="TVNova.hr" group-title="Croatia",TV Nova
 https://stream.agatin.hr:3727/live/tvnovalive.m3u8
-#EXTINF:-1 tvg-name="Al Jazeera Balkans" tvg-logo="https://i.imgur.com/Z1FB6wl.png" tvg-id="AlJazeeraBalkans.ba" group-title="Croatia",Al Jazeera Balkans
-https://live-hls-web-ajb.getaj.net/AJB/index.m3u8
+#EXTINF:-1 tvg-name="RTL" tvg-logo="https://i.imgur.com/zAjr6pO.png" tvg-id="RTLCroatia.hr" group-title="Croatia",RTL
+https://d1cs5tlhj75jxe.cloudfront.net/rtl/playlist.m3u8
 #EXTINF:-1 tvg-name="Libertas TV" tvg-logo="https://upload.wikimedia.org/wikipedia/hr/8/8a/LibertasTV.png" tvg-id="LibertasTV.hr" group-title="Croatia",Libertas TV
 https://stream.luci.xyz/hls/LTV.m3u8
+#EXTINF:-1 tvg-name="Al Jazeera Balkans" tvg-logo="https://i.imgur.com/Z1FB6wl.png" tvg-id="AlJazeeraBalkans.ba" group-title="Croatia",Al Jazeera Balkans
+https://live-hls-web-ajb.getaj.net/AJB/index.m3u8
+#EXTINF:-1 tvg-name="TV Jadran" tvg-logo="https://upload.wikimedia.org/wikipedia/hr/9/9a/Tv_jadran_logo.png" tvg-id="TVJadran.hr" group-title="Croatia",TV Jadran
+https://tvjadran.stream.agatin.hr:3412/live/tvjadranlive.m3u8
+#EXTINF:-1 tvg-name="RTL Kockica" tvg-logo="https://i.imgur.com/BiSVmRa.png" tvg-id="RTLKockica.hr" group-title="Croatia",RTL Kockica
+https://d1rzyyum8t0q1e.cloudfront.net/rtl-kockica/playlist.m3u8
