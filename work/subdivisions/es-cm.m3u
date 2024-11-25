@@ -1,0 +1,11 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Canal4ManchaCentro.es" tvg-logo="https://i.imgur.com/t3O3O9M.png" group-title="Undefined",Canal 4 Mancha Centro (720p) [Not 24/7]
+https://5924d3ad0efcf.streamlock.net/canal4/canal4live/playlist.m3u8
+#EXTINF:-1 tvg-id="CiudadRealTV.es" tvg-logo="https://i.imgur.com/mh07Om9.png" group-title="General",Ciudad Real TV (1080p) [Not 24/7]
+https://ythls.armelin.one/channel/UCNxFBlUBOaI3iQW37T3hFww.m3u8
+#EXTINF:-1 tvg-id="CMMTV.es" tvg-logo="https://i.imgur.com/9siClBC.png" group-title="General",CMM TV (1080p) [Not 24/7]
+https://cdnapi.kaltura.com/p/2288691/sp/228869100/playManifest/entryId/1_01fn4ycl/format/applehttp/.m3u8
+#EXTINF:-1 tvg-id="TelevisionAranda.es" tvg-logo="https://i.imgur.com/FwIIdKG.png" group-title="Undefined",Televisión Aranda (720p)
+https://cloud.streamingconnect.tv/hls/telearanda/telearanda.m3u8
+#EXTINF:-1 tvg-id="TVHellin.es" tvg-logo="https://televisionhellin.com/wp-content/uploads/2021/08/logotipo-tvhellinonline.png" group-title="Undefined",TV Hellín (720p)
+https://hellin-hls-live.flumotion.com/playlist.m3u8
