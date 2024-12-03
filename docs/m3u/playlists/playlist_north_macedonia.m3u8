@@ -1,28 +1,30 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="M»Net Sport" tvg-logo="https://i.imgur.com/q3DV2gP.png" tvg-id="sport.mnet.mk" group-title="North Macedonia",M»Net Sport
-http://ares.mnet.mk/hls/mnet-sport.m3u8
+#EXTINF:-1 tvg-name="Телевизија Здравкин" tvg-logo="https://i.imgur.com/kSmcAER.png" tvg-id="Zdravkin" group-title="North Macedonia",Телевизија Здравкин
+http://zdravkin.hugo.mk:1935/live/zdravkin/playlist.m3u8
 #EXTINF:-1 tvg-name="ТВ СВЕТ" tvg-logo="https://i.imgur.com/R79xT60.png" tvg-id="tvsvet.com.mk" group-title="North Macedonia",ТВ СВЕТ
 http://tvsvet.hugo.mk:1936/live/tvsvet/stream/3.m3u8
 #EXTINF:-1 tvg-name="M»Net" tvg-logo="https://i.imgur.com/JWHcGMX.png" tvg-id="mnet.mk" group-title="North Macedonia",M»Net
 http://ares.mnet.mk/hls/mnet.m3u8
-#EXTINF:-1 tvg-name="Телевизија Здравкин" tvg-logo="https://i.imgur.com/kSmcAER.png" tvg-id="Zdravkin" group-title="North Macedonia",Телевизија Здравкин
-http://zdravkin.hugo.mk:1935/live/zdravkin/playlist.m3u8
-#EXTINF:-1 tvg-name="M»Net Info" tvg-logo="https://i.imgur.com/O26HEyC.png" tvg-id="info.mnet.mk" group-title="North Macedonia",M»Net Info
-http://ares.mnet.mk/hls/mnet-info.m3u8
-#EXTINF:-1 tvg-name="M»Net Kids" tvg-logo="https://i.imgur.com/XZwtu7Q.png" tvg-id="kids.mnet.mk" group-title="North Macedonia",M»Net Kids
-http://ares.mnet.mk/hls/mnet-kids.m3u8
-#EXTINF:-1 tvg-name="Канал 8" tvg-logo="https://i.imgur.com/5skC7be.png" tvg-id="kanal8.mk" group-title="North Macedonia",Канал 8
-http://kanal8.hugo.mk:1935/live/kanal8/index.m3u8
 #EXTINF:-1 tvg-name="Орбис" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Orbis-logo.png" tvg-id="TV Orbis" group-title="North Macedonia",Орбис
 http://tvorbis.hugo.mk:1935/live/orbistv/index.m3u8
+#EXTINF:-1 tvg-name="M»Net Sport" tvg-logo="https://i.imgur.com/q3DV2gP.png" tvg-id="sport.mnet.mk" group-title="North Macedonia",M»Net Sport
+http://ares.mnet.mk/hls/mnet-sport.m3u8
+#EXTINF:-1 tvg-name="M»Net Info" tvg-logo="https://i.imgur.com/O26HEyC.png" tvg-id="info.mnet.mk" group-title="North Macedonia",M»Net Info
+http://ares.mnet.mk/hls/mnet-info.m3u8
+#EXTINF:-1 tvg-name="Канал 8" tvg-logo="https://i.imgur.com/5skC7be.png" tvg-id="kanal8.mk" group-title="North Macedonia",Канал 8
+http://kanal8.hugo.mk:1935/live/kanal8/index.m3u8
+#EXTINF:-1 tvg-name="M»Net Kids" tvg-logo="https://i.imgur.com/XZwtu7Q.png" tvg-id="kids.mnet.mk" group-title="North Macedonia",M»Net Kids
+http://ares.mnet.mk/hls/mnet-kids.m3u8
+#EXTINF:-1 tvg-name="Хуго 2" tvg-logo="https://i.imgur.com/yb3xjOZ.png" tvg-id="Hugo2.mk" group-title="North Macedonia",Хуго 2
+http://fta.hugo.mk:1935/live/tvhugo/stream/2.m3u8
 #EXTINF:-1 tvg-name="Folk Club TV" tvg-logo="https://i.imgur.com/vkGFSl8.png" tvg-id="FolkClubTV.mk" group-title="North Macedonia",Folk Club TV
 http://tv1.intv.mk:1935/live2/folkklub/index.m3u8
 #EXTINF:-1 tvg-name="INTV" tvg-logo="https://i.imgur.com/K7BSjqY.png" tvg-id="" group-title="North Macedonia",INTV
 http://tv1.intv.mk:1935/live/intv/index.m3u8
 #EXTINF:-1 tvg-name="Наша ТВ" tvg-logo="https://i.imgur.com/EOLrXvB.png" tvg-id="NasaTV.mk" group-title="North Macedonia",Наша ТВ
 https://stream.nasatv.com.mk/hls/nasatv_live.m3u8
-#EXTINF:-1 tvg-name="Хуго 2" tvg-logo="https://i.imgur.com/yb3xjOZ.png" tvg-id="Hugo2.mk" group-title="North Macedonia",Хуго 2
-http://fta.hugo.mk:1935/live/tvhugo/stream/2.m3u8
+#EXTINF:-1 tvg-name="Jazz TV" tvg-logo="https://i.imgur.com/4U6Ju5G.png" tvg-id="JazzTV.mk" group-title="North Macedonia",Jazz TV
+https://stream.nasatv.com.mk/jazztv/hls/jazztv_live.m3u8
 #EXTINF:-1 tvg-name="Cool TV" tvg-logo="https://i.imgur.com/2tFrjUz.png" tvg-id="CoolTV.mk" group-title="North Macedonia",Cool TV
 https://stream.nasatv.com.mk/cooltv/hls/cooltv_live.m3u8
 #EXTINF:-1 tvg-name="Folk TV" tvg-logo="https://i.imgur.com/4b9aZ9P.png" tvg-id="FolkTV.mk" group-title="North Macedonia",Folk TV
@@ -31,7 +33,9 @@ https://stream.nasatv.com.mk/folktv/hls/folktv_live.m3u8
 https://live.muzickatv.mk/live/StarMusic.m3u8
 #EXTINF:-1 tvg-name="Sky Folk" tvg-logo="https://i.imgur.com/xRw4Hmu.png" tvg-id="SkyFolkTV.mk" group-title="North Macedonia",Sky Folk
 https://skyfolk.mk/live.m3u8
-#EXTINF:-1 tvg-name="Jazz TV" tvg-logo="https://i.imgur.com/4U6Ju5G.png" tvg-id="JazzTV.mk" group-title="North Macedonia",Jazz TV
-https://stream.nasatv.com.mk/jazztv/hls/jazztv_live.m3u8
 #EXTINF:-1 tvg-name="Вистел" tvg-logo="https://i.imgur.com/MbM0E6L.png" tvg-id="" group-title="North Macedonia",Вистел
 https://live.vtv.mk/live/vtv/chunks.m3u8
+#EXTINF:-1 tvg-name="Rock TV" tvg-logo="https://i.imgur.com/Y9miDQo.png" tvg-id="RockTV.mk" group-title="North Macedonia",Rock TV
+https://stream.nasatv.com.mk/rocktv/hls/rocktv_live.m3u8
+#EXTINF:-1 tvg-name="Love TV" tvg-logo="https://i.imgur.com/B8iaejQ.png" tvg-id="LoveTV.mk" group-title="North Macedonia",Love TV
+https://stream.nasatv.com.mk/lovetv/hls/lovetv_live.m3u8
