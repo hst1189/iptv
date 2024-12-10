@@ -1,10 +1,10 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Dacwa TV Ⓢ" tvg-logo="https://i.imgur.com/rMqrLzV.png" tvg-id="DacwaTV.so" group-title="Somalia",Dacwa TV Ⓢ
 https://ap02.iqplay.tv:8082/iqb8002/d13w1/playlist.m3u8
-#EXTINF:-1 tvg-name="SNTV Daljir Ⓢ" tvg-logo="https://i.imgur.com/Re3ur88.png" tvg-id="SNTVDaljir.so" group-title="Somalia",SNTV Daljir Ⓢ
-https://ap02.iqplay.tv:8082/iqb8002/s2tve/playlist.m3u8
 #EXTINF:-1 tvg-name="Somali National TV Ⓢ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/SNTV_REBRANDED_LOGO.png" tvg-id="SomaliNationalTV.so" group-title="Somalia",Somali National TV Ⓢ
 https://ap02.iqplay.tv:8082/iqb8002/s4ne/playlist.m3u8
+#EXTINF:-1 tvg-name="SNTV Daljir Ⓢ" tvg-logo="https://i.imgur.com/Re3ur88.png" tvg-id="SNTVDaljir.so" group-title="Somalia",SNTV Daljir Ⓢ
+https://ap02.iqplay.tv:8082/iqb8002/s2tve/playlist.m3u8
 #EXTINF:-1 tvg-name="Saab TV Ⓢ" tvg-logo="https://i.imgur.com/JEC1J89.png" tvg-id="SaabTV.so" group-title="Somalia",Saab TV Ⓢ
 https://ap02.iqplay.tv:8082/iqb8002/s03btv/playlist.m3u8
 #EXTINF:-1 tvg-name="MM Somali TV Ⓢ" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mm-somali-tv-so.png" tvg-id="MMSomaliTV.uk" group-title="Somalia",MM Somali TV Ⓢ

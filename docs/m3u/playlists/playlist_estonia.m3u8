@@ -1,8 +1,8 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="TBN Baltia" tvg-logo="https://i.imgur.com/rKBaK56.png" tvg-id="TBNBaltia.ee" group-title="Estonia",TBN Baltia
-http://dc.tbnbaltia.eu:8088/dvr/rewind-21600.m3u8
 #EXTINF:-1 tvg-name="ETV2 Ⓖ" tvg-logo="https://i.imgur.com/fUjGHDa.png" tvg-id="ETV2.ee" group-title="Estonia",ETV2 Ⓖ
 http://sb.err.ee/live/etv2.m3u8
+#EXTINF:-1 tvg-name="TBN Baltia" tvg-logo="https://i.imgur.com/rKBaK56.png" tvg-id="TBNBaltia.ee" group-title="Estonia",TBN Baltia
+http://dc.tbnbaltia.eu:8088/dvr/rewind-21600.m3u8
 #EXTINF:-1 tvg-name="ETV Ⓖ" tvg-logo="https://i.imgur.com/5URjPgG.png" tvg-id="ETV.ee" group-title="Estonia",ETV Ⓖ
 http://sb.err.ee/live/etv.m3u8
 #EXTINF:-1 tvg-name="ETV+ Ⓖ" tvg-logo="https://i.imgur.com/YAubPlU.png" tvg-id="ETVPlus.ee" group-title="Estonia",ETV+ Ⓖ
