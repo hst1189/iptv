@@ -1,29 +1,29 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Perviy Gorodskoy Odessa" tvg-logo="https://i.imgur.com/Em3J7XO.jpg" group-title="Ukraine",Perviy Gorodskoy Odessa
-http://91.194.79.46:8081/stream1/channel1/playlist.m3u8
 #EXTINF:-1 tvg-name="STB" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/STB_logo.svg/868px-STB_logo.svg.png" tvg-id="STB.ua" group-title="Ukraine",STB
 http://cdnua03.hls.tv/133/hls/37a7d70ef2fcf08bcd712e4397c7d5c9/4592/stream.m3u8
-#EXTINF:-1 tvg-name="Суспільне Крим Ⓢ" tvg-logo="https://i.imgur.com/m7znCes.png" tvg-id="SuspilneKrym.ua" group-title="Ukraine",Суспільне Крим Ⓢ
-https://ext.cdn.nashnet.tv/228.0.0.71/index.m3u8
+#EXTINF:-1 tvg-name="Perviy Gorodskoy Odessa" tvg-logo="https://i.imgur.com/Em3J7XO.jpg" group-title="Ukraine",Perviy Gorodskoy Odessa
+http://91.194.79.46:8081/stream1/channel1/playlist.m3u8
 #EXTINF:-1 tvg-name="Suspilne Kultura" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Suspilne_Kultura_%282022%29.svg/640px-Suspilne_Kultura_%282022%29.svg.png" tvg-id="SuspilneKultura.ua" group-title="Ukraine",Suspilne Kultura
 https://ext.cdn.nashnet.tv/228.0.0.141/index.m3u8
+#EXTINF:-1 tvg-name="Суспільне Крим Ⓢ" tvg-logo="https://i.imgur.com/m7znCes.png" tvg-id="SuspilneKrym.ua" group-title="Ukraine",Суспільне Крим Ⓢ
+https://ext.cdn.nashnet.tv/228.0.0.71/index.m3u8
 #EXTINF:-1 tvg-name="Duma TV" tvg-logo="https://i.imgur.com/KlPqxlo.png" group-title="Ukraine",Duma TV
 http://cdn1.live-tv.od.ua:8081/dumska/dumska-abr/dumska/dumska720p/playlist.m3u8
-#EXTINF:-1 tvg-name="GIT" tvg-logo="https://i.imgur.com/v5J8tiS.png" tvg-id="GIT.ua" group-title="Ukraine",GIT
-https://stream.uagit.tv/gittv.m3u8
 #EXTINF:-1 tvg-name="HTK" tvg-logo="https://i.imgur.com/on0TfJ6.png" group-title="Ukraine",HTK
 http://stream.ntktv.ua/s/ntk/ntk.m3u8
+#EXTINF:-1 tvg-name="GIT" tvg-logo="https://i.imgur.com/v5J8tiS.png" tvg-id="GIT.ua" group-title="Ukraine",GIT
+https://stream.uagit.tv/gittv.m3u8
 #EXTINF:-1 tvg-name="Chernivtsi Promin" tvg-logo="https://i.imgur.com/IbwmfzF.png" group-title="Ukraine",Chernivtsi Promin
 http://langate.tv/promin/live_720/index.m3u8
 #EXTINF:-1 tvg-name="TIS TV Ⓢ" tvg-logo="https://i.imgur.com/aC01GvC.png" tvg-id="TISTV.ua" group-title="Ukraine",TIS TV Ⓢ
 http://cdn10.live-tv.od.ua:8081/riood/tisod-abr/riood/tisod504/playlist.m3u8
-#EXTINF:-1 tvg-name="TVA Czernowitz Ⓢ" tvg-logo="https://i.imgur.com/bUz2IP9.png" group-title="Ukraine",TVA Czernowitz Ⓢ
-http://hls.cdn.ua/tva.ua_live/_definst_/livestream/playlist.m3u8
 #EXTINF:-1 tvg-name="Simon Ⓢ" tvg-logo="https://i.imgur.com/RaVchcn.jpg" tvg-id="Simon.ua" group-title="Ukraine",Simon Ⓢ
 http://hls.simon.ua/live-HD/live/playlist.m3u8
-#EXTINF:-1 tvg-name="Z Zaporozhye" tvg-logo="https://i.imgur.com/f0nOjL8.png" group-title="Ukraine",Z Zaporozhye
-https://stream.ztv.zp.ua/hls/live.m3u8
+#EXTINF:-1 tvg-name="TVA Czernowitz Ⓢ" tvg-logo="https://i.imgur.com/bUz2IP9.png" group-title="Ukraine",TVA Czernowitz Ⓢ
+http://hls.cdn.ua/tva.ua_live/_definst_/livestream/playlist.m3u8
 #EXTINF:-1 tvg-name="24 канал" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/24_Kanal_logo.svg/768px-24_Kanal_logo.svg.png" tvg-id="Channel24.ua" group-title="Ukraine",24 канал
 http://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-name="Z Zaporozhye" tvg-logo="https://i.imgur.com/f0nOjL8.png" group-title="Ukraine",Z Zaporozhye
+https://stream.ztv.zp.ua/hls/live.m3u8
 #EXTINF:-1 tvg-name="M2 Ⓢ" tvg-logo="https://i.imgur.com/IwUc4pC.png" tvg-id="M2.ua" group-title="Ukraine",M2 Ⓢ
 http://live.m2.tv/hls3/stream.m3u8

@@ -1,19 +1,19 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Senzi" tvg-logo="https://i.imgur.com/W82dwzf.png" tvg-id="Senzi.sk" group-title="Slovakia",Senzi
 http://lb.streaming.sk/senzi/stream/playlist.m3u8
-#EXTINF:-1 tvg-name=":Dvojka" tvg-logo="https://i.imgur.com/Ksi25UD.png" tvg-id="Dvojka.sk" group-title="Slovakia",:Dvojka
-https://sktv.plainrock127.xyz/get.php?x=STV2
-#EXTINF:-1 tvg-name=":Šport" tvg-logo="https://i.imgur.com/YzHipRF.png" tvg-id="Sport.sk" group-title="Slovakia",:Šport
-https://sktv.plainrock127.xyz/get.php?x=SPORT
-#EXTINF:-1 tvg-name=":24" tvg-logo="https://i.imgur.com/sdSsFU0.png" tvg-id="24.sk" group-title="Slovakia",:24
-https://sktv.plainrock127.xyz/get.php?x=STV24
-#EXTINF:-1 tvg-name="NR SR" tvg-logo="https://i.imgur.com/sPDiS5q.png" tvg-id="TVNRSR.sk" group-title="Slovakia",NR SR
-https://sktv.plainrock127.xyz/get.php?x=NR_SR
-#EXTINF:-1 tvg-name=":Jednotka" tvg-logo="https://i.imgur.com/T7EWAe7.png" tvg-id="Jednotka.sk" group-title="Slovakia",:Jednotka
-https://sktv.plainrock127.xyz/get.php?x=STV1
-#EXTINF:-1 tvg-name=":O" tvg-logo="https://i.imgur.com/Nf5gEDc.png" group-title="Slovakia",:O
-https://sktv.plainrock127.xyz/get.php?x=STV-O
 #EXTINF:-1 tvg-name="STVR" tvg-logo="https://i.imgur.com/Nf5gEDc.png" group-title="Slovakia",STVR
 https://sktv.plainrock127.xyz/get.php?x=RTVS
+#EXTINF:-1 tvg-name=":24" tvg-logo="https://i.imgur.com/sdSsFU0.png" tvg-id="24.sk" group-title="Slovakia",:24
+https://sktv.plainrock127.xyz/get.php?x=STV24
+#EXTINF:-1 tvg-name=":Šport" tvg-logo="https://i.imgur.com/YzHipRF.png" tvg-id="Sport.sk" group-title="Slovakia",:Šport
+https://sktv.plainrock127.xyz/get.php?x=SPORT
+#EXTINF:-1 tvg-name=":Jednotka" tvg-logo="https://i.imgur.com/T7EWAe7.png" tvg-id="Jednotka.sk" group-title="Slovakia",:Jednotka
+https://sktv.plainrock127.xyz/get.php?x=STV1
+#EXTINF:-1 tvg-name=":Dvojka" tvg-logo="https://i.imgur.com/Ksi25UD.png" tvg-id="Dvojka.sk" group-title="Slovakia",:Dvojka
+https://sktv.plainrock127.xyz/get.php?x=STV2
+#EXTINF:-1 tvg-name=":O" tvg-logo="https://i.imgur.com/Nf5gEDc.png" group-title="Slovakia",:O
+https://sktv.plainrock127.xyz/get.php?x=STV-O
+#EXTINF:-1 tvg-name="NR SR" tvg-logo="https://i.imgur.com/sPDiS5q.png" tvg-id="TVNRSR.sk" group-title="Slovakia",NR SR
+https://sktv.plainrock127.xyz/get.php?x=NR_SR
 #EXTINF:-1 tvg-name="TA3 Ⓢ" tvg-logo="https://i.imgur.com/kPFBxc9.png" tvg-id="TA3.sk" group-title="Slovakia",TA3 Ⓢ
 https://sktv.plainrock127.xyz/get.php?x=TA3
