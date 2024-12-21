@@ -1,3 +1,8 @@
+# 电视软件
+官网主页：https://zbds.top/
+下载：https://zbds.top/soft/zbds.apk
+
+
 # 📖 iptv
 电视直播源自动收集
 
