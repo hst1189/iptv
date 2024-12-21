@@ -2,6 +2,41 @@
 官网主页：https://zbds.top/
 下载：https://zbds.top/soft/zbds.apk
 
+# m3u　电视源
+### YanG-1989/m3u
+Github: https://github.com/YanG-1989/m3u
+https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u
+https://tv.iill.top/m3u/Gather
+https://tv.iill.top/m3u/Live
+https://tv.iill.top/m3u/Sport
+https://tv.iill.top/m3u/MyTV
+
+### YueChan/Live
+Github: https://github.com/YueChan/Live
+https://raw.githubusercontent.com/YueChan/Live/main/APTV.m3u
+https://raw.githubusercontent.com/YueChan/Live/main/Global.m3u
+https://raw.githubusercontent.com/YueChan/Live/main/Adult.m3u
+https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u
+https://raw.githubusercontent.com/YueChan/Live/main/Radio.m3u
+
+（以上链接需要挂梯子，或可在地址前加 https://ghp.ci/，或 https://ghgo.xyz/）
+如：https://ghp.ci/https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/APTV.m3u
+
+
+### Kimentanm/aptv
+Github: https://github.com/Kimentanm/aptv
+
+
+### fanmingming/live
+Github: https://github.com/fanmingming/live
+https://live.fanmingming.com/
+https://live.fanmingming.com/tv/m3u/ipv6.m3u （原链接貌似已被墙，可用下方链接替代）
+备用链接：https://ghgo.xyz/https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/m3u/ipv6.m3u
+
+
+#### Kimentanm/aptv
+https://iptv-org.github.io/iptv/index.m3u
+https://github.com/Kimentanm/aptv/tree/master/m3u
 
 # 📖 iptv
 电视直播源自动收集
