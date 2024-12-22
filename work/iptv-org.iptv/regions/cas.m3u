@@ -1,0 +1,165 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="24KZ.kz" tvg-logo="https://24.kz/templates/khabar24/img/logo-new.png" group-title="News",24KZ (720p) [Not 24/7]
+http://serv30.vintera.tv:8081/habar/habar24/playlist.m3u8
+#EXTINF:-1 tvg-id="312Kino.kg" tvg-logo="https://i.ibb.co/3m9LrLj/k7gIibH.png" group-title="Movies",312 Кино (406p)
+http://176.126.166.43:1935/live/312kino/playlist.m3u8
+#EXTINF:-1 tvg-id="312TV.kg" tvg-logo="https://i.ibb.co/S6sZvqk/iLSGi6c.png" group-title="Entertainment",312 ТВ (406p)
+http://176.126.166.43:1935/live/312musik/playlist.m3u8
+#EXTINF:-1 tvg-id="AbaiTV.kz" tvg-logo="https://i.imgur.com/Nw2R7Dq.png" group-title="Culture",Abai TV (720p)
+https://abaitv-stream.qazcdn.com/abaitv/abaitv/playlist.m3u8
+#EXTINF:-1 tvg-id="AlauTV.kz" tvg-logo="https://i.imgur.com/gK6ZRzp.png" group-title="Undefined",Alau TV (576p)
+https://otv.wotom.net/alau/stream.m3u8
+#EXTINF:-1 tvg-id="AltynAsyr.tm" tvg-logo="https://i.imgur.com/D7RBtZ2.png" group-title="General",Altyn Asyr (406p) [Not 24/7]
+https://alpha.tv.online.tm/hls/ch001.m3u8
+#EXTINF:-1 tvg-id="Aqjaiyq.kz" tvg-logo="https://i.imgur.com/ZqIzzmf.png" group-title="General",Aqjaiyq (576p)
+https://stream.kaztrk.kz/regional/oraltv/index.m3u8
+#EXTINF:-1 tvg-id="Aqlvoy.uz" tvg-logo="https://i.imgur.com/ekF5cAi.png" group-title="Kids",Aqlvoy (480p)
+http://gohoski.fvds.ru:3000/mediabay/645/playlist.m3u8
+#EXTINF:-1 tvg-id="Aqtobe.kz" tvg-logo="https://i.imgur.com/csKl1z6.png" group-title="General",Aqtóbe (576p)
+https://stream.kaztrk.kz/regional/aktobetv/index.m3u8
+#EXTINF:-1 tvg-id="ArkadagTV.tm" tvg-logo="https://i.imgur.com/JdEb4Ug.png" group-title="General",Arkadag TV (406p) [Not 24/7]
+https://alpha.tv.online.tm/hls/ch000.m3u8
+#EXTINF:-1 tvg-id="Asgabat.tm" tvg-logo="https://www.lyngsat.com/logo/tv/aa/asgabat-tm.png" group-title="General",Aşgabat (406p) [Not 24/7]
+https://alpha.tv.online.tm/hls/ch006.m3u8
+#EXTINF:-1 tvg-id="AtamekenBusiness.kz" tvg-logo="https://i.imgur.com/CfRvm8i.png" group-title="Business",Atameken Business (1080p) [Not 24/7]
+http://live-atameken.cdnvideo.ru/atameken/atameken.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="Atyray.kz" tvg-logo="https://i.imgur.com/kva4O3T.png" group-title="General",Atyraý (720p)
+https://stream.kaztrk.kz/regional/atyrautv/index.m3u8
+#EXTINF:-1 tvg-id="AzonTV.uz" tvg-logo="https://i.imgur.com/x8TST9h.png" group-title="Religious",Azon TV (1080p) [Not 24/7]
+https://ythls.armelin.one/channel/UCneJYS2Xf_a2a1ealwZb7mQ.m3u8
+#EXTINF:-1 tvg-id="Badakhshon.tj" tvg-logo="https://i.imgur.com/iK6AmkZ.png" group-title="General",Badakhshon (576p)
+https://live.teleradiocom.tj/11/3m.m3u8
+#EXTINF:-1 tvg-id="Balapan.kz" tvg-logo="https://i.imgur.com/2o5T0gi.png" group-title="Kids",Balapan TV
+https://balapantv-stream.qazcdn.com/balapantv/balapantv/playlist.m3u8
+#EXTINF:-1 tvg-id="BIZCinema.uz" tvg-logo="https://biztv.uz/static/media/biz-cinema.286b83dc.png" group-title="Movies",BIZ Cinema (1080p)
+https://st.biztv.uz/hls/c_hi/index.m3u8
+#EXTINF:-1 tvg-id="BIZMusic.uz" tvg-logo="https://i.ibb.co/DfsCJwk/Uz-biz-music-5462.jpg" group-title="Music",BIZ Music (1080p)
+https://st.biztv.uz/hls/m_hi/index.m3u8
+#EXTINF:-1 tvg-id="BIZTV.uz" tvg-logo="https://biztv.uz/static/media/logo.5f993187.png" group-title="Entertainment",BIZ TV (1080p)
+https://st.biztv.uz/hls/stream_hi/index.m3u8
+#EXTINF:-1 tvg-id="Bolajon.uz" tvg-logo="https://i.imgur.com/s7o0ifu.png" group-title="Kids",Bolajon (486p)
+https://st1-allplay-uz.b-cdn.net/3/iptv-58/index.m3u8
+#EXTINF:-1 tvg-id="Dunyoboylab.uz" tvg-logo="https://i.imgur.com/KArB5U6.png" group-title="General",Dunyo bo'ylab (480p)
+http://gohoski.fvds.ru:3000/mediabay/144/playlist.m3u8
+#EXTINF:-1 tvg-id="DushanbeHD.tj" tvg-logo="https://i.imgur.com/WWPIziG.png" group-title="General",Dushanbe HD (1080p)
+https://live.teleradiocom.tj/7/3m.m3u8
+#EXTINF:-1 tvg-id="Ertis.kz" tvg-logo="https://i.imgur.com/tghMiwW.png" group-title="General",Ertis (1080p) [Not 24/7]
+https://stream.kaztrk.kz/regional/pavlodartv/index.m3u8
+#EXTINF:-1 tvg-id="Futbol.tj" tvg-logo="https://i.imgur.com/RngmCDn.png" group-title="Sports",Futbol (1080p)
+https://live.teleradiocom.tj/8/3m.m3u8
+#EXTINF:-1 tvg-id="IlmvaTabiat.tj" tvg-logo="https://i.imgur.com/MDULX7X.png" group-title="Science",Ilm va Tabiat (1080p)
+https://live.teleradiocom.tj/15/3m.m3u8
+#EXTINF:-1 tvg-id="Jahonnamo.tj" tvg-logo="https://i.imgur.com/ffqdD8W.png" group-title="General",Jahonnamo (1080p)
+https://live.teleradiocom.tj/4/3m.m3u8
+#EXTINF:-1 tvg-id="Jambyl.kz" tvg-logo="https://i.imgur.com/X7N3JK4.png" group-title="General",Jambyl (360p) [Not 24/7]
+https://stream.kaztrk.kz/regional/taraztv/index.m3u8
+#EXTINF:-1 tvg-id="JibekJoly.kz" tvg-logo="https://i.imgur.com/SqyXtgK.png" group-title="General",Jibek Joly (1080p)
+https://stream.qazcdn.net/jjtv/jjtv/playlist.m3u8
+#EXTINF:-1 tvg-id="Khatlon.tj" tvg-logo="https://i.imgur.com/X4xVpBj.png" group-title="General",Khatlon (576p)
+https://live.teleradiocom.tj/10/3m.m3u8
+#EXTINF:-1 tvg-id="Kokshe.kz" tvg-logo="https://i.imgur.com/pOR3FSR.png" group-title="General",Kókshe (720p) [Not 24/7]
+https://stream.kaztrk.kz/regional/kokshetautv/index.m3u8
+#EXTINF:-1 tvg-id="Madaniyatvamarifat.uz" tvg-logo="https://i.imgur.com/eeNLXCP.png" group-title="Undefined",Madaniyat va ma'rifat (480p)
+http://gohoski.fvds.ru:3000/mediabay/146/playlist.m3u8
+#EXTINF:-1 tvg-id="Mahalla.uz" tvg-logo="https://i.imgur.com/GtABiJI.png" group-title="Undefined",Mahalla (480p)
+http://gohoski.fvds.ru:3000/mediabay/394/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Manas TV (1080p)
+http://212.42.111.152:8080/hls/manas.m3u8
+#EXTINF:-1 tvg-id="Mangystay.kz" tvg-logo="https://i.imgur.com/9JfLseu.png" group-title="General",Mańǵystaý (540p) [Not 24/7]
+https://stream.kaztrk.kz/regional/mangystautv/index.m3u8
+#EXTINF:-1 tvg-id="Milliy.uz" tvg-logo="https://i.imgur.com/v4FBm26.png" group-title="General",Milliy TV (480p)
+http://gohoski.fvds.ru:3000/mediabay/391/playlist.m3u8
+#EXTINF:-1 tvg-id="Miras.tm" tvg-logo="https://i.imgur.com/pWbJzr9.png" group-title="Culture",Miras (406p) [Not 24/7]
+https://alpha.tv.online.tm/hls/ch003.m3u8
+#EXTINF:-1 tvg-id="MunaraTV.kz" tvg-logo="https://i.imgur.com/SEka37S.jpg" group-title="Religious",Munara TV (1080p) [Not 24/7]
+https://ythls.armelin.one/channel/UC4tTvzqFKK2Dpfp-qP47b1w.m3u8
+#EXTINF:-1 tvg-id="MuzzOne.kz" tvg-logo="https://i.imgur.com/nHVABXh.png" group-title="Music",MuzzOne (1080p)
+https://muzzone-stream.daitsuna.net/muzzondvr/muzzone/playlist_dvr.m3u8
+#EXTINF:-1 tvg-id="Navo.uz" tvg-logo="https://i.imgur.com/7dZ64y9.png" group-title="General",Navo (480p)
+http://gohoski.fvds.ru:3000/mediabay/254/playlist.m3u8
+#EXTINF:-1 tvg-id="NextTV.kg" tvg-logo="https://i.imgur.com/9MiwdgD.png" group-title="Undefined",Next TV (1080p) [Not 24/7]
+http://gohoski.fvds.ru:3000/mediabay/601/playlist.m3u8
+#EXTINF:-1 tvg-id="Ozbekiston24.uz" tvg-logo="https://i.imgur.com/VRFhKbw.png" group-title="News",O'zbekiston 24 (480p)
+http://gohoski.fvds.ru:3000/mediabay/393/playlist.m3u8
+#EXTINF:-1 tvg-id="Ozbekiston.uz" tvg-logo="https://i.imgur.com/QUIIhTD.png" group-title="General",O'zbekiston (480p)
+http://gohoski.fvds.ru:3000/mediabay/140/playlist.m3u8
+#EXTINF:-1 tvg-id="Ontustik.kz" tvg-logo="https://i.imgur.com/xqr1hjN.png" group-title="Undefined",Ontústik (360p)
+https://stream.kaztrk.kz/regional/shymkenttv/index.m3u8
+#EXTINF:-1 tvg-id="Qazaqstan.kz" tvg-logo="https://i.imgur.com/oI8g396.png" group-title="Undefined",Qazaqstan TV International (1080p)
+https://qazaqstantv-stream.qazcdn.com/international/international/playlist.m3u8
+#EXTINF:-1 tvg-id="QazSport.kz" tvg-logo="https://i.imgur.com/UDJ0P5Q.png" group-title="Sports",QazSport (480p) [Geo-blocked]
+https://qazsporttv-stream.qazcdn.com/qazsporttv/qazsporttv/playlist.m3u8
+#EXTINF:-1 tvg-id="Qostanai.kz" tvg-logo="https://i.imgur.com/eOz4xJ8.png" group-title="Undefined",Qostanai (576p) [Not 24/7]
+https://stream.kaztrk.kz/regional/kostanaytv/index.m3u8
+#EXTINF:-1 tvg-id="Qyzyljar.kz" tvg-logo="https://i.imgur.com/7l1WSDJ.png" group-title="Undefined",Qyzyljar (720p)
+https://stream.kaztrk.kz/regional/petropavltv/index.m3u8
+#EXTINF:-1 tvg-id="Qyzylorda.kz" tvg-logo="https://i.imgur.com/r4BFQpE.png" group-title="Undefined",Qyzylorda (720p)
+https://stream.kaztrk.kz/regional/kyzylordatv/index.m3u8
+#EXTINF:-1 tvg-id="RizaNovaTV.uz" tvg-logo="https://i.ibb.co/nmvvbWm/Logo-3.png" group-title="Entertainment",RizaNova TV (720p) [Not 24/7]
+https://ythls.armelin.one/channel/UCDPnSqLmYqHadD6VkrRiarg.m3u8
+#EXTINF:-1 tvg-id="Saryarqa.kz" tvg-logo="https://i.imgur.com/EIXwi1c.png" group-title="Undefined",Saryarqa (720p) [Not 24/7]
+https://stream.kaztrk.kz/regional/karagandytv/index.m3u8
+#EXTINF:-1 tvg-id="Semei.kz" tvg-logo="https://i.ibb.co/P9V0532/Captura.png" group-title="General",Semeı (1080p)
+https://stream.kaztrk.kz/regional/semeytv/index.m3u8
+#EXTINF:-1 tvg-id="Tojikiston.tj" tvg-logo="https://i.imgur.com/sEXCFNk.png" group-title="General",Tajikistan (1080p)
+https://live.teleradiocom.tj/1/3m.m3u8
+#EXTINF:-1 tvg-id="TMT.tj" tvg-logo="https://i.imgur.com/Dg0UkNR.png" group-title="Undefined",TMT (1080p)
+https://live.teleradiocom.tj/9/3m.m3u8
+#EXTINF:-1 tvg-id="Toshkent.uz" tvg-logo="https://i.imgur.com/Z9R4nZg.png" group-title="General",Toshkent (480p)
+http://gohoski.fvds.ru:3000/mediabay/136/playlist.m3u8
+#EXTINF:-1 tvg-id="TurkmenOwazy.tm" tvg-logo="https://i.imgur.com/Ap7l2jC.png" group-title="Music",Türkmen Owazy (406p) [Not 24/7]
+https://alpha.tv.online.tm/hls/ch005.m3u8
+#EXTINF:-1 tvg-id="Turkmenistan.tm" tvg-logo="https://i.imgur.com/zKWfwAw.png" group-title="General",Türkmenistan (406p) [Not 24/7]
+https://alpha.tv.online.tm/hls/ch007.m3u8
+#EXTINF:-1 tvg-id="TurkmenistanSport.tm" tvg-logo="https://www.lyngsat.com/logo/tv/tt/turkmenistan-sport-tm.png" group-title="Sports",Türkmenistan Sport (406p) [Not 24/7]
+https://alpha.tv.online.tm/hls/ch004.m3u8
+#EXTINF:-1 tvg-id="TV1KG.kg" tvg-logo="https://i.imgur.com/Mti9t9C.png" group-title="General",TV1 KG (1080p)
+http://212.2.225.30:1935/live/site.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="TV15.kg" tvg-logo="https://i.ibb.co/1byxRtp/tv15.png" group-title="General",TV15 (1080p) [Not 24/7]
+http://gohoski.fvds.ru:3000/mediabay/655/playlist.m3u8
+#EXTINF:-1 tvg-id="TVBahoriston.tj" tvg-logo="https://i.imgur.com/Dacai5z.png" group-title="Kids",TV Bahoriston (1080p)
+https://live.teleradiocom.tj/3/3m.m3u8
+#EXTINF:-1 tvg-id="TVKulob.tj" tvg-logo="https://i.imgur.com/AFgEYFp.png" group-title="General",TV Kulob (576p)
+https://live.teleradiocom.tj/12/3m.m3u8
+#EXTINF:-1 tvg-id="TVSafina.tj" tvg-logo="https://i.imgur.com/Ho2vKZJ.png" group-title="Undefined",TV Safina (1080p)
+https://live.teleradiocom.tj/2/3m.m3u8
+#EXTINF:-1 tvg-id="TVSayohi.tj" tvg-logo="https://i.imgur.com/lAkMrtr.png" group-title="Travel",TV Sayohi (1080p)
+https://live.teleradiocom.tj/16/3m.m3u8
+#EXTINF:-1 tvg-id="TVSinamo.tj" tvg-logo="https://i.imgur.com/W2qz5a4.png" group-title="Undefined",TV Sinamo (1080p)
+https://live.teleradiocom.tj/6/3m.m3u8
+#EXTINF:-1 tvg-id="TVSugd.tj" tvg-logo="https://i.imgur.com/YzkwTHb.png" group-title="General",TV Sugd (1080p)
+https://live.teleradiocom.tj/14/3m.m3u8
+#EXTINF:-1 tvg-id="YangiKulguTV.uz" tvg-logo="https://i.ibb.co/FbRG58b/channels4-profile.jpg" group-title="Comedy",YangiKulgu TV (720p) [Not 24/7]
+https://ythls.armelin.one/channel/UC9OpmkDt-iR0sNAL29_zPJw.m3u8
+#EXTINF:-1 tvg-id="Yaslyk.tm" tvg-logo="https://www.lyngsat.com/logo/tv/yy/yaslyk-tm.png" group-title="General",Ýaşlyk (406p) [Not 24/7]
+https://alpha.tv.online.tm/hls/ch002.m3u8
+#EXTINF:-1 tvg-id="Yoshlar.uz" tvg-logo="https://i.imgur.com/s4xfUSx.png" group-title="General",Yoshlar (480p)
+http://gohoski.fvds.ru:3000/mediabay/134/playlist.m3u8
+#EXTINF:-1 tvg-id="AlmatyTV.kz" tvg-logo="https://i.imgur.com/Mjqwt8C.png" group-title="General",Алматы (720p) [Not 24/7]
+http://live-almatytv.cdnvideo.ru/almatytv/almatytv.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="KTK.kz" tvg-logo="https://i.imgur.com/BurrNTo.png" group-title="General",КТК (1080p) [Not 24/7]
+https://wz-kt.ktk.kz/ktklive/smil:ktk-live.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="MTRK.kz" tvg-logo="https://i.imgur.com/XMyRwDk.png" group-title="General",МТРК (576p) [Not 24/7]
+https://tvcdn01.oktv.kz/tv/mtrk/playlist.m3u8
+#EXTINF:-1 tvg-id="Novoetelevidenie.kz" tvg-logo="https://i.imgur.com/mmKWrWs.png" group-title="General",Новое телевидение (576p) [Not 24/7]
+http://serv25.vintera.tv:8081/novoetv/nov_tv/playlist.m3u8
+#EXTINF:-1 tvg-id="OshPirim.kg" tvg-logo="https://i.ibb.co/9VBnyQ1/cropped-white.png" group-title="General",Ош Пирим (1080p) [Not 24/7]
+http://gohoski.fvds.ru:3000/mediabay/697/playlist.m3u8
+#EXTINF:-1 tvg-id="ChannelOneEurasia.kz" tvg-logo="https://i.imgur.com/vm5sJHP.png" group-title="General",Первый канал Евразия (720p)
+https://1tvkz-stream.daitsuna.net/1tvkz/1tvkz/playlist.m3u8
+#EXTINF:-1 tvg-id="UTRK.kg" tvg-logo="https://i.ibb.co/VJ7cPRH/Xp5clCA.png" group-title="General",УТРК (480p) [Not 24/7]
+https://st2.mediabay.tv/KG_KTRK-UTRK/index.m3u8
+#EXTINF:-1 tvg-id="AlaToo24.kg" tvg-logo="https://i.imgur.com/vBPmUQA.png" group-title="News",УТРК Ала-Тоо 24 (480p) [Not 24/7]
+https://st2.mediabay.tv/KG_KTRK-Ala-too/playlist.m3u8
+#EXTINF:-1 tvg-id="Balastan.kg" tvg-logo="https://i.imgur.com/D5ylCiX.png" group-title="Kids",УТРК Баластан (480p) [Not 24/7]
+https://st2.mediabay.tv/KG_KTRK-Balastan/index.m3u8
+#EXTINF:-1 tvg-id="Madaniyat.kg" tvg-logo="https://i.imgur.com/nMbzmos.png" group-title="Culture",УТРК Маданият (480p) [Not 24/7]
+https://st2.mediabay.tv/KG_KTRK-Madaniyat/playlist.m3u8
+#EXTINF:-1 tvg-id="Music.kg" tvg-logo="https://www.utrk.kg/img/stream/45.png" group-title="Music",УТРК Музыка (480p) [Not 24/7]
+https://st2.mediabay.tv/KG_KTRK-Muzika/index.m3u8
+#EXTINF:-1 tvg-id="Sport.kg" tvg-logo="https://i.imgur.com/ORCu0w0.png" group-title="Sports",УТРК Спорт (480p) [Not 24/7]
+https://st2.mediabay.tv/KG_KTRK-Sport/index.m3u8
+#EXTINF:-1 tvg-id="ElTR.kg" tvg-logo="https://i.ibb.co/r6czQwQ/365049798-774721644658455-5702658175909463406-n-2.png" group-title="General",ЭлТР (480p) [Not 24/7]
+http://gohoski.fvds.ru:3000/mediabay/162/index.m3u8
+#EXTINF:-1 tvg-id="BilimIlim.kg" tvg-logo="https://i.ibb.co/qswtSWm/428598841-309456895457301-6206911287895397651-n-1.png" group-title="Kids;Science",ЭлТР Билим Илим (480p) [Not 24/7]
+http://gohoski.fvds.ru:3000/mediabay/611/index.m3u8
