@@ -30,6 +30,12 @@ jobs:
         with:
           ref: main
           path: local
+      - name: 1-0. mkdir work 🚚
+        run: |
+          cd ${GITHUB_WORKSPACE}/local/
+          if [ ! -d work ]; then
+            mkdir work
+          fi
 
 
       # remote 1
