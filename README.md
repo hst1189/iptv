@@ -15,16 +15,6 @@
 
 # m3u　收录的电视源
 
-### iptv-org/iptv
-☑️[gituhub地址](https://github.com/iptv-org/iptv/tree/gh-pages)        ※全球电视台
-- https://iptv-org.github.io/iptv/index.m3u
-
-### Free-TV/IPTV
-☑️[gituhub地址](https://github.com/Free-TV/IPTV)                       ※全球电视台
-
-### imDazui/Tvlist-awesome-m3u-m3u8
-☑️[gituhub地址](https://github.com/imDazui/Tvlist-awesome-m3u-m3u8)   ※超多中文电视台 - 貌似很久未更新了
-
 ### YanG-1989/m3u  
 ☑️[gituhub地址](https://github.com/YanG-1989/m3u)
 - https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u
@@ -54,6 +44,16 @@
 - https://live.fanmingming.com/
 - https://live.fanmingming.com/tv/m3u/ipv6.m3u （原链接貌似已被墙，可用下方链接替代）
 备用链接：https://ghgo.xyz/https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/m3u/ipv6.m3u
+
+### iptv-org/iptv
+☑️[gituhub地址](https://github.com/iptv-org/iptv/tree/gh-pages)        ※全球电视台
+- https://iptv-org.github.io/iptv/index.m3u
+
+### Free-TV/IPTV
+☑️[gituhub地址](https://github.com/Free-TV/IPTV)                       ※全球电视台
+
+### imDazui/Tvlist-awesome-m3u-m3u8
+☑️[gituhub地址](https://github.com/imDazui/Tvlist-awesome-m3u-m3u8)   ※超多中文电视台 - 貌似很久未更新了
 
 
 
