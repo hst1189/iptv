@@ -11,6 +11,8 @@
 
 ✈️  TG:   t.me/m3uforu
 
+![打赏](wechat_reward.png)
+
 
 
 # 📖 m3u 收录的电视源
