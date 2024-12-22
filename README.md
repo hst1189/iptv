@@ -63,12 +63,12 @@
 
 
 # 📖 电视源有效性检测
-通过iptv-checker，实行自动检测
-https://www.npmjs.com/package/iptv-checker
+通过iptv-checker，自动检测有效性 https://www.npmjs.com/package/iptv-checker
 
 
 # 📖 电视软件（电视家平替）
 官网主页：https://zbds.top/
+
 下载：https://zbds.top/soft/zbds.apk
 
 
@@ -161,5 +161,5 @@ https://www.npmjs.com/package/iptv-checker
 - https://xmltv.tvkaista.net/guides/tv.cctv.com.xml     ※中国电视台EPG - 不定期更新
 - https://assets.livednow.com/guide.html                ※检测（https://epg.pw） - 毎日０時更新
 
-- 
+
 
