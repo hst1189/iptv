@@ -43,7 +43,7 @@
 ☑️[gituhub地址](https://github.com/fanmingming/live)
 - https://live.fanmingming.com/
 - https://live.fanmingming.com/tv/m3u/ipv6.m3u （原链接貌似已被墙，可用下方链接替代）
-备用链接：https://ghgo.xyz/https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/m3u/ipv6.m3u
+- 备用链接：https://ghgo.xyz/https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/m3u/ipv6.m3u
 
 ### iptv-org/iptv
 ☑️[gituhub地址](https://github.com/iptv-org/iptv/tree/gh-pages)        ※全球电视台
