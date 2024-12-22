@@ -1,4 +1,4 @@
-# 感谢关注
+# 📖 感谢关注
 本仓库定期收集 各位大佬分享的`m3u`，将其集合到一起，并通过[iptv-checker](https://www.npmjs.com/package/iptv-checker)（一个开源的 测试m3u的小工具）实行自动检测，定期删减无效的源
 
 建立本仓库的初衷，自从老牌电视软件(电视家)下线以后，经常东平西凑，疲于寻找各种稳定的直播源。 
@@ -13,7 +13,7 @@
 
 
 
-# m3u　收录的电视源
+# 📖 m3u 收录的电视源
 
 ### YanG-1989/m3u  
 ☑️[gituhub地址](https://github.com/YanG-1989/m3u)
@@ -67,23 +67,13 @@
 https://www.npmjs.com/package/iptv-checker
 
 
-# 电视软件（电视家平替）
+# 📖 电视软件（电视家平替）
 官网主页：https://zbds.top/
 下载：https://zbds.top/soft/zbds.apk
 
 
-# EPG信息
-- https://epg.pw/index.html                             ※全球EPG检索网站
-- https://epg.112114.xyz/epginfo                        ※XX的EPG - 毎日０時更新
-- http://epg.51zmt.top:8000/                            ※老张的EPG - 毎日０時更新
-- https://github.com/iptv-org/epg/tree/master/sites     ※iptv-org的EPG - 不定期更新（貌似手動更新）
-- https://xmltv.tvkaista.net/                           ※各国EPG - 不定期更新（实际用的是 iptv-org ）
-- https://xmltv.tvkaista.net/guides/tv.cctv.com.xml     ※中国电视台EPG - 不定期更新
-- https://assets.livednow.com/guide.html                ※检测（https://epg.pw） - 毎日０時更新
 
-
-
-#### 📖 各国iptv
+# 📖 各国iptv
 [<img src="https://hatscripts.github.io/circle-flags/flags/us.svg" width="24">](work/Free-TV.IPTV/lists/usa.md)
 [<img src="https://hatscripts.github.io/circle-flags/flags/ca.svg" width="24">](work/Free-TV.IPTV/lists/canada.md)
 [<img src="https://hatscripts.github.io/circle-flags/flags/gb.svg" width="24">](work/Free-TV.IPTV/lists/uk.md)
@@ -160,4 +150,16 @@ https://www.npmjs.com/package/iptv-checker
 [<img src="https://hatscripts.github.io/circle-flags/flags/tt.svg" width="24">](work/Free-TV.IPTV/lists/trinidad.md)
 [<img src="https://hatscripts.github.io/circle-flags/flags/td.svg" width="24">](work/Free-TV.IPTV/lists/chad.md)
 [<img src="https://hatscripts.github.io/circle-flags/flags/so.svg" width="24">](work/Free-TV.IPTV/lists/somalia.md)
+
+
+# 📖 EPG信息
+- https://epg.pw/index.html                             ※全球EPG检索网站
+- https://epg.112114.xyz/epginfo                        ※XX的EPG - 毎日０時更新
+- http://epg.51zmt.top:8000/                            ※老张的EPG - 毎日０時更新
+- https://github.com/iptv-org/epg/tree/master/sites     ※iptv-org的EPG - 不定期更新（貌似手動更新）
+- https://xmltv.tvkaista.net/                           ※各国EPG - 不定期更新（实际用的是 iptv-org ）
+- https://xmltv.tvkaista.net/guides/tv.cctv.com.xml     ※中国电视台EPG - 不定期更新
+- https://assets.livednow.com/guide.html                ※检测（https://epg.pw） - 毎日０時更新
+
+- 
 
