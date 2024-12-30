@@ -125,7 +125,7 @@ https://rakutenaa-museumtv-fr-rakuten-nilyp.amagi.tv/playlist/rakutenAA-museumtv
 https://voozmedia.fun/benietv/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="BeninWebTV.bj" tvg-logo="https://i.imgur.com/CYy4n0N.png" group-title="News",Bénin Web TV (720p)
 https://vdo.pro-fhi.net:3244/stream/play.m3u8
-#EXTINF:-1 tvg-id="BF1.bf" tvg-logo="https://i.imgur.com/ufNURAC.png" group-title="Undefined",BF1 (540p) [Not 24/7]
+#EXTINF:-1 tvg-id="BF1.bf" tvg-logo="https://i.imgur.com/9xx1Tss.png" group-title="General",BF1 (540p) [Not 24/7]
 https://547f72e6652371c3.mediapackage.us-east-1.amazonaws.com/out/v1/7e66f389bec3463dac81e8d55e680431/index.m3u8
 #EXTINF:-1 tvg-id="BFMAlsace.fr" tvg-logo="https://i.imgur.com/iRsbEpg.png" group-title="General" user-agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36",BFM Alsace (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -187,7 +187,7 @@ https://tvlocales-live.freecaster.com/live/95d2f70d-9229-478b-9aed-bc4fa220316d/
 https://stream2.mandarine.media/brionnaistv/brionnaistv/playlist.m3u8
 #EXTINF:-1 tvg-id="BubbleGuppies.fr" tvg-logo="https://i.imgur.com/qhz8587.png" group-title="Kids",Bubble Guppies
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/618e3c1106d23b0007366723/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e0662e5-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=7d78b066-1897-473b-a861-c3b256c623ae
-#EXTINF:-1 tvg-id="BurkinaInfoTV.bf" tvg-logo="https://i.imgur.com/a9v5CbU.png" group-title="Undefined",Burkina Info TV (540p)
+#EXTINF:-1 tvg-id="BurkinaInfoTV.bf" tvg-logo="https://i.imgur.com/a9v5CbU.png" group-title="News",Burkina Info TV (540p)
 http://69.64.57.208/burkinainfo/index.m3u8
 #EXTINF:-1 tvg-id="Business24Africa.ci" tvg-logo="https://i.imgur.com/zZFl3vy.png" group-title="Business",Business 24 Africa (480p)
 https://cdn-globecast.akamaized.net/live/eds/business24_tv/hls_video/index.m3u8
@@ -500,6 +500,8 @@ https://edge.vedge.infomaniak.com/livecast/ik:kalactv/manifest.m3u8
 https://edge21.vedge.infomaniak.com/livecast/ik:livesd2/manifest.m3u8
 #EXTINF:-1 tvg-id="KassouaTV.bj" tvg-logo="https://i.imgur.com/EfX3HNG.png" group-title="General",KassouaTV (480p) [Not 24/7]
 https://glb.bozztv.com/glb/ssh101/kassouatvstream/playlist.m3u8
+#EXTINF:-1 tvg-id="KC2.rw" tvg-logo="https://i.imgur.com/PsYPzNc.png" group-title="Entertainment",KC2 (720p) [Not 24/7]
+http://197.243.19.131:1935/kc2/kc2/chunklist.m3u8
 #EXTINF:-1 tvg-id="KeurNdananeTV.sn" tvg-logo="https://i.imgur.com/pxQkYG7.jpeg" group-title="Lifestyle",Keur Ndanane TV (720p)
 https://helga.iptv2022.com/sh/KN_TV/index.m3u8
 #EXTINF:-1 tvg-id="KinDirectTV.cd" tvg-logo="https://i.imgur.com/GuUsGMj.png" group-title="General",Kin Direct TV (320p)
@@ -673,7 +675,7 @@ https://hls.newworldtv.com/nw-info/video/live.m3u8
 https://hls.newworldtv.com/nw-magazine/video/live.m3u8
 #EXTINF:-1 tvg-id="NyotaTV.cd" tvg-logo="https://i.imgur.com/Obyh2Ah.png" group-title="General",Nyota TV (360p) [Not 24/7]
 http://51.254.199.122:8080/noyaTV/index.m3u8
-#EXTINF:-1 tvg-id="ObossoTV.cg" tvg-logo="https://i.imgur.com/weJThBG.png" group-title="Undefined",Obosso TV (1080p) [Not 24/7]
+#EXTINF:-1 tvg-id="ObossoTV.cg" tvg-logo="https://i.imgur.com/weJThBG.png" group-title="Culture",Obosso TV (1080p) [Not 24/7]
 https://obossobroadcast.fr/otv/obossotv/playlist.m3u8
 #EXTINF:-1 tvg-id="OneNationTV.sn" tvg-logo="https://i.imgur.com/RGHbkZU.png" group-title="Culture",One Nation TV (720p) [Not 24/7]
 https://endour.net/hls/One_nationtv/index.m3u8
@@ -685,7 +687,7 @@ https://strhls.streamakaci.tv/ortb/ortb1-multi/playlist.m3u8
 http://69.64.57.208/ortm/playlist.m3u8
 #EXTINF:-1 tvg-id="P2MTV.fr" tvg-logo="https://i.imgur.com/TrecSeG.png" group-title="Undefined",P2M TV (720p)
 https://vdo2.pro-fhi.net:3207/stream/play.m3u8
-#EXTINF:-1 tvg-id="PacisTV.rw" tvg-logo="https://i.imgur.com/LSo1sIo.png" group-title="Undefined",Pacis TV (1080p) [Not 24/7]
+#EXTINF:-1 tvg-id="PacisTV.rw" tvg-logo="https://i.imgur.com/LSo1sIo.png" group-title="Religious",Pacis TV (1080p) [Not 24/7]
 https://ythls.armelin.one/channel/UCkKVUyOqvKk1W-QadPy_WHQ.m3u8
 #EXTINF:-1 tvg-id="ParoleParleeTV.ci" tvg-logo="https://i.imgur.com/yVEy43V.png" group-title="Religious",Parole Parlée TV (1080p) [Not 24/7]
 https://ythls.armelin.one/channel/UCTWC45fM79-R8wFQPosO1xg.m3u8
@@ -867,6 +869,8 @@ http://69.64.57.208/rts1/playlist.m3u8
 http://69.64.57.208/rts2/playlist.m3u8
 #EXTINF:-1 tvg-id="TVCaraibes.ht" tvg-logo="https://i.imgur.com/OdOCGiW.png" group-title="Undefined",RTV Caraibes (480p) [Not 24/7]
 https://ythls.armelin.one/channel/UCWwP6VfG61i7BWSV0H3Jn9A.m3u8
+#EXTINF:-1 tvg-id="RwandaTV.rw" tvg-logo="https://i.imgur.com/4nbGvxW.png" group-title="General",RTV Rwanda (480p) [Not 24/7]
+http://197.243.19.131:1935/rtv/rtv/chunklist.m3u8
 #EXTINF:-1 tvg-id="RTVYahoshuah.mg" tvg-logo="https://i.ibb.co/0mq5NXQ/log.png" group-title="Religious",RTV Yahoshuah (1080p) [Not 24/7]
 https://ythls.armelin.one/channel/UCcFeZJVvexIMNaqIWftCD3w.m3u8
 #EXTINF:-1 tvg-id="RTVC.ci" tvg-logo="https://i.imgur.com/3REBjRk.png" group-title="Undefined",RTVC (720p)
@@ -951,8 +955,6 @@ https://watch.haitilive.net/app/2020/telepam/index.fmp4.m3u8
 http://69.64.57.208/telesahel/playlist.m3u8
 #EXTINF:-1 tvg-id="TeleSenegalTV.sn" tvg-logo="https://i.imgur.com/X8SDLD2.jpg" group-title="General",Télé Sénégal (1080p) [Not 24/7]
 https://ythls.armelin.one/channel/UCfwCPzdT1i87xWYh1P3suTw.m3u8
-#EXTINF:-1 tvg-id="TeleTchad.td" tvg-logo="https://i.imgur.com/udSzfHD.png" group-title="General",Télé Tchad (1080p)
-https://strhlslb01.streamakaci.tv/str_tchad_tchad/str_tchad_multi/playlist.m3u8
 #EXTINF:-1 tvg-id="TeleMagQuebec.ca" tvg-logo="https://i.imgur.com/AeeWZH1.png" group-title="General",Télé-Mag Québec (1080p) [Not 24/7]
 https://ythls.armelin.one/channel/UCNKXYT-Nng5LBMUQrZJ9zWA.m3u8
 #EXTINF:-1 tvg-id="CIVMDT.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/T%C3%A9l%C3%A9-Qu%C3%A9bec_logo.svg/512px-T%C3%A9l%C3%A9-Qu%C3%A9bec_logo.svg.png" group-title="Education",Télé-Québec (720p)
@@ -1045,7 +1047,7 @@ https://tv7.hdr-tv.com/live/tv7/livestream/playlist.m3u8
 https://streamtv.cdn.dvmr.fr/TV78/ngrp:tv78.stream_all/master.m3u8
 #EXTINF:-1 tvg-id="TVAlBayane.ci" tvg-logo="https://i.imgur.com/Xs9oEG8.png" group-title="Undefined",TV Al Bayane (360p)
 http://69.64.57.208/albayanetv/index.m3u8
-#EXTINF:-1 tvg-id="TVAlHouda.bf" tvg-logo="https://i.imgur.com/UNSTUOP.png" group-title="Undefined",TV Al Houda (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="TVAlHouda.bf" tvg-logo="https://i.imgur.com/UNSTUOP.png" group-title="Religious",TV Al Houda (720p) [Not 24/7]
 https://ssh101.bozztv.com/ssh101/alhoudatv/playlist.m3u8
 #EXTINF:-1 tvg-id="TVFamille.mq" tvg-logo="https://tvfamille.org/website/images/logo/tv_famille_logo_2019_square_75px.png" group-title="Family;Religious",TV Famille (720p)
 https://streamer1.streamhost.org/salive/GMItvfh/playlist.m3u8
