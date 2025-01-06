@@ -199,8 +199,6 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/c8.m
 https://ythls.armelin.one/channel/UCr5K057x3mHroPHsNk9OiwA.m3u8
 #EXTINF:-1 tvg-id="Caillou.fr" tvg-logo="https://i.imgur.com/RgKaoe4.png" group-title="Undefined",Caillou
 https://dhx-caillou-1-es.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal2International.cm" tvg-logo="https://i.imgur.com/BzA2z7m.png" group-title="Undefined",Canal 2 International (360p) [Not 24/7]
-https://rpn3.bozztv.com/ssh101/ssh101/canal2live/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal3Benin.bj" tvg-logo="https://i.imgur.com/NbZ7Y4j.png" group-title="Undefined",Canal 3 Bénin (720p)
 https://live.creacast.com/bluediamond/stream/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal9.ch" tvg-logo="https://i.imgur.com/TNciMh2.png" group-title="Undefined",Canal 9 en Français (1080p)
@@ -683,7 +681,7 @@ https://endour.net/hls/One_nationtv/index.m3u8
 https://core.live-apc.eu:5443/LiveApp/streams/backup.m3u8
 #EXTINF:-1 tvg-id="ORTBTV.bj" tvg-logo="https://i.imgur.com/ovhVYvP.png" group-title="General",ORTB TV (720p) [Not 24/7]
 https://strhls.streamakaci.tv/ortb/ortb1-multi/playlist.m3u8
-#EXTINF:-1 tvg-id="ORTM1.ml" tvg-logo="https://i.imgur.com/eKUpcls.png" group-title="Undefined",ORTM 1 (540p) [Not 24/7]
+#EXTINF:-1 tvg-id="ORTM1.ml" tvg-logo="https://i.imgur.com/eKUpcls.png" group-title="General",ORTM 1 (540p) [Not 24/7]
 http://69.64.57.208/ortm/playlist.m3u8
 #EXTINF:-1 tvg-id="P2MTV.fr" tvg-logo="https://i.imgur.com/TrecSeG.png" group-title="Undefined",P2M TV (720p)
 https://vdo2.pro-fhi.net:3207/stream/play.m3u8
@@ -918,8 +916,6 @@ https://live3.acangroup.org:1929/publiclive/sunulabel/playlist.m3u8
 https://ythls.armelin.one/channel/UCAUXyESHY44j2QOLUsm5fAg.m3u8
 #EXTINF:-1 tvg-id="SYNTYTV.cg" tvg-logo="https://i.imgur.com/Zlehose.jpeg" group-title="General",SYNTY TV (720p)
 https://helga.iptv2022.com/sh/SYNTY_TV/index.m3u8
-#EXTINF:-1 tvg-id="Tastemade.fr" tvg-logo="https://i.imgur.com/8s6aRwv.png" group-title="Cooking",Tastemade France (1080p)
-https://tastemadefr16min-redbox.amagi.tv/hls/amagi_hls_data_tastemade-tastemadefreetv16-redbox/CDN/playlist.m3u8
 #EXTINF:-1 tvg-id="TCFTV.ca" tvg-logo="https://i.imgur.com/lHsS6Lj.png" group-title="Culture;General",TCF TV
 http://66.11.33.44:8081/live/TCF/playlist.m3u8
 #EXTINF:-1 tvg-id="TchamanTV.ci" tvg-logo="https://i.imgur.com/aRJtor1.png" group-title="General",Tchaman TV (720p)

@@ -19,8 +19,6 @@ https://mn-nl.mncdn.com/alhiwar_live/smil:alhiwar.smil/playlist.m3u8
 https://thaipbs-ujxrch.cdn.byteark.com/live/playlist_1080p/index.m3u8
 #EXTINF:-1 tvg-id="AngerManagementChannel.us" tvg-logo="https://i.imgur.com/VXZgrNy.png" group-title="Education",Anger Management Channel (720p)
 https://apollo.production-public.tubi.io/live/ac-anger-management2.m3u8
-#EXTINF:-1 tvg-id="ArchitecturalDigest.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Architectural_Digest_logo.svg/512px-Architectural_Digest_logo.svg.png" group-title="Education",Architectural Digest (720p)
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxarchitecturaldigest/CDN/playlist.m3u8
 #EXTINF:-1 tvg-id="ARDalpha.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/ARD_alpha.svg/512px-ARD_alpha.svg.png" group-title="Education",ARD-alpha (720p)
 http://livestreams.br.de/i/bralpha_germany@119899/master.m3u8
 #EXTINF:-1 tvg-id="KETSDT1.us" tvg-logo="https://i.imgur.com/dNBZLtD.png" group-title="Education",Arkansas PBS [Geo-blocked]
@@ -231,6 +229,8 @@ https://securestream6.champds.com/hlssstc/KOCTCALIVE2/KOCTCALIVE2.m3u8
 https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
 #EXTINF:-1 tvg-id="VisionTV.us" tvg-logo="https://i.imgur.com/XnxPIqn.png" group-title="Education",Orange County Vision TV (Orange County FL) (720p)
 https://otv3.ocfl.net/VisionTV/smil:VisionTV.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="OUN.kr" tvg-logo="https://i.imgur.com/7s6JtcU.png" group-title="Education",OUN (1080p)
+https://live.knou.ac.kr/knou1/live1/playlist.m3u8
 #EXTINF:-1 tvg-id="PaighanTV.pk" tvg-logo="https://i.imgur.com/zokC3gO.png" group-title="Education;Religious",Paigham TV (1080p) [Not 24/7]
 https://ythls.armelin.one/channel/UCi-vOBG7Jgk_nKAG1Zd0R5g.m3u8
 #EXTINF:-1 tvg-id="ParyawaranTV.np" tvg-logo="https://i.imgur.com/H10qamt.png" group-title="Education;Outdoor",Paryawaran TV (1080p)

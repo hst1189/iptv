@@ -153,7 +153,7 @@ http://plenaris.parlament.hu:1935/edgelive/smil:mkogyplen.smil/playlist.m3u8
 http://tab.parlament.hu:1935/edgelive/smil:mkogytab.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Oxygen Music (1080p)
 https://oxygenmusic.hu:2443/hls/oxygenmusic.m3u8
-#EXTINF:-1 tvg-id="OzdiVarosiTV.hu" tvg-logo="https://i.imgur.com/t0Aq3UD.png" group-title="Undefined",Ózdi Városi TV (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="OzdiVarosiTV.hu" tvg-logo="https://i.imgur.com/t0Aq3UD.png" group-title="General",Ózdi Városi TV (720p) [Not 24/7]
 http://stream.nmih.hu:7980/live.m3u8
 #EXTINF:-1 tvg-id="PannonTV.rs" tvg-logo="https://i.imgur.com/xQa2idL.png" group-title="General",Pannon RTV (648p)
 https://stream.nmih.hu:4102/live.m3u8
@@ -173,6 +173,8 @@ http://rakosmentetv.hu:8080/hls/rmtv.m3u8
 http://tv.geniusnet.sk:8081/regiotv/pl.m3u8
 #EXTINF:-1 tvg-id="RegioPluszTV.hu" tvg-logo="https://i.imgur.com/VXPpukf.png" group-title="General",RégióPlusz TV (1080p) [Geo-blocked]
 https://stream.streaming4u.hu/RegioPluszTV/index.m3u8
+#EXTINF:-1 tvg-id="RTL.de" tvg-logo="https://i.imgur.com/94K94k2.png" group-title="Undefined",RTL (Germany) (576p)
+http://178.219.128.68:64888/RTL
 #EXTINF:-1 tvg-id="RTLGold.hu" tvg-logo="https://i.imgur.com/PwbLDUQ.png" group-title="Undefined",RTL Gold (576p)
 http://194.76.186.33:8000/play/a05h/index.m3u8
 #EXTINF:-1 tvg-id="RTLHarom.hu" tvg-logo="https://i.imgur.com/c4Hhhzs.png" group-title="Undefined",RTL Harom (1080p)
@@ -181,6 +183,8 @@ http://194.76.186.33:8000/play/a02a/index.m3u8
 http://194.76.186.33:8000/play/a041/index.m3u8
 #EXTINF:-1 tvg-id="RTLKetto.hu" tvg-logo="https://i.imgur.com/IVv0qrI.png" group-title="Undefined",RTL Ketto (1080p)
 http://194.76.186.33:8000/play/a01z/index.m3u8
+#EXTINF:-1 tvg-id="RTLZwei.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/RTLZWEI_Logo_2019.svg/512px-RTLZWEI_Logo_2019.svg.png" group-title="Undefined",RTL Zwei (1080p)
+http://178.219.128.68:64888/RTL2
 #EXTINF:-1 tvg-id="SIXOTV.hu" tvg-logo="https://i.ibb.co/GTPs9Xy/9068.png" group-title="General",SIXO TV (360p)
 https://cloudfront44.lexanetwork.com:1344/relay01/HDE038.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="SoltvadkertiTelevizio.hu" tvg-logo="https://i.imgur.com/ihdk45P.png" group-title="General",Soltvadkerti Televízió (720p)
@@ -203,8 +207,6 @@ https://canli.tgrteu.com/tgrteu.m3u8
 https://www.tiszatv.hu/onlinetv/tiszatv_1.m3u8
 #EXTINF:-1 tvg-id="TrimedioTV.hu" tvg-logo="https://i.imgur.com/P4hxWVZ.png" group-title="General",Trimedio TV (1080p) [Geo-blocked]
 https://stream.streaming4u.hu/TriMedioTV/index.m3u8
-#EXTINF:-1 tvg-id="TV2.hu" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/TV2_2008.svg/512px-TV2_2008.svg.png" group-title="Undefined",TV2 (1080p)
-http://146.59.85.40:89/tv2hd/index.m3u8
 #EXTINF:-1 tvg-id="TV2Comedy.hu" tvg-logo="https://i.imgur.com/B02hbcV.png" group-title="Comedy",TV2 Comedy (576p)
 http://194.76.186.33:8000/play/a031/index.m3u8
 #EXTINF:-1 tvg-id="TV2Kids.hu" tvg-logo="https://i.imgur.com/Zltlezm.png" group-title="Kids",TV2 Kids (576p)

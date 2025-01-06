@@ -125,7 +125,7 @@ https://dai.google.com/linear/hls/event/sFuxwI37R9KMTs-KywMcBg/master.m3u8
 https://stream.live.novotempo.com/tv/smil:tvnuevotiempo.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="OrbitaFM.sv" tvg-logo="https://i.imgur.com/KTgTjQi.png" group-title="Music",Órbita FM (720p)
 https://fl1003.bozztv.com/ssh101/OrbitaFM953/index.m3u8
-#EXTINF:-1 tvg-id="OrbitaTV.sv" tvg-logo="https://i.imgur.com/cPnWSOw.png" group-title="Undefined",Órbita TV (720p)
+#EXTINF:-1 tvg-id="OrbitaTV.sv" tvg-logo="https://i.imgur.com/cPnWSOw.png" group-title="News",Órbita TV (720p)
 https://ssh101.bozztv.com/ssh101/OrbitaTV25/playlist.m3u8
 #EXTINF:-1 tvg-id="PandamaxChannel.cl" tvg-logo="https://pandamax.cl/assets/img/pandalogo2.png" group-title="Animation",Pandamax Channel (1080p)
 https://stream.wifiexpert.cl/telenorte/pandamaxch/playlist.m3u8
@@ -159,8 +159,8 @@ http://rtmp.info:1935/soltv/envivo/playlist.m3u8
 https://srv.tropicalmoonmedia.com/somosculturatv/somosculturatv/playlist.m3u8
 #EXTINF:-1 tvg-id="TaberTV.sv" tvg-logo="https://i.imgur.com/ikq2iSf.png" group-title="Religious",Taber TV (1080p)
 https://5ca9af4645e15.streamlock.net/tabertv/smil:tabertv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="TastemadeenEspanol.us" tvg-logo="https://i.imgur.com/8s6aRwv.png" group-title="Cooking",Tastemade en Español (1080p)
-https://tastemadees16intl-samsungmexico.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="TastemadeenEspanol.us" tvg-logo="https://i.imgur.com/8s6aRwv.png" group-title="Cooking",Tastemade en Espanol [Geo-blocked]
+https://tastemadees16us-xumo.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="TCSPlus.sv" tvg-logo="https://i.imgur.com/iYFWG06.png" group-title="General",TCS+ (480p) [Not 24/7]
 https://telecorporacion.cdn.vustreams.com/live/19b307cf-3f2d-44cb-bce6-0fd65365c56a/live.isml/live.m3u8
 #EXTINF:-1 tvg-id="TelefeInternacional.ar" tvg-logo="https://i.imgur.com/HNcCX3h.png" group-title="Undefined",Telefe Internacional (720p) [Not 24/7]

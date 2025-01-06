@@ -560,6 +560,8 @@ http://49.113.179.174:4022/udp/238.125.1.60:5140
 https://live-ch1.cjonstyle.net/cjmalllive/stream2/playlist.m3u8
 #EXTINF:-1 tvg-id="CJOnStylePlus.kr" tvg-logo="https://i.imgur.com/OYmOL20.png" group-title="Shop",CJ OnStyle Plus (540p)
 https://live-ch2.cjonstyle.net/cjosplus/live2/playlist.m3u8
+#EXTINF:-1 tvg-id="CLTV36.ph" tvg-logo="https://i.imgur.com/IUcTFQ2.png" group-title="General",CLTV 36 (720p) [Not 24/7]
+https://live.cltv36.tv:5443/LiveApp/streams/cltvlive.m3u8
 #EXTINF:-1 tvg-id="CNA.sg" tvg-logo="https://i.imgur.com/awIDugE.png" group-title="News",CNA [Geo-blocked]
 https://d2ko4czujk9652.cloudfront.net/hls/clr4ctv_cnas/master.m3u8
 #EXTINF:-1 tvg-id="CNBCAsia.sg" tvg-logo="https://i.imgur.com/Mn8Rsup.png" group-title="Business",CNBC Asia HD (720p) [Geo-blocked]
@@ -910,8 +912,6 @@ http://seb.sason.top/ptv/ftv.php?id=ms
 https://ythls.armelin.one/channel/UC2VmWn8dAqkzlQqvy02E1PA.m3u8
 #EXTINF:-1 tvg-id="FTVOne.tw" tvg-logo="https://i.imgur.com/HBT2o0I.png" group-title="General",FTV One (民視第一台) (720p) [Not 24/7]
 http://seb.sason.top/ptv/ftv.php?id=dy
-#EXTINF:-1 tvg-id="JOCXDTV.jp" tvg-logo="https://i.imgur.com/sEWDmMD.png" group-title="General",Fuji TV (540p)
-https://fujitv4.mov3.co/hls/fujitv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Fusung News TV
 http://stream8.jlntv.cn/fs/sd/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Gaki no Tsukai (English Subs) (720p)
@@ -1051,7 +1051,7 @@ http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="GuidanceTVAustralia.au" tvg-logo="https://i.ibb.co/xHhLpvT/unnamed.jpg" group-title="Religious",Guidance TV Australia (720p) [Not 24/7]
 https://ythls.armelin.one/channel/UC81VkX0QeICZw7o2jMwGThg.m3u8
 #EXTINF:-1 tvg-id="GulistanNews.in" tvg-logo="https://i.imgur.com/q5z6ycZ.png" group-title="News",Gulistan News (720p)
-https://livestream.jktvonline.com/hls/gul.m3u8
+https://live.gulistannews.in/hls/gul.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Gusto TV
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01077-gustoworldwidem-gustotvnz-samsungnz/playlist.m3u8
 #EXTINF:-1 tvg-id="HaGiangTV.vn" tvg-logo="https://i.imgur.com/zXqjjUf.png" group-title="General",Ha Giang TV (406p)
@@ -1140,6 +1140,8 @@ https://ythls.armelin.one/channel/UC0Um3pnZ2WGBEeoA3BX2sKw.m3u8
 https://v3.siar.us/humabetangtv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="HumraazTV.us" tvg-logo="https://i.imgur.com/1Lc9t0D.png" group-title="News",Humraaz TV [Not 24/7]
 https://cdn61.liveonlineservices.com/hls/humraaz.m3u8
+#EXTINF:-1 tvg-id="HunanEntertainmentChannel.cn" tvg-logo="https://www.tvchinese.net/uploads/tv/hnyl.jpg" group-title="Entertainment",Hunan Entertainment Channel
+http://1732e975z9.zicp.fun:8082/hls/20/index.m3u8
 #EXTINF:-1 tvg-id="HunanPingYu.cn" tvg-logo="https://i.imgur.com/h8MPvFy.png" group-title="Undefined",Hunan Ping Yu
 http://49.113.179.174:4022/udp/238.125.5.102:5140
 #EXTINF:-1 tvg-id="HyderTV.ca" tvg-logo="https://i.imgur.com/reHjjRZ.png" group-title="Culture",Hyder TV
@@ -1265,7 +1267,7 @@ http://49.113.179.174:4022/udp/238.125.0.158:5140
 #EXTINF:-1 tvg-id="JinvaniChannel.in" tvg-logo="https://i.imgur.com/lztyGVi.png" group-title="Religious",Jinvani Channel (1080p) [Not 24/7]
 https://ythls.armelin.one/channel/UCDNNWj0oAFXngcwHAwnwP4w.m3u8
 #EXTINF:-1 tvg-id="JK24x7News.in" tvg-logo="https://i.imgur.com/VIPPB6t.png" group-title="News",JK 24x7 News (720p)
-https://livestream.jktvonline.com/hls/jk.m3u8
+https://live.gulistannews.in/hls/jk.m3u8
 #EXTINF:-1 tvg-id="JKN18.th" tvg-logo="https://i.imgur.com/m4nPR2L.png" group-title="News",JKN 18 (1080p)
 https://edge6a.v2h-cdn.com/jkn18/jkn18.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="JobplusTV.kr" tvg-logo="https://i.imgur.com/Y5Zg5SR.png" group-title="Business",Job Plus TV (한국직업방송) (480p)
@@ -1561,11 +1563,11 @@ https://tv.rodja.live/tasik/ngrp:mgitv_all/playlist.m3u8
 #EXTINF:-1 tvg-id="MGSTV.id" tvg-logo="https://i.imgur.com/MYU7dsZ.png" group-title="General",MGS TV (720p) [Not 24/7]
 https://cdn.gunadarma.ac.id/streams/mgstv/ingestmgstv.m3u8
 #EXTINF:-1 tvg-id="Mh1Music.in" tvg-logo="https://i.imgur.com/Pi6ldXm.png" group-title="Music",MH One Music (1080p)
-https://mhonepunjabi.in/hls/stream.m3u8
+https://mhlive.paramountinfosystem.com/mhonemusictest/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="Mh1News.in" tvg-logo="https://i.imgur.com/RH52BX4.png" group-title="News",MH One News (1080p)
-https://mhonenews.in/hls/stream.m3u8
+https://mhlive.paramountinfosystem.com/mhonetest/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="MHOneShraddha.in" tvg-logo="https://i.imgur.com/Lrm8qTO.png" group-title="Religious",MH One Shraddha (1080p)
-https://mhoneshaddha.com/hls/stream.m3u8
+https://mhlive.paramountinfosystem.com/mhoneshraddhatest/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="MinhajTV.pk" tvg-logo="https://i.imgur.com/Kat9kjm.png" group-title="Religious",Minhaj TV (720p) [Not 24/7]
 https://ythls.armelin.one/channel/UCmwpLGkHfebwBaZbwcX3wWQ.m3u8
 #EXTINF:-1 tvg-id="MirrorNow.in" tvg-logo="https://i.imgur.com/N96LwKG.png" group-title="News",Mirror Now (720p)
@@ -1688,6 +1690,8 @@ https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/master.m3u
 https://ndtv.live-s.cdn.bitgravity.com/cdn-live/_definst_/ndtv/live/ndtv_profit.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="NeiMonggolTV.cn" tvg-logo="https://i.imgur.com/WeugJBE.png" group-title="Undefined",Nei Monggol TV
 http://49.113.179.174:4022/udp/238.125.7.93:5140
+#EXTINF:-1 tvg-id="NeiMonggolTV2MongolianCultureChannel.cn" tvg-logo="https://i.imgur.com/kpsjahG.png" group-title="Culture",Nei Monggol TV 2 Mongolian Culture Channel
+http://1.183.141.194:8001/hls/54/index.m3u8
 #EXTINF:-1 tvg-id="Net25.ph" tvg-logo="https://i.imgur.com/pPPubX5.png" group-title="General",NET 25 (1080p) [Not 24/7]
 https://ythls.armelin.one/channel/UC5IF8NlxMW1GkEUUqWJJBIw.m3u8
 #EXTINF:-1 tvg-id="NET.id" tvg-logo="https://i.imgur.com/RPT8O12.png" group-title="Family",NET. [Not 24/7]
@@ -1823,13 +1827,13 @@ https://livefta.malimarcdn.com/ftaedge00/ohmuanglao.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="Okey.my" tvg-logo="https://i.imgur.com/V2jREQ5.png" group-title="General",Okey RTM [Geo-blocked]
 #EXTVLCOPT:http-referrer=https://rtm-player.glueapi.io/
 https://d25tgymtnqzu8s.cloudfront.net/smil:okey/playlist.m3u8?id=3
-#EXTINF:-1 tvg-id="One31.th" tvg-logo="https://i.imgur.com/VY9OdOu.png" group-title="Undefined",ONE 31 (720p)
+#EXTINF:-1 tvg-id="One31.th" tvg-logo="https://i.imgur.com/VY9OdOu.png" group-title="General",ONE 31 (720p)
 https://hls-nginx.v2h-cdn.com/hls/onemyStream.m3u8
 #EXTINF:-1 tvg-id="OneGolf.pk" tvg-logo="https://i.imgur.com/7JhaEW5.png" group-title="Sports",One Golf (720p)
 http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
 #EXTINF:-1 tvg-id="OneTV.in" tvg-logo="https://i.imgur.com/6Jh8LRI.png" group-title="Entertainment",One TV (720p)
 http://137.59.86.218:1935/live/onetv/playlist.m3u8
-#EXTINF:-1 tvg-id="OnkarOnlyTruthTV.in" tvg-logo="https://i.imgur.com/wu7aQRg.png" group-title="Undefined",Onkar Bangla (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="OnkarOnlyTruthTV.in" tvg-logo="https://i.imgur.com/wu7aQRg.png" group-title="News",Onkar Bangla (720p) [Not 24/7]
 https://ythls.armelin.one/channel/UCEehFQbkw72mMNSqH-7YJ_w.m3u8
 #EXTINF:-1 tvg-id="OnlineTVNusantara.id" tvg-logo="https://i.imgur.com/E9CCIpP.jpg" group-title="Culture;General;Music;News",Online TV Nusantara (720p) [Not 24/7]
 https://5bf7b725107e5.streamlock.net/onlinetvnusantara/onlinetvnusantara/playlist.m3u8
@@ -1837,7 +1841,7 @@ https://5bf7b725107e5.streamlock.net/onlinetvnusantara/onlinetvnusantara/playlis
 https://cdn3.skygo.mn/live/disk1/ONTV/HLS-FTA/ONTV.m3u8
 #EXTINF:-1 tvg-id="OrasngHimala.ph" tvg-logo="https://i.imgur.com/UjXSgKu.png" group-title="Undefined",Oras Ng Himala (720p) [Not 24/7]
 https://ythls.armelin.one/channel/UCG_nkfwsIhO1OiRQUGfdLyw.m3u8
-#EXTINF:-1 tvg-id="OUN.kr" tvg-logo="https://i.imgur.com/7s6JtcU.png" group-title="Undefined",OUN (1080p)
+#EXTINF:-1 tvg-id="OUN.kr" tvg-logo="https://i.imgur.com/7s6JtcU.png" group-title="Education",OUN (1080p)
 https://live.knou.ac.kr/knou1/live1/playlist.m3u8
 #EXTINF:-1 tvg-id="PadangTV.id" tvg-logo="https://i.imgur.com/EL2BfxY.png" group-title="Undefined",Padang TV (1080p) [Not 24/7]
 https://ythls.armelin.one/channel/UCJS8e5S7Bbf4cctlJenY2Uw.m3u8
@@ -1967,10 +1971,6 @@ http://video10.qtv.com.cn/drm/qtv5at/manifest.m3u8
 http://video10.qtv.com.cn/drm/qtv6at/manifest.m3u8
 #EXTINF:-1 tvg-id="QuangNgaiTV.vn" tvg-logo="https://i.imgur.com/QckiN3H.png" group-title="Undefined",Quang Ngai TV (720p)
 http://118.107.85.5:1935/live/smil:PTQ.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="QuocHoiTV.vn" tvg-shift="-2" tvg-logo="https://i.imgur.com/QelCj8n.png" group-title="Undefined",Quốc Hội (720p)
-https://cloudvodqh.tek4tv.vn/live/quochoi_abr.m3u8
-#EXTINF:-1 tvg-id="QuocHoiTV.vn" tvg-logo="https://i.imgur.com/QelCj8n.png" group-title="Undefined",Quốc Hội (1080p)
-http://113.164.225.140:1935/live/quochoitvlive.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="QVC.jp" tvg-logo="https://i.imgur.com/xWSzQ34.png" group-title="Shop",QVC Japan (720p)
 https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8
 #EXTINF:-1 tvg-id="RPlus.in" tvg-logo="https://i.imgur.com/XUnWcZF.png" group-title="Undefined",R Plus (768p)
@@ -2264,8 +2264,12 @@ https://606d65214d80f.streamlock.net/live-stb/_definst_/113988c056b574662480f93e
 http://cdn25.live247stream.com/steelbirdmusic/tv/playlist.m3u8
 #EXTINF:-1 tvg-id="STOUChannel.th" tvg-logo="https://i.imgur.com/L3T2QZz.png" group-title="Undefined",STOU Channel (720p)
 https://stream1.stou.ac.th/live/stou_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="STVCity.cn" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/94/Shanghai_City_TV.PNG" group-title="General",STV City
+http://61.173.144.157:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="STVHaryanaNews.in" tvg-logo="https://i.imgur.com/TJRZo9e.png" group-title="News",STV Haryana News (720p) [Not 24/7]
 https://ythls.armelin.one/channel/UC6Hd69A3RKgu6Dj52H53ZDw.m3u8
+#EXTINF:-1 tvg-id="STVNewsandGeneral.cn" tvg-logo="https://skin.kankanews.com/logo/logo180x80.png" group-title="General;News",STV News and General
+http://61.173.144.157:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="STVNewsHokkaido.jp" tvg-logo="https://i.imgur.com/oyQ2FnC.jpg" group-title="News",STV News Hokkaido (1080p) [Not 24/7]
 https://ythls.armelin.one/channel/UCOZv-6MiXqJdLpmYtR431Ow.m3u8
 #EXTINF:-1 tvg-id="SubhavaarthaTV.in" tvg-logo="https://i.imgur.com/hfk5jKE.png" group-title="Undefined",Subhavaartha TV (720p)
@@ -2534,65 +2538,65 @@ https://ythls.armelin.one/channel/UCER4rvDnRBPr_ncYW4UCZjg.m3u8
 #EXTINF:-1 tvg-id="TVRParlemen.id" tvg-logo="https://i.imgur.com/2XYpmHL.png" group-title="Legislative",TVR Parlemen (720p) [Not 24/7]
 http://103.18.181.69:1935/golive/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="TVRIAceh.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png" group-title="Undefined",TVRI Aceh (720p)
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIACEH)/index.m3u8
+https://ott-balancer.tvri.go.id/live/eds/Aceh/hls/Aceh.m3u8
 #EXTINF:-1 tvg-id="TVRIBali.id" tvg-logo="https://i.imgur.com/3N6NDPf.png" group-title="Undefined",TVRI Bali (480p)
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIBALI)/index.m3u8
+https://ott-balancer.tvri.go.id/live/eds/Bali/hls/Bali.m3u8
 #EXTINF:-1 tvg-id="TVRIBangkaBelitung.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png" group-title="Undefined",TVRI Bangka Belitung (480p)
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIBABEL)/index.m3u8
+https://ott-balancer.tvri.go.id/live/eds/Babel/hls/Babel.m3u8
 #EXTINF:-1 tvg-id="TVRIBengkulu.id" tvg-logo="https://i.imgur.com/qswy60o.png" group-title="Undefined",TVRI Bengkulu (480p)
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIBENGKULU)/index.m3u8
+https://ott-balancer.tvri.go.id/live/eds/Bengkulu/hls/Bengkulu.m3u8
 #EXTINF:-1 tvg-id="TVRIDKIJakarta.id" tvg-logo="https://i.imgur.com/lSgiYnp.png" group-title="Undefined",TVRI DKI Jakarta (720p) [Not 24/7]
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIDKI)/index.m3u8
+https://ott-balancer.tvri.go.id/live/eds/DKI/hls/DKI.m3u8
 #EXTINF:-1 tvg-id="TVRIGorontalo.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png" group-title="Undefined",TVRI Gorontalo (480p)
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIGORONTALO)/index.m3u8
+https://ott-balancer.tvri.go.id/live/eds/Gorontalo/hls/Gorontalo.m3u8
 #EXTINF:-1 tvg-id="TVRIJambi.id" tvg-logo="https://i.imgur.com/e0Ulmy5.png" group-title="Undefined",TVRI Jambi (720p) [Not 24/7]
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIJAMBI)/index.m3u8
+https://ott-balancer.tvri.go.id/live/eds/Jambi/hls/Jambi.m3u8
 #EXTINF:-1 tvg-id="TVRIWestJava.id" tvg-logo="https://i.imgur.com/rrRMl08.png" group-title="Undefined",TVRI Jawa Barat (480p)
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIJABARBANDUNG)/index.m3u8
+https://ott-balancer.tvri.go.id/live/eds/Jabar/hls/Jabar.m3u8
 #EXTINF:-1 tvg-id="TVRICentralJava.id" tvg-logo="https://i.imgur.com/FLrmZvc.png" group-title="Undefined",TVRI Jawa Tengah (720p)
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIJATENGSEMARANG)/index.m3u8
+https://ott-balancer.tvri.go.id/live/eds/Jateng/hls/Jateng.m3u8
 #EXTINF:-1 tvg-id="TVRIEastJava.id" tvg-logo="https://i.imgur.com/Vxe6tcn.png" group-title="Undefined",TVRI Jawa Timur (720p)
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIJATIMSURABAYA)/index.m3u8
+https://ott-balancer.tvri.go.id/live/eds/Jatim/hls/Jatim.m3u8
 #EXTINF:-1 tvg-id="TVRIWestKalimantan.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png" group-title="Undefined",TVRI Kalimantan Barat (480p)
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIKALBAR)/index.m3u8
+https://ott-balancer.tvri.go.id/live/eds/Kalbar/hls/Kalbar.m3u8
 #EXTINF:-1 tvg-id="TVRISouthKalimantan.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png" group-title="Undefined",TVRI Kalimantan Selatan (720p)
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIKALSELBANJARMSN)/index.m3u8
+https://ott-balancer.tvri.go.id/live/eds/Kalsel/hls/Kalsel.m3u8
 #EXTINF:-1 tvg-id="TVRICentralKalimantan.id" tvg-logo="https://i.imgur.com/KQSlIQt.png" group-title="Undefined",TVRI Kalimantan Tengah (480p)
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIKALTENG)/index.m3u8
+https://ott-balancer.tvri.go.id/live/eds/Kalteng/hls/Kalteng.m3u8
 #EXTINF:-1 tvg-id="TVRIEastKalimantan.id" tvg-logo="https://i.imgur.com/9ND64L5.png" group-title="Undefined",TVRI Kalimantan Timur (720p)
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIKALTIMSAMARINDA)/index.m3u8
+https://ott-balancer.tvri.go.id/live/eds/Kaltim/hls/Kaltim.m3u8
 #EXTINF:-1 tvg-id="TVRILampung.id" tvg-logo="https://i.imgur.com/8102yhJ.png" group-title="Undefined",TVRI Lampung (720p)
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRILAMPUNG)/index.m3u8
+https://ott-balancer.tvri.go.id/live/eds/Lampung/hls/Lampung.m3u8
 #EXTINF:-1 tvg-id="TVRIMaluku.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png" group-title="Undefined",TVRI Maluku (480p)
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIMALUKUAMBON)/index.m3u8
+https://ott-balancer.tvri.go.id/live/eds/Ambon/hls/Ambon.m3u8
 #EXTINF:-1 tvg-id="TVRINasional.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png" group-title="General",TVRI Nasional (720p)
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINASIONAL)/index.m3u8
+https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
 #EXTINF:-1 tvg-id="TVRIWestNusaTenggara.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png" group-title="Undefined",TVRI Nusa Tenggara Barat (720p)
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINTBMATARAM)/index.m3u8
+https://ott-balancer.tvri.go.id/live/eds/NTB/hls/NTB.m3u8
 #EXTINF:-1 tvg-id="TVRIEastNusaTenggara.id" tvg-logo="https://i.imgur.com/acFJNef.png" group-title="Undefined",TVRI Nusa Tenggara Timur (480p)
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINTTKUPANG)/index.m3u8
+https://ott-balancer.tvri.go.id/live/eds/NTT/hls/NTT.m3u8
 #EXTINF:-1 tvg-id="TVRIPapua.id" tvg-logo="https://i.imgur.com/eQ7Aqy5.png" group-title="Undefined",TVRI Papua (480p)
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIPAPUA)/index.m3u8
+https://ott-balancer.tvri.go.id/live/eds/Papua/hls/Papua.m3u8
 #EXTINF:-1 tvg-id="TVRIRiau.id" tvg-logo="https://i.imgur.com/iSERkWC.png" group-title="Undefined",TVRI Riau (720p) [Not 24/7]
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIRIAU)/index.m3u8
+https://ott-balancer.tvri.go.id/live/eds/Riau/hls/Riau.m3u8
 #EXTINF:-1 tvg-id="TVRISport.id" tvg-logo="https://i.postimg.cc/rFKcGqwx/TVRI-Sport-2022.png" group-title="Sports",TVRI Sport (720p)
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI4)/index.m3u8
+https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 #EXTINF:-1 tvg-id="TVRIWestSulawesi.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png" group-title="Undefined",TVRI Sulawesi Barat (720p)
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRISULBARMAJENE)/index.m3u8
+https://ott-balancer.tvri.go.id/live/eds/Sulbar/hls/Sulbar.m3u8
 #EXTINF:-1 tvg-id="TVRISouthSulawesi.id" tvg-logo="https://i.imgur.com/QCJnteP.png" group-title="Undefined",TVRI Sulawesi Selatan (480p)
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRISULSELMAKASAR)/index.m3u8
+https://ott-balancer.tvri.go.id/live/eds/Sulsel/hls/Sulsel.m3u8
 #EXTINF:-1 tvg-id="TVRICentralSulawesi.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png" group-title="Undefined",TVRI Sulawesi Tengah (720p)
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRISULTENGPALU)/index.m3u8
+https://ott-balancer.tvri.go.id/live/eds/Sulteng/hls/Sulteng.m3u8
 #EXTINF:-1 tvg-id="TVRISoutheastSulawesi.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png" group-title="Undefined",TVRI Sulawesi Tenggara (480p)
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRISULTRA)/index.m3u8
+https://ott-balancer.tvri.go.id/live/eds/Sultra/hls/Sultra.m3u8
 #EXTINF:-1 tvg-id="TVRIWestSumatra.id" tvg-logo="https://i.imgur.com/CkZf4bq.png" group-title="Undefined",TVRI Sumatera Barat (720p)
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRISUMBARPADANG)/index.m3u8
+https://ott-balancer.tvri.go.id/live/eds/Sumbar/hls/Sumbar.m3u8
 #EXTINF:-1 tvg-id="TVRISouthSumatra.id" tvg-logo="https://i.imgur.com/iuUTOWz.png" group-title="Undefined",TVRI Sumatera Selatan (480p)
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRISUMSEL)/index.m3u8
+https://ott-balancer.tvri.go.id/live/eds/Sumsel/hls/Sumsel.m3u8
 #EXTINF:-1 tvg-id="TVRIWorld.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/TVRIWorld.png/512px-TVRIWorld.png" group-title="Undefined",TVRI World
 https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
 #EXTINF:-1 tvg-id="TVRIYogyakarta.id" tvg-logo="https://i.imgur.com/lcH92DJ.png" group-title="Undefined",TVRI Yogyakarta (720p)
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIYOGYAKARTA)/index.m3u8
+https://ott-balancer.tvri.go.id/live/eds/Jogjakarta/hls/Jogjakarta.m3u8
 #EXTINF:-1 tvg-id="TVSN.au" tvg-logo="https://i.imgur.com/lmoAFm3.png" group-title="Shop",TVSN (1080p)
 https://tvsnhlslivetest.akamaized.net/hls/live/2034711/TVSN-MSL4/master.m3u8
 #EXTINF:-1 tvg-id="TVSNBeauty.au" tvg-logo="https://i.imgur.com/lmoAFm3.png" group-title="Shop",TVSN Beauty (1080p)

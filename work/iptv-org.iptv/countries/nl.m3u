@@ -179,9 +179,9 @@ https://d3isaxd2t6q8zm.cloudfront.net/live/omroepzeeland/tv/index.m3u8
 https://d3pvma9xb2775h.cloudfront.net/live/omropfryslan/stream04/index.m3u8
 #EXTINF:-1 tvg-id="OOGTV.nl" tvg-logo="https://i.imgur.com/WzxY0PL.png" group-title="General",OOG TV (720p)
 https://d1xcc1603wntzx.cloudfront.net/nlpo/clr-nlpo/oogtv/index.m3u8
-#EXTINF:-1 tvg-id="OPENRotterdamTV.nl" tvg-logo="https://i.imgur.com/nWahRAb.png" group-title="Undefined",Open Rotterdam (480p) [Not 24/7]
+#EXTINF:-1 tvg-id="OPENRotterdamTV.nl" tvg-logo="https://i.imgur.com/nWahRAb.png" group-title="General",Open Rotterdam (480p) [Not 24/7]
 https://ms2.mx-cd.net/tv/141-573555/OPEN_Rotterdam.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="ORTSTV.nl" tvg-logo="https://i.imgur.com/RZM4Myo.png" group-title="Undefined",ORTS (480p) [Not 24/7]
+#EXTINF:-1 tvg-id="ORTSTV.nl" tvg-logo="https://i.imgur.com/RZM4Myo.png" group-title="General",ORTS (480p) [Not 24/7]
 https://ms7.mx-cd.net/tv/200-1006554/ORTS_TV.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="PeerTVAltoAdige.it" tvg-logo="https://www.peer.biz/peertv-iptv/peer-tv-alto-adige.png" group-title="Outdoor;Travel",Peer TV Alto Adige (1280p)
 https://iptv.peer.biz/live/peertv-it.m3u8
@@ -248,6 +248,10 @@ https://server-67.stream-server.nl:1936/RosTVkrant/RosTVkrant/playlist.m3u8
 http://ms10.mx-cd.net/tv/141-573565/Podium_Rotterdam.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="RPLWoerden.nl" tvg-logo="https://i.imgur.com/UdYMXWQ.png" group-title="General",RPL TV Woerden (720p)
 https://d1893oi5c6e5u0.cloudfront.net/nlpo/clr-nlpo/rpltvwoerden/index.m3u8
+#EXTINF:-1 tvg-id="RTL.de" tvg-logo="https://i.imgur.com/94K94k2.png" group-title="Undefined",RTL (Germany) (576p)
+http://178.219.128.68:64888/RTL
+#EXTINF:-1 tvg-id="RTLZwei.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/RTLZWEI_Logo_2019.svg/512px-RTLZWEI_Logo_2019.svg.png" group-title="Undefined",RTL Zwei (1080p)
+http://178.219.128.68:64888/RTL2
 #EXTINF:-1 tvg-id="RTV1.nl" tvg-logo="https://i.imgur.com/lRCsPWT.png" group-title="Undefined",RTV 1 (720p)
 https://dy7fxpkq4ggk8.cloudfront.net/nlpo/clr-nlpo/rtv1/index.m3u8
 #EXTINF:-1 tvg-id="RTV527.nl" tvg-logo="https://i.imgur.com/35052Q6.png" group-title="General",RTV 527 (1080p)

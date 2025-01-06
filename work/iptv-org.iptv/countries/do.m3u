@@ -355,7 +355,7 @@ https://stream.live.novotempo.com/tv/smil:tvnuevotiempo.smil/playlist.m3u8
 https://cnn.essastream.com:3318/live/oepmtelevisionlive.m3u8
 #EXTINF:-1 tvg-id="OndaTV.do" tvg-logo="https://i.imgur.com/RUIyD9a.png" group-title="General",Onda TV (720p)
 https://ss5.domint.net:3176/otv_str/ondatv/playlist.m3u8
-#EXTINF:-1 tvg-id="ORBITTV.do" tvg-logo="https://i.imgur.com/lizQs3n.png" group-title="Undefined",ORBIT TV (480p) [Not 24/7]
+#EXTINF:-1 tvg-id="ORBITTV.do" tvg-logo="https://i.imgur.com/lizQs3n.png" group-title="General",ORBIT TV (480p) [Not 24/7]
 https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Oxi TV (720p)
 https://streamunoapp.com:3520/live/oxitvcanal36live.m3u8
@@ -463,8 +463,8 @@ https://ss2.domint.net:3236/stv_str/supertv55/playlist.m3u8
 https://ss2.domint.net:3132/stv_str/supremateve/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Taino TV (720p)
 https://tvdatta.com:3602/stream/play.m3u8
-#EXTINF:-1 tvg-id="TastemadeenEspanol.us" tvg-logo="https://i.imgur.com/8s6aRwv.png" group-title="Cooking",Tastemade en Español (1080p)
-https://tastemadees16intl-samsungmexico.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="TastemadeenEspanol.us" tvg-logo="https://i.imgur.com/8s6aRwv.png" group-title="Cooking",Tastemade en Espanol [Geo-blocked]
+https://tastemadees16us-xumo.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="TeleAntillas.do" tvg-logo="https://i.imgur.com/G1pJZkC.png" group-title="Undefined",Tele Antillas (480p)
 https://glb.bozztv.com/glb/ssh101/0010/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Tele Dajabon TV (720p)
