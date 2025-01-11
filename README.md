@@ -15,21 +15,28 @@
 
 
 # 📖 m3u电视源
-https://cdn.jsdelivr.net/gh/hst1189/iptv/
-https://cdn.jsdelivr.net/gh/hst1189/iptv/
-https://cdn.jsdelivr.net/gh/hst1189/iptv/
-https://cdn.jsdelivr.net/gh/hst1189/iptv/
-https://cdn.jsdelivr.net/gh/hst1189/iptv/
-https://cdn.jsdelivr.net/gh/hst1189/iptv/
-https://cdn.jsdelivr.net/gh/hst1189/iptv/
-https://cdn.jsdelivr.net/gh/hst1189/iptv/
-https://cdn.jsdelivr.net/gh/hst1189/iptv/
-https://cdn.jsdelivr.net/gh/hst1189/iptv/
-https://cdn.jsdelivr.net/gh/hst1189/iptv/
 
-（以上链接需要挂梯子，或可在地址前加 https://ghp.ci/，或 https://ghgo.xyz/）
-如：https://ghp.ci/https://xxxxx/iptv.m3u
-如：https://ghgo.xyz/https://xxxxx/iptv.m3u
+- https://cdn.jsdelivr.net/gh/hst1189/iptv/01_CCTV.m3u
+- https://cdn.jsdelivr.net/gh/hst1189/iptv/02_CCTV_IPv6.m3u
+- https://cdn.jsdelivr.net/gh/hst1189/iptv/03_各地卫视&地方台.m3u
+- https://cdn.jsdelivr.net/gh/hst1189/iptv/04_各地卫视&地方台_IPv6.m3u
+- https://cdn.jsdelivr.net/gh/hst1189/iptv/05_iHOT_newtv等数字服务商.m3u
+- https://cdn.jsdelivr.net/gh/hst1189/iptv/06_iHOT_newtv等数字服务商_IPv6.m3u
+- https://cdn.jsdelivr.net/gh/hst1189/iptv/07_BesTV.m3u
+- https://cdn.jsdelivr.net/gh/hst1189/iptv/08_itv.m3u
+- https://cdn.jsdelivr.net/gh/hst1189/iptv/09_国外电视台.m3u
+- https://cdn.jsdelivr.net/gh/hst1189/iptv/10_广播radio.m3u
+- https://cdn.jsdelivr.net/gh/hst1189/iptv/20_咪咕直播.m3u
+- https://cdn.jsdelivr.net/gh/hst1189/iptv/21_埋堆堆.m3u
+- https://cdn.jsdelivr.net/gh/hst1189/iptv/22_虎牙直播.m3u
+- https://cdn.jsdelivr.net/gh/hst1189/iptv/23_斗鱼直播.m3u
+- https://cdn.jsdelivr.net/gh/hst1189/iptv/24_bilibili直播.m3u
+- https://cdn.jsdelivr.net/gh/hst1189/iptv/25_历年春晚直播.m3u
+- https://cdn.jsdelivr.net/gh/hst1189/iptv/99_少儿不宜NSFW.m3u
+
+（如果需要挂梯子，可在地址前加 https://ghp.ci/，或 https://ghgo.xyz/）
+
+如：https://ghp.ci/https://xxxxx/iptv.m3u 或  https://ghgo.xyz/https://xxxxx/iptv.m3u
 
 
 
