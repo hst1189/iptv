@@ -14,6 +14,24 @@
 ![打赏](wechat_reward.png)
 
 
+# 📖 m3u电视源
+https://cdn.jsdelivr.net/gh/hst1189/iptv/
+https://cdn.jsdelivr.net/gh/hst1189/iptv/
+https://cdn.jsdelivr.net/gh/hst1189/iptv/
+https://cdn.jsdelivr.net/gh/hst1189/iptv/
+https://cdn.jsdelivr.net/gh/hst1189/iptv/
+https://cdn.jsdelivr.net/gh/hst1189/iptv/
+https://cdn.jsdelivr.net/gh/hst1189/iptv/
+https://cdn.jsdelivr.net/gh/hst1189/iptv/
+https://cdn.jsdelivr.net/gh/hst1189/iptv/
+https://cdn.jsdelivr.net/gh/hst1189/iptv/
+https://cdn.jsdelivr.net/gh/hst1189/iptv/
+
+（以上链接需要挂梯子，或可在地址前加 https://ghp.ci/，或 https://ghgo.xyz/）
+如：https://ghp.ci/https://xxxxx/iptv.m3u
+如：https://ghgo.xyz/https://xxxxx/iptv.m3u
+
+
 
 # 📖 API使用方法
 1. 下载.m3u 导入本地播放器即可
