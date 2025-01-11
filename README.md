@@ -15,50 +15,6 @@
 
 
 
-# 📖 m3u 收录的电视源
-
-### YanG-1989/m3u  
-☑️[gituhub地址](https://github.com/YanG-1989/m3u)
-- https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u
-- https://tv.iill.top/m3u/Gather
-- https://tv.iill.top/m3u/Live
-- https://tv.iill.top/m3u/Sport
-- https://tv.iill.top/m3u/MyTV
-
-### YueChan/Live 
-☑️[gituhub地址](https://github.com/YueChan/Live)
-- https://raw.githubusercontent.com/YueChan/Live/main/APTV.m3u
-- https://raw.githubusercontent.com/YueChan/Live/main/Global.m3u
-- https://raw.githubusercontent.com/YueChan/Live/main/Adult.m3u
-- https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u
-- https://raw.githubusercontent.com/YueChan/Live/main/Radio.m3u
-
-（以上链接需要挂梯子，或可在地址前加 https://ghp.ci/，或 https://ghgo.xyz/）
-如：https://ghp.ci/https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/APTV.m3u
-
-### Kimentanm/aptv
-☑️[gituhub地址](https://github.com/Kimentanm/aptv)
-- https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u
-- https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/radio.m3u
-
-### fanmingming/live
-☑️[gituhub地址](https://github.com/fanmingming/live)
-- https://live.fanmingming.com/
-- https://live.fanmingming.com/tv/m3u/ipv6.m3u （原链接貌似已被墙，可用下方链接替代）
-- 备用链接：https://ghgo.xyz/https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/m3u/ipv6.m3u
-
-### iptv-org/iptv
-☑️[gituhub地址](https://github.com/iptv-org/iptv/tree/gh-pages)        ※全球电视台
-- https://iptv-org.github.io/iptv/index.m3u
-
-### Free-TV/IPTV
-☑️[gituhub地址](https://github.com/Free-TV/IPTV)                       ※全球电视台
-
-### imDazui/Tvlist-awesome-m3u-m3u8
-☑️[gituhub地址](https://github.com/imDazui/Tvlist-awesome-m3u-m3u8)   ※超多中文电视台 - 貌似很久未更新了
-
-
-
 # 📖 API使用方法
 1. 下载.m3u 导入本地播放器即可
 2. 或者URL直接指定
@@ -162,6 +118,57 @@
 - https://xmltv.tvkaista.net/                           ※各国EPG - 不定期更新（实际用的是 iptv-org ）
 - https://xmltv.tvkaista.net/guides/tv.cctv.com.xml     ※中国电视台EPG - 不定期更新
 - https://assets.livednow.com/guide.html                ※检测（https://epg.pw） - 毎日０時更新
+
+
+
+# 📖 m3u 收录的电视源
+<details>
+
+<summary></summary>
+
+### YanG-1989/m3u  
+☑️[gituhub地址](https://github.com/YanG-1989/m3u)
+- https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u
+- https://tv.iill.top/m3u/Gather
+- https://tv.iill.top/m3u/Live
+- https://tv.iill.top/m3u/Sport
+- https://tv.iill.top/m3u/MyTV
+
+### YueChan/Live 
+☑️[gituhub地址](https://github.com/YueChan/Live)
+- https://raw.githubusercontent.com/YueChan/Live/main/APTV.m3u
+- https://raw.githubusercontent.com/YueChan/Live/main/Global.m3u
+- https://raw.githubusercontent.com/YueChan/Live/main/Adult.m3u
+- https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u
+- https://raw.githubusercontent.com/YueChan/Live/main/Radio.m3u
+
+（以上链接需要挂梯子，或可在地址前加 https://ghp.ci/，或 https://ghgo.xyz/）
+如：https://ghp.ci/https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/APTV.m3u
+
+### Kimentanm/aptv
+☑️[gituhub地址](https://github.com/Kimentanm/aptv)
+- https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u
+- https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/radio.m3u
+
+### fanmingming/live
+☑️[gituhub地址](https://github.com/fanmingming/live)
+- https://live.fanmingming.com/
+- https://live.fanmingming.com/tv/m3u/ipv6.m3u （原链接貌似已被墙，可用下方链接替代）
+- 备用链接：https://ghgo.xyz/https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/m3u/ipv6.m3u
+
+### iptv-org/iptv
+☑️[gituhub地址](https://github.com/iptv-org/iptv/tree/gh-pages)        ※全球电视台
+- https://iptv-org.github.io/iptv/index.m3u
+
+### Free-TV/IPTV
+☑️[gituhub地址](https://github.com/Free-TV/IPTV)                       ※全球电视台
+
+### imDazui/Tvlist-awesome-m3u-m3u8
+☑️[gituhub地址](https://github.com/imDazui/Tvlist-awesome-m3u-m3u8)   ※超多中文电视台 - 貌似很久未更新了
+
+</details>
+
+
 
 
 
