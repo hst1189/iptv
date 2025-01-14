@@ -44,7 +44,7 @@ jobs:
                 read_dir $1"/"$file
               else
                 echo "⊥file: "$file
-                iptv-checker -o ${GITHUB_WORKSPACE}/check_result -p 100 -t 60000 $1"/"$file > /dev/null
+                iptv-checker -o ${GITHUB_WORKSPACE}/check_result -p 100 -t 60000 $file > /dev/null
                # cp -pr ${GITHUB_WORKSPACE}/check_result/online.m3u ${GITHUB_WORKSPACE}/docs/$dirwork$file
               fi
             done
