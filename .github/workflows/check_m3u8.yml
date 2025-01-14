@@ -29,25 +29,27 @@ jobs:
 
       - name: Check files 🔥
         run: |
+          mkdir -p ${GITHUB_WORKSPACE}/check_result
           dirwork=""
+          
           function read_dir(){
             for file in `ls $1`
             do
               if [ -d $1"/"$file ]; then
                 echo "―folder: "$file
-                if [ ! -d ${GITHUB_WORKSPACE}/docs/$file ]; then
-                  mkdir -p ${GITHUB_WORKSPACE}/docs/$file
+                if [ ! -d ${GITHUB_WORKSPACE}/check_result/$file ]; then
+                  mkdir -p ${GITHUB_WORKSPACE}/check_result/$file
                 fi
                 dirwork=$file"/"
                 read_dir $1"/"$file
               else
                 echo "⊥file: "$file
-                iptv-checker -o ${GITHUB_WORKSPACE}/output -p 100 -t 60000 $1"/"$file > /dev/null
-                cp -pr ${GITHUB_WORKSPACE}/output/online.m3u ${GITHUB_WORKSPACE}/docs/$dirwork$file
+                iptv-checker -o ${GITHUB_WORKSPACE}/check_result -p 100 -t 60000 $1"/"$file > /dev/null
+               # cp -pr ${GITHUB_WORKSPACE}/check_result/online.m3u ${GITHUB_WORKSPACE}/docs/$dirwork$file
               fi
             done
           }
-          read_dir ${GITHUB_WORKSPACE}/work
+          read_dir ${GITHUB_WORKSPACE}/work/Guovin.TV
 
       - name: Commit & Push changes 🔥
         uses: Andro999b/push@v1.3
