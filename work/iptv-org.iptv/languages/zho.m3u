@@ -5,8 +5,6 @@ https://mediaserver.abnvideos.com/streams/abnchina.m3u8
 http://119.1.122.186:4022/rtp/238.255.2.189:5999
 #EXTINF:-1 tvg-id="AngelTVChinese.in" tvg-logo="https://i.imgur.com/qKLEGU7.png" group-title="Religious",Angel TV Chinese (720p)
 https://cdn3.wowza.com/5/TDJ0aWNkNXFxWWta/angeltvcloud/ngrp:angelchinese_all/playlist.m3u8
-#EXTINF:-1 tvg-id="BabyFirst.us" tvg-logo="https://i.imgur.com/WxLHBwu.png" group-title="Kids",BabyFirst (1080p)
-https://lte.wiseplayout.com/WiseM3U8_12/master.m3u8
 #EXTINF:-1 tvg-id="BeautifulLifeTV.tw" tvg-logo="https://i.imgur.com/hkwcBM9.png" group-title="Religious",Beautiful Life TV
 https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8
 #EXTINF:-1 tvg-id="BingtuanSatelliteTV.cn" tvg-logo="https://i.imgur.com/Y4qxDqz.png" group-title="Undefined",Bingtuan Satellite TV
@@ -77,6 +75,8 @@ http://117.161.133.51:81/gitv_live/G_CETV-1/G_CETV-1.m3u8?p=GITV
 http://117.161.133.51:81/gitv_live/G_CETV-2/G_CETV-2.m3u8?p=GITV
 #EXTINF:-1 tvg-id="CETV4.cn" tvg-logo="https://i.imgur.com/a1N6wB7.png" group-title="Documentary",CETV-4
 http://49.113.179.174:4022/udp/238.125.3.92:5140
+#EXTINF:-1 tvg-id="CGNTVChinese.tw" tvg-logo="https://i.imgur.com/bPoPAbR.png" group-title="Religious",CGNTV Chinese (1080p)
+https://d3e05csss9c272.cloudfront.net/out/v1/f0bf71c57581470fb9379f603e8f5d83/CGNWebLiveCN.m3u8
 #EXTINF:-1 tvg-id="CGTN.cn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/512px-CGTN.svg.png" group-title="News",CGTN (1080p)
 https://english-livebkws.cgtn.com/live/encgtn.m3u8
 #EXTINF:-1 tvg-id="Channel8.sg" tvg-logo="https://i.imgur.com/6YPZc24.png" group-title="General",Channel 8 [Geo-blocked]
@@ -135,8 +135,6 @@ http://49.113.179.174:4022/udp/238.125.5.102:5140
 http://streamipcf.akamaized.net/live/_definst_/smil:liveabr.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="JiaJiaCartoon.cn" tvg-logo="https://i.imgur.com/0TLG3Xk.png" group-title="Kids",JiaJia Cartoon
 http://49.113.179.174:4022/udp/238.125.0.158:5140
-#EXTINF:-1 tvg-id="KMTV.kr" tvg-logo="https://i.imgur.com/eysZDoU.png" group-title="Entertainment",KMTV
-https://kmtvnow-samsung-us.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="LanzhouComprehensiveNewsChannel.cn" tvg-logo="https://p3-pc.douyinpic.com/img/aweme-avatar/tos-cn-avt-0015_c2a13a952c0111b21f081d672798c8ed~c5_300x300.jpeg?from=2956013662" group-title="News",Lanzhou Comprehensive News Channel
 https://liveplus.lztv.tv/xwzh/HD/live.m3u8
 #EXTINF:-1 tvg-id="LaughterTheater.cn" tvg-logo="https://i.imgur.com/CrFesS6.png" group-title="Comedy",Laughter Theater

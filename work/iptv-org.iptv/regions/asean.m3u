@@ -196,8 +196,6 @@ http://118.107.85.4:1935/live/smil:DNTV2.smil/playlist.m3u8
 https://618b88f69e53b.streamlock.net/THDT/thdttv/playlist.m3u8
 #EXTINF:-1 tvg-id="DopaChannel.th" tvg-logo="https://i.imgur.com/Z9vxti4.png" group-title="Undefined",Dopa Channel
 http://dopachannel.truegse.com/live/dopatv03.m3u8
-#EXTINF:-1 tvg-id="DreamstarTV.ph" tvg-logo="https://i.imgur.com/TltPHDk.png" group-title="Music",Dreamstar TV (720p) [Not 24/7]
-https://ssh101-fl.bozztv.com/ssh101/dreamstartvnew/index.m3u8
 #EXTINF:-1 tvg-id="DuniaGamesTV.id" tvg-logo="https://i.imgur.com/SSDguTa.png" group-title="Sports",Dunia Games TV (720p) [Not 24/7] [Geo-blocked]
 https://cdn01-telkomsel-01.akamaized.net/Content/HLS/Live/channel(6854467f-52fe-48ee-9822-00233c678709)/index.m3u8
 #EXTINF:-1 tvg-id="DuniaSinema.my" tvg-logo="https://playtv.unifi.com.my:7047/CPS/images/universal/film/logo/201907/20190716/20190716074123890vav.png" group-title="Movies",Dunia Sinema (1080p)
@@ -270,6 +268,8 @@ https://kbtv.akamaized.net/hls/live/2031188/kanalbuya/playlist.m3u8
 https://inspiratv.siar.us/inspiratv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="ISTV.la" tvg-logo="https://i.imgur.com/TGAKFcV.jpg" group-title="General",ISTV (480p)
 https://livefta.malimarcdn.com/ftaedge00/ichannel.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="iTVHD.kh" tvg-logo="https://i.imgur.com/qIPvw8N.jpg" group-title="Entertainment",iTV HD
+http://43.252.18.195:5080/live/streams/itv.khmeretv.m3u8
 #EXTINF:-1 tvg-id="IzzahTV.id" tvg-logo="https://i.imgur.com/my7aqLc.png" group-title="Religious",Izzah TV (480p)
 https://streaming.radiosalamjambi.com/izzahtv.m3u8
 #EXTINF:-1 tvg-id="JakTV.id" tvg-logo="https://i.imgur.com/xyLLLOi.png" group-title="Undefined",Jak TV (480p) [Geo-blocked]
@@ -362,8 +362,9 @@ https://5a13fe32ef748.streamlock.net/mmplay/mrtv/playlist.m3u8
 https://5a13fe32ef748.streamlock.net/mmplay/mrtv-entertainment/playlist.m3u8
 #EXTINF:-1 tvg-id="MRTVParliament.mm" tvg-logo="https://i.imgur.com/5eK8Bc4.png" group-title="Legislative",MRTV Parliament (480p)
 https://5a13fe32ef748.streamlock.net/mmplay/hluttaw/playlist.m3u8
-#EXTINF:-1 tvg-id="MSJTV.kh" tvg-logo="https://i.imgur.com/TilslGU.png" group-title="General",MSJ TV (720p)
-http://124.248.165.18:1935/live/myStream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="MSJTV.kh" tvg-logo="https://i.imgur.com/TilslGU.png" group-title="General",MSJ TV (1080p)
+#EXTVLCOPT:http-referrer=https://www.iptvservice.site/
+https://live-ali7.tv360.metfone.com.kh/live/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="MTATV.id" tvg-logo="https://i.imgur.com/3kGs7k0.png" group-title="Religious",MTA TV (720p) [Geo-blocked]
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(b3673fde-4acd-4f1d-95a5-a204d62545ac)/index.m3u8
 #EXTINF:-1 tvg-id="MVLaoTV.la" tvg-logo="https://i.imgur.com/oVlQUKM.png" group-title="Entertainment",MV Lao TV [Geo-blocked]
@@ -435,8 +436,6 @@ https://cdn-th-vip.livestreaming.in.th/policetv/policetv/playlist.m3u8
 http://122.248.43.138:1935/ch15/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="PSJTV.id" tvg-logo="https://i.postimg.cc/1XSf22bM/PSJTV-LOGO.png" group-title="Undefined",PSJ TV (1080p)
 https://play.accolamedia.id/accola/psj.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="PTV.ph" tvg-logo="https://i.imgur.com/MMccHNd.png" group-title="Undefined",PTV (720p) [Not 24/7]
-https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/PTV.m3u8
 #EXTINF:-1 tvg-id="PujaTVAceh.id" tvg-logo="https://i.imgur.com/0TqABCL.png" group-title="Undefined",Puja TV Aceh (1080p) [Not 24/7]
 https://v6.siar.us/pujatv/live/chunks.m3u8
 #EXTINF:-1 tvg-id="QPVN.vn" tvg-logo="https://i.imgur.com/GQO7UNu.png" group-title="Undefined",QPVN (720p)
@@ -659,8 +658,6 @@ https://ott-balancer.tvri.go.id/live/eds/Jogjakarta/hls/Jogjakarta.m3u8
 https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv.m3u8
 #EXTINF:-1 tvg-id="UniquelyThai.vn" tvg-logo="https://i.imgur.com/cTSDB8O.png" group-title="Shop",Uniquely Thai (720p)
 https://livefta.malimarcdn.com/ftaedge00/uniquely.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="VNews.vn" tvg-logo="https://i.imgur.com/qGKQE0r.png" group-title="News",V News (1080p)
-https://zjizeoupprliv.vcdn.cloud/live/smil:vnews.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Vasantham.sg" tvg-logo="https://i.imgur.com/vqVEcuT.png" group-title="Undefined",Vasantham [Geo-blocked]
 https://d39v9xz8f7n8tk.cloudfront.net/hls/clr4ctv_vsnthm/master.m3u8
 #EXTINF:-1 tvg-id="VatiLao.la" tvg-logo="https://i.imgur.com/NwxXABV.png" group-title="Entertainment",Vati Lao TV (720p)
@@ -669,20 +666,6 @@ https://livefta.malimarcdn.com/ftaedge00/vatilaotv.stream/playlist.m3u8
 http://uni6rtmp.tulix.tv:1935/vbstv/vbsabr.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="VinhPhucTV.vn" tvg-logo="https://i.imgur.com/jLgwX4X.png" group-title="Undefined",Vinh Phuc TV (1080p)
 http://vinhphuctv.vn:8090/vinhphuclive/web.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="TTXVN.vn" tvg-logo="https://i.imgur.com/qCEzwUR.png" group-title="Undefined",VNews (TTXVN) (1080p)
-https://zjizeoupprliv.vcdn.cloud/live/vnews/chunklist.m3u8
-#EXTINF:-1 tvg-id="VOVTV.vn" tvg-logo="https://i.imgur.com/tfYNZmG.png" group-title="News",VOV TV (1080p)
-https://live.mediatech.vn/live/285fbc845578c6641d5a4c40534a0d1864b/playlist.m3u8
-#EXTINF:-1 tvg-id="VTC1.vn" tvg-logo="https://i.imgur.com/o70uxdn.png" group-title="Undefined",VTC1 (1080p)
-http://125hvt.ddns.net:21585/vtc1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="VTC10.vn" tvg-logo="https://i.imgur.com/3VAzTA4.png" group-title="Undefined",VTC10 (1080p)
-https://1117141481.vnns.net/VTC10/chunks.m3u8
-#EXTINF:-1 tvg-id="VTC11.vn" tvg-logo="https://i.imgur.com/zzFrSDt.png" group-title="Undefined",VTC11
-https://1117141481.vnns.net/VTC11/chunks.m3u8
-#EXTINF:-1 tvg-id="VTC12.vn" tvg-logo="https://i.imgur.com/5gT8NaT.png" group-title="Undefined",VTC12
-https://1117141481.vnns.net/VTC12/chunks.m3u8
-#EXTINF:-1 tvg-id="VTC13.vn" tvg-logo="https://i.imgur.com/1qse9xF.png" group-title="Undefined",VTC13 (1080p)
-https://1117141481.vnns.net/VTC13/chunks.m3u8
 #EXTINF:-1 tvg-id="VTV2.vn" tvg-logo="https://i.imgur.com/qWWpYRR.png" group-title="Undefined",VTV2 (1080p)
 http://str1.cvtv.xyz/vtv2?token=live
 #EXTINF:-1 tvg-id="VTV5.vn" tvg-logo="https://i.imgur.com/Vnnna1C.png" group-title="Undefined",VTV5 (1080p)
