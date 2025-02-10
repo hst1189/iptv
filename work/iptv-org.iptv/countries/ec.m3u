@@ -48,8 +48,6 @@ https://linear-354.frequency.stream/mt/studio/354/hls/master/playlist.m3u8
 https://linear-404.frequency.stream/mt/studio/404/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="DistritoComedia.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/DistritoComediaLOGO2018.png/512px-DistritoComediaLOGO2018.png" group-title="Comedy",Distrito Comedia (576p)
 https://linear-405.frequency.stream/mt/studio/405/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="DreamforceBtl.us" tvg-logo="https://i.imgur.com/6SsaKEh.png" group-title="General",Dreamforce Btl
-https://srv2.tropicalmoonmedia.com/dreamforcebtltv/dreamforcebtltv/playlist.m3u8
 #EXTINF:-1 tvg-id="DuendeTv.ec" tvg-logo="https://i.imgur.com/6125FPV.jpg" group-title="General",Duende Tv (720p)
 https://ed29ov.live.opencaster.com/EDokztdeHFwk/index.m3u8
 #EXTINF:-1 tvg-id="DuranTV.ec" tvg-logo="https://i.imgur.com/8k8DsBL.png" group-title="General",Durán TV (480p) [Not 24/7]
@@ -91,7 +89,7 @@ https://spi-filmstream-1-in.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="FMMundo.ec" tvg-logo="https://i.imgur.com/1nNnYQO.png" group-title="Music",FM Mundo (1080p)
 https://video2.makrodigital.com/fmmundo/fmmundo/playlist.m3u8
 #EXTINF:-1 tvg-id="France24Espanol.fr" tvg-logo="https://i.imgur.com/ZnmAXVv.png" group-title="News",France 24 Español (1080p)
-https://live.france24.com/hls/live/2037220/F24_ES_HI_HLS/master_5000.m3u8
+https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_5000.m3u8
 #EXTINF:-1 tvg-id="FMTV.uk" tvg-logo="https://i.imgur.com/vPxvbVv.png" group-title="Music",Frecuencia Musical TV [Not 24/7]
 https://s2.tvdatta.com:3307/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="GaliciaTVAmerica.es" tvg-logo="https://i.imgur.com/s59AaqG.png" group-title="General",Galicia TV América (720p)
@@ -106,7 +104,7 @@ https://bozztv.com/gusa/gusa-goldentv/index.m3u8
 https://stmv.streamingvip.click/hechosecuador/hechosecuador/playlist.m3u8
 #EXTINF:-1 tvg-id="HiperconectadosTV.cl" tvg-logo="https://i.imgur.com/CBbbrkI.png" group-title="Science",Hiperconectados TV
 https://stmv5.voxtvhd.com.br/hiperconectados/hiperconectados/playlist.m3u8
-#EXTINF:-1 tvg-id="HispanTV.ir" tvg-logo="https://i.imgur.com/AfsVFfM.png" group-title="News",Hispan TV
+#EXTINF:-1 tvg-id="HispanTV.ir" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/Hispantv_logo.jpg" group-title="News",Hispan TV
 https://cdnlive.presstv.ir/live/smil:live.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="IeanJesusEcuador.ec" tvg-logo="https://i.imgur.com/TyckDSV.png" group-title="Religious",IeanJesus Ecuador (720p)
 https://cloud37.ecuatel.com/iglesia2020/Stream1/playlist.m3u8
@@ -155,8 +153,6 @@ https://cp.panelchs.com:1936/jczwykvkpm/jczwykvkpm/playlist.m3u8
 https://multicanal.streamseguro.com/hls/streaming.m3u8
 #EXTINF:-1 tvg-id="NHKWorldEspanol.jp" tvg-logo="https://i.imgur.com/8dml3im.png" group-title="Culture;News",NHK World News (Spanish Subs) (720p)
 https://cdn.nhkworld.jp/www11/nhkworld-tv/bmcc-live/es/playlist.m3u8
-#EXTINF:-1 tvg-id="NickelodeonPanregional.us" tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="Kids",Nickelodeon Panregional (480p)
-http://45.181.122.13:8000/play/019
 #EXTINF:-1 tvg-id="Nortvision.ec" tvg-logo="https://i.imgur.com/MLzcPgT.jpg" group-title="General",Nortvisión (720p)
 https://plataformavideo.com/live/nortvision.m3u8
 #EXTINF:-1 tvg-id="Novelisima.us" tvg-logo="https://i.imgur.com/8dUS3Ih.png" group-title="Series",Novelisima
@@ -234,6 +230,8 @@ https://seo.tv.bo/tv/SEOTV7.m3u8
 https://srv.tropicalmoonmedia.com/somosculturatv/somosculturatv/playlist.m3u8
 #EXTINF:-1 tvg-id="SonoOndaTV.ec" tvg-logo="https://i.imgur.com/HWHeqWY.png" group-title="Undefined",Sono Onda TV (720p)
 https://live.obslivestream.com/sonoondatv/index.m3u8
+#EXTINF:-1 tvg-id="SpectrumChannel.cl" tvg-logo="https://cdn.energeek.cl/logos/spectrumtv-512.png" group-title="Entertainment;Lifestyle;Music",Spectrum Channel (720p)
+https://panel.miplay.cl:8082/spectrumchannel/index.m3u8
 #EXTINF:-1 tvg-id="TastemadeenEspanol.us" tvg-logo="https://i.imgur.com/8s6aRwv.png" group-title="Cooking",Tastemade en Espanol [Geo-blocked]
 https://tastemadees16us-xumo.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Teleamazonas.ec" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Teleamazonas_Logo.png/512px-Teleamazonas_Logo.png" group-title="Undefined",Teleamazonas (1080p) [Geo-blocked]
@@ -261,7 +259,7 @@ https://srv.tropicalmoonmedia.com/musictv/musictv/playlist.m3u8
 #EXTINF:-1 tvg-id="TropicalMoonUrbanTV.pa" tvg-logo="https://i.imgur.com/WcM7BP5.png" group-title="Music",Tropical Moon Urban TV (720p)
 https://srv.tropicalmoonmedia.com/urbantvnetott/urbantvnetott/playlist.m3u8
 #EXTINF:-1 tvg-id="TropicalMusicTV.us" tvg-logo="https://i.imgur.com/h48pwLn.png" group-title="Music",Tropical Music TV (720p)
-http://68.235.37.11:1935/vallenato/vallenato/.m3u8
+https://server80.servistreaming.com:3074/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="TVAustro.ec" tvg-logo="https://i.imgur.com/i6JTL7W.png" group-title="General",TV Austro (720p) [Not 24/7]
 https://cp.panelchs.com:1936/8148/8148/playlist.m3u8
 #EXTINF:-1 tvg-id="TVColorCanal36.ec" tvg-logo="https://i.imgur.com/QJW6khK.jpg" group-title="General",TV Color Canal 36 (720p)

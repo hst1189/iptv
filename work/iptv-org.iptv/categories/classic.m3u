@@ -17,8 +17,6 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61325d18f5166c00081b84e0/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c280710-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=0a788361-db81-4dff-80d0-0f1f0f20dfd7
 #EXTINF:-1 tvg-id="DubaiZaman.ae" tvg-logo="https://i.imgur.com/5Q5qMzP.png" group-title="Classic",Dubai Zaman (1080p) [Not 24/7]
 https://dmiffthftl.cdn.mangomolo.com/dubaizaman/smil:dubaizaman.stream.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="FolkTV.us" tvg-logo="https://i.imgur.com/hV46zMX.png" group-title="Classic",Folk TV
-http://584b0aa350b92.streamlock.net:1935/folk-tv/myStream.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="MovifyKino.lv" tvg-logo="https://kabeloperatori.neplpadome.lv/lv/assets/images/Programmu%20logo/Picture1111123.png" group-title="Classic;Movies",Movify Kino (576p)
 #EXTVLCOPT:http-referrer=https://void.greenhosting.ru/
 https://void.greenhosting.ru/MovifyKino_Mpeg4/index.m3u8
@@ -34,6 +32,8 @@ https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
 https://amg01201-cinedigmenterta-retrocrush-cineverse-nrfll.amagi.tv/playlist/amg01201-cinedigmenterta-retrocrush-cineverse/playlist.m3u8
 #EXTINF:-1 tvg-id="RetroxTV.cr" tvg-logo="https://i.imgur.com/viJBL6f.png" group-title="Classic",Retrox TV (720p)
 https://rpn3.bozztv.com/ssh101/ssh101/retroxtvhd/playlist.m3u8
+#EXTINF:-1 tvg-id="RotanaClassic.sa" tvg-logo="https://i.imgur.com/pMMUvkt.png" group-title="Classic",Rotana Classic (1080p)
+https://bcovlive-a.akamaihd.net/0debf5648e584e5fb795c3611c5c0252/eu-central-1/6057955906001/playlist.m3u8
 #EXTINF:-1 tvg-id="SamuelGoldwynClassics.us" tvg-logo="https://i.imgur.com/XC30JAF.png" group-title="Classic",Samuel Goldwyn Classics (720p)
 https://apollo.production-public.tubi.io/live/ac-samuel-goldwyn-classics.m3u8
 #EXTINF:-1 tvg-id="TheAndyGriffithShow.us" tvg-logo="https://i.imgur.com/1QpMJJT.png" group-title="Classic",The Andy Griffith Show

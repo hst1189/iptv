@@ -5,7 +5,7 @@ https://althingi-live.secure.footprint.net/althingi/live/index.m3u8
 https://aryen.tv/live/tv/playlist.m3u8
 #EXTINF:-1 tvg-id="ATG.se" tvg-logo="https://i.imgur.com/5CdW62M.png" group-title="Sports",ATG (432p)
 https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free.m3u8
-#EXTINF:-1 tvg-id="AVA.fi" tvg-logo="" group-title="Undefined",AVA (720p)
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",AVA (720p)
 https://live-fi.tvkaista.net/ava/live.m3u8
 #EXTINF:-1 tvg-id="TVStorbyen.dk" tvg-logo="https://i.ibb.co/X5h3hJL/tvstb.png" group-title="General",BL-TV/TV Storbyen (720p) [Not 24/7]
 https://5eeb3940cfaa0.streamlock.net/webtv_live/_definst_/mp4:kanalnordvest/playlist.m3u8
@@ -69,6 +69,8 @@ https://app.viloud.tv/hls/channel/711fd3f3a4728449889ee22ba72958ff.m3u8
 https://live-fi.tvkaista.net/liv/live.m3u8?hd=true
 #EXTINF:-1 tvg-id="MiracleChannel.se" tvg-logo="https://i.imgur.com/yrt7Rw9.png" group-title="News",Miracle Channel (576p)
 https://miracle.stream.boxigy.com/hls/miracle1.m3u8
+#EXTINF:-1 tvg-id="MiracleTV.se" tvg-logo="https://i.imgur.com/rc68GZJ.png" group-title="Religious",Miracle TV (576p)
+https://live.miraclechannel.com/hls/miracle1.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Mission Asia (1080p)
 https://livecdn.live247stream.com/missionasia/tv/playlist.m3u8
 #EXTINF:-1 tvg-id="MTV3.fi" tvg-logo="https://i.imgur.com/C5rQbBM.png" group-title="General",MTV3 (720p)
@@ -141,7 +143,7 @@ https://ruv-web-live.akamaized.net/streymi/ruverl/ruverl.m3u8
 https://live-fi.tvkaista.net/star-channel/live.m3u8?hd=true
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Strongman Champions League
 https://rightsboosterltd-scl-1-se.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="Sub.fi" tvg-logo="" group-title="Undefined",Sub (720p)
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Sub (720p)
 https://live-fi.tvkaista.net/sub/live.m3u8
 #EXTINF:-1 tvg-id="SVT1.se" tvg-logo="https://i.imgur.com/j6KusQX.png" group-title="Undefined",SVT1 (720p) [Geo-blocked]
 https://svt1-c.akamaized.net/se/svt1/master.m3u8

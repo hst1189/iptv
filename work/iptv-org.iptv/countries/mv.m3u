@@ -15,6 +15,10 @@ https://cdn3.wowza.com/1/ZVBYYXFLLzE0c3NC/Qk1FMURC/hls/live/playlist.m3u8
 https://cdn3.wowza.com/1/QmVNUVhTNTZSS3Uz/YWQ0aHpi/hls/live/playlist.m3u8
 #EXTINF:-1 tvg-id="MaldivesTV.mv" tvg-logo="https://i.imgur.com/Zl2FmFC.png" group-title="Travel",Maldives TV (608p)
 https://live.maldivestv.mv/hls/stream/index.m3u8
+#EXTINF:-1 tvg-id="MMTV.mv" tvg-logo="https://i.imgur.com/21tpl5b.png" group-title="General",MMTV (1080p)
+https://sendlive.online/hls/mmtv.m3u8
+#EXTINF:-1 tvg-id="Munnaaru.mv" tvg-logo="https://i.imgur.com/8YiSEX1.png" group-title="Religious",Munnaaru
+https://customer-ujex1meek7koqd9x.cloudflarestream.com/6a46f90ca384c7419efdbef3ff1892a9/manifest/video.m3u8
 #EXTINF:-1 tvg-id="OceanTVNetwork.mv" tvg-logo="https://i.imgur.com/nqdkLl5.jpeg" group-title="News",Ocean TV Network (720p)
 https://egress-stkplz7mbu4ftbof3zr94.live.streamer.wpstream.net/ev_wps_52076_oceant53da84_221_1717304220/hls/5yjq1wbd06ffe4t4.m3u8
 #EXTINF:-1 tvg-id="RaajjeTV.mv" tvg-logo="https://i.imgur.com/NvYCCGl.png" group-title="News",Raajje TV (480p)
@@ -31,7 +35,5 @@ https://rtvelivestream.akamaized.net/rtvesec/int/tvei_eu_main.m3u8
 https://vtvstream.vnews.mv/vtvlive/vmedia/playlist.m3u8
 #EXTINF:-1 tvg-id="YES.mv" tvg-logo="https://i.imgur.com/HARIGQl.png" group-title="News",YES
 https://customer-ujex1meek7koqd9x.cloudflarestream.com/21262545317dadfa20dab4f9bd37c7c2/manifest/video.m3u8
-#EXTINF:-1 tvg-id="ZarokTV.iq" tvg-logo="https://i.imgur.com/o0eevnb.png" group-title="Animation;Education;Family;Kids;Music",Zarok TV Sorani (720p)
-https://zindisorani.zaroktv.com.tr/hls/stream.m3u8
 #EXTINF:-1 tvg-id="RTRPlanetaAsia.ru" tvg-logo="https://i.imgur.com/DTtK0z7.png" group-title="General",РТР Планета Азия
 https://player.smotrim.ru/iframe/stream/live_id/683d9649-a96c-4a4d-b468-91c0ee2bf363
