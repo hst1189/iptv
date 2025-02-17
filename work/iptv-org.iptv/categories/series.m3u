@@ -21,8 +21,8 @@ https://adultswim-vodlive.cdn.turner.com/live/ypf/stream_de.m3u8
 https://origin3.afxp.telemedia.co.za/PremiumFree/afriwoodseries/playlist.m3u8
 #EXTINF:-1 tvg-id="AllRealitybyWEtv.us" tvg-logo="https://i.imgur.com/HZTz5HJ.png" group-title="Series",All Reality by WE tv
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e82530945600e0007ca076c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c268071-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=aa6a05a1-3247-4bc5-bd09-5c548c69aecb
-#EXTINF:-1 tvg-id="AlwaysFunnyVideos.us" tvg-logo="https://i.imgur.com/vfdN5Xl.png" group-title="Series",Always Funny Videos (720p)
-https://a-cdn.klowdtv.com/live3/alwaysfunny_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="AlwaysFunnyVideos.us" tvg-logo="https://i.imgur.com/vfdN5Xl.png" group-title="Series",Always Funny Videos
+https://linear-12.frequency.stream/dist/glewedtv/12/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="AllWeddingsWEtv.us" tvg-logo="https://i.imgur.com/OjLCew5.png" group-title="Series",AMC All Weddings
 https://d85lu9l3axp7b.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-49b4g6287mnav/playlist.m3u8
 #EXTINF:-1 tvg-id="A2.ru" tvg-logo="https://i.imgur.com/NqHla2V.png" group-title="Series",Amedia 2
@@ -317,6 +317,8 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5b
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5812be1c249444e05d09cc50/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2b6270-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=2e2e43d4-4547-47dd-9325-2c583c9314b2
 #EXTINF:-1 tvg-id="PlutoTVWeddings.us" tvg-logo="https://i.imgur.com/JosxTMv.png" group-title="Series",Pluto TV Weddings
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5877acecb16bb1e042ee453f/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2b6271-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=b5955976-ce6f-4400-8125-68e8a90cd3bc
+#EXTINF:-1 tvg-id="PNCDrama.eg" tvg-logo="https://i.imgur.com/Hg34mg3.png" group-title="Series",PNC Drama (1080p)
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/pnc-drama/playlist.m3u8
 #EXTINF:-1 tvg-id="PolsatSeriale.pl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Polsat_Seriale_2021_gradient.svg/512px-Polsat_Seriale_2021_gradient.svg.png" group-title="Series",Polsat Seriale (1080p)
 http://178.219.128.68:64888/POLSROMA
 #EXTINF:-1 tvg-id="Rescue911.us" tvg-logo="https://i.imgur.com/Axt7dLP.png" group-title="Series",Rescue 911
