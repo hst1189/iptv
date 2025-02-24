@@ -637,7 +637,7 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Boxing TV (1080p)
 https://1180885077.rsc.cdn77.org/HLS/BOXINGTV.m3u8
 #EXTINF:-1 tvg-id="BratTV.us" tvg-logo="https://i.imgur.com/Kkcp9Bk.png" group-title="Kids",Brat TV (1080p)
-https://brat-rakuten.amagi.tv/playlist.m3u8
+https://brat-samsung-us.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="BravoEast.us" tvg-logo="https://i.imgur.com/JmTIRLF.png" group-title="Undefined",Bravo
 https://streamer1.nexgen.bz/BRAVO/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Bravo Vault
@@ -1094,10 +1094,6 @@ https://amg00353-amg00353c40-xumo-us-4839.playouts.now.amagi.tv/playlist.m3u8
 https://dai.google.com/linear/hls/event/oLZnojGrQ02TM-L5EeTuwA/master.m3u8
 #EXTINF:-1 tvg-id="DidgahTV.us" tvg-logo="https://i.imgur.com/3SeAyBS.png" group-title="News",Didgah TV (280p)
 https://api.new.livestream.com/accounts/27146356/events/8209491/live.m3u8
-#EXTINF:-1 tvg-id="DisneyChannelEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Disney_Channel_logo_%282014%29.svg/512px-Disney_Channel_logo_%282014%29.svg.png" group-title="Kids",Disney Channel (720p)
-https://fl5.moveonjoy.com/DISNEY_CHANNEL/index.m3u8
-#EXTINF:-1 tvg-id="DisneyXDEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/512px-Disney_XD_-_2015.svg.png" group-title="Kids",Disney XD (720p)
-https://fl5.moveonjoy.com/DISNEY_XD/index.m3u8
 #EXTINF:-1 tvg-id="DistrictofColumbiaNetwork.us" tvg-logo="https://i.imgur.com/GGZ8BQ8.png" group-title="Legislative",District of Columbia Network (DCN) (1080p)
 https://video.oct.dc.gov/out/u/DCN.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Diya TV (720p)
@@ -1181,7 +1177,7 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60
 #EXTINF:-1 tvg-id="EstrellaTV.us" tvg-logo="https://i.imgur.com/IZxjnyp.png" group-title="Entertainment",EstrellaTV
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cf0622da00ca1e2f6fac712/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c28a355-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=73f1f3b5-9aab-48b7-b385-cc16a962802a
 #EXTINF:-1 tvg-id="ESTV.us" tvg-logo="https://i.imgur.com/qHNV0f5.png" group-title="Sports",ESTV (1080p)
-https://estv-rakuten.amagi.tv/playlist.m3u8
+https://estv-rakuten-samsung.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",ET
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5dc0c78281eddb0009a02d5e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c28a356-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=ac04a8b1-db8e-4c72-806c-5f1d1413c614
 #EXTINF:-1 tvg-id="EternalLifeTVNetwork.us" tvg-logo="https://i.imgur.com/49XTqzs.png" group-title="Religious",Eternal Life TV Network (1080p)
@@ -1357,8 +1353,9 @@ https://livevideo01.fox61.com/hls/live/2011658/elvs/live.m3u8
 http://41.205.93.154/FOXBUSINESS/index.m3u8
 #EXTINF:-1 tvg-id="LiveNOWfromFOX.us" tvg-logo="https://i.imgur.com/1JnyzHv.png" group-title="News",FOX Live Now [Geo-blocked]
 https://amg00488-foxdigital-newsnow-xumo-qbvgp.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="FoxNewsChannel.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/512px-Fox_News_Channel_logo.svg.png" group-title="News",Fox News Channel (144p)
-http://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary.m3u8
+#EXTINF:-1 tvg-id="FoxNewsChannel.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/512px-Fox_News_Channel_logo.svg.png" group-title="News",Fox News Channel (720p)
+#EXTVLCOPT:http-referrer=https://www.newslive.com/
+https://stream.livenewsplay.com:9443/hls/foxnews/foxsd.m3u8
 #EXTINF:-1 tvg-id="FoxSoul.us" tvg-logo="https://i.imgur.com/YIamDGn.png" group-title="Culture",Fox Soul (1080p)
 https://fox-foxsoul-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="FoxSports.us" tvg-logo="https://i.imgur.com/xA0l7DP.png" group-title="Sports",Fox Sports
@@ -1541,6 +1538,8 @@ https://cdn3.wowza.com/5/M0lyamVmM2JWcjhQ/hillsboroughcounty/G2155_002/playlist.
 https://amg09501-questar-amg09501c2-stirr-us-3095.playouts.now.amagi.tv/amg09501/AMG09501C2/segmented_playlist/0/35-89-3095.m3u8
 #EXTINF:-1 tvg-id="HMIPROMZNEWS.us" tvg-logo="https://i.imgur.com/gwPaw3v.png" group-title="Music",HMI PROMZ NEWS (720p)
 https://video1.getstreamhosting.com:1936/8326/8326/playlist.m3u8
+#EXTINF:-1 tvg-id="HmongTVNetwork.us" tvg-logo="https://i.imgur.com/yfGvM3K.png" group-title="Culture",Hmong TV Network (720p)
+https://livefta.malimarcdn.com/ftaedge00/cvabroadcasting.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="HollyWire.us" tvg-logo="https://i.imgur.com/oVNjFoj.png" group-title="Entertainment;News",HollyWire (720p)
 https://bozztv.com/hwotta/playlist/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Hollywood Squares
@@ -2099,8 +2098,6 @@ http://fl2.moveonjoy.com/MLB_NETWORK/index.m3u8
 https://streams2.sofast.tv/vglive-sk-462904/playlist.m3u8
 #EXTINF:-1 tvg-id="MCPSSTV.us" tvg-logo="https://i.imgur.com/qo5sk1g.png" group-title="Education",Mobile County Public Schools TV Network (MCPSS)
 https://5b200f5268ceb.streamlock.net/MCPSS/MCPSS247.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="MoconomyEconomyFinanceInfotainment.us" tvg-logo="https://i.imgur.com/GvqbLZB.png" group-title="Business;Documentary",Moconomy Economy & Finance Infotainment (720p)
-https://3ee905090d464be5a51478fd9c642e93.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-pl_Moconomy/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Modern Marvels Presented by HISTORY
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65775d29dfed030008cb3db2/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c29dbd4-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=1ed6ccc7-6463-4bcb-ac69-b4dfa479016d
 #EXTINF:-1 tvg-id="MohabatTV.us" tvg-logo="https://i.imgur.com/tucTC1O.jpg" group-title="Religious",Mohabat TV (540p)
@@ -3164,7 +3161,7 @@ https://tastemade-es16tm-samsung.amagi.tv/playlist.m3u8
 https://amg00047-tastemade-amg00047c2-cineverse-us-1357.playouts.now.amagi.tv/playlist/amg00047-tastemadefast-tastemadehome-cineverseus/playlist.m3u8
 #EXTINF:-1 tvg-id="TastemadeTravel.us" tvg-logo="https://i.imgur.com/8s6aRwv.png" group-title="Cooking",Tastemade Travel [Geo-blocked]
 https://amg00047-tastemade-amg00047c3-cineverse-us-1360.playouts.now.amagi.tv/playlist/amg00047-tastemadefast-tastemadetravel-cineverseus/playlist.m3u8
-#EXTINF:-1 tvg-id="TBD.us" tvg-logo="https://i.imgur.com/Z5qdwBc.png" group-title="Entertainment",TBD (1080p)
+#EXTINF:-1 tvg-id="TBD.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/TBD_Logo_2019.svg/512px-TBD_Logo_2019.svg.png" group-title="Entertainment",TBD (1080p)
 https://fast-channels.sinclairstoryline.com/TBD/index.m3u8
 #EXTINF:-1 tvg-id="TBNEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/TBN_logo_2015.jpg/512px-TBN_logo_2015.jpg" group-title="Religious",TBN
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d486b2eeddd9576d66f9066/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2bfeb1-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=a3bb369c-6039-4656-a79d-8e87112a8232

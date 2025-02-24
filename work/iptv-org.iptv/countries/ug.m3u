@@ -44,6 +44,8 @@ https://streamfi-dreamtv1.zettawiseroutes.com:8181/hls/stream.m3u8
 https://cdn3.wowza.com/1/ZVBYYXFLLzE0c3NC/Qk1FMURC/hls/live/playlist.m3u8
 #EXTINF:-1 tvg-id="FarajaTelevision.ug" tvg-logo="https://i.imgur.com/NmnOGHI.jpg" group-title="General",Faraja Television (1080p) [Not 24/7]
 https://panel.freedomflixtv.org:3868/hybrid/play.m3u8
+#EXTINF:-1 tvg-id="ForYouTV.cm" tvg-logo="https://i.imgur.com/1oMboXL.png" group-title="News",For You TV (480p)
+https://stream.az-multimedia.com:3793/live/foryoutvlive.m3u8
 #EXTINF:-1 tvg-id="FORTTV.ug" tvg-logo="https://i.ibb.co/4KN5zW9/fort-tv-logo-GENE.png" group-title="Entertainment",Fort TV (480p)
 http://fort.co-works.org:8080/hls/live.stream.m3u8
 #EXTINF:-1 tvg-id="FreedomExperienceTV.ug" tvg-logo="https://i.imgur.com/1SiJpPy.png" group-title="Religious",Freedom Experience TV (720p)
@@ -86,9 +88,6 @@ https://panel.freedomflixtv.org:3937/hybrid/play.m3u8
 https://tv.tuhlprintltd.com/hls/stream.m3u8
 #EXTINF:-1 tvg-id="TBNAfrica.za" tvg-logo="https://i.imgur.com/6VjLFmR.png" group-title="Undefined",TBN Africa (1080p)
 https://tbn-jw.cdn.vustreams.com/live/tbn-africa/live.isml/master.m3u8
-#EXTINF:-1 tvg-id="Tele7.es" tvg-logo="https://i.imgur.com/JcuV9ZE.png" group-title="Undefined" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160",Tele 7 (720p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
-https://ingest2-video.streaming-pro.com/tele7_ABR/stream/playlist.m3u8
 #EXTINF:-1 tvg-id="TrustTV.ug" tvg-logo="https://i.imgur.com/01k6voZ.png" group-title="Religious",Trust TV (720p)
 https://panel.freedomflixtv.org:3900/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="TVBRICSAfrica.za" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/188/666abcee75.jpeg" group-title="General",TV BRICS Africa (1080p)

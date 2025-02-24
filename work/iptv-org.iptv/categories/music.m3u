@@ -3,6 +3,8 @@
 http://1music.hu/1music.m3u8
 #EXTINF:-1 tvg-id="3ABNPraiseHimMusicNetwork.us" tvg-logo="https://i.imgur.com/iBcqT8L.png" group-title="Music;Religious",3ABN Praise Him Music Network
 https://3abn.bozztv.com/3abn1/PraiseHim/smil:PraiseHim.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="4FunDance.pl" tvg-logo="https://i.imgur.com/ZEWHe1B.png" group-title="Music",4 Fun Dance (576p)
+http://178.219.128.68:64888/4FUNDANC
 #EXTINF:-1 tvg-id="7SMusic.in" tvg-logo="https://i.imgur.com/zDiIhdN.png" group-title="Music",7S Music (576p) [Not 24/7]
 http://103.199.161.254/Content/7smusic/Live/Channel(7smusic)/index.m3u8
 #EXTINF:-1 tvg-id="9XJalwa.in" tvg-logo="https://i.imgur.com/qubgOi5.png" group-title="Music",9X Jalwa
@@ -241,6 +243,8 @@ https://live.hungama.com/linear/dhamaal/playlist.m3u8
 https://ghaasiflu.online/tarab/index.m3u8
 #EXTINF:-1 tvg-id="DilSe.in" tvg-logo="https://i.imgur.com/zYbltEk.png" group-title="Music",Dil Se (360p) [Not 24/7]
 https://live.hungama.com/linear/dil-se/playlist.m3u8
+#EXTINF:-1 tvg-id="DiscoPoloMusic.pl" tvg-logo="https://i.imgur.com/ZZbuTv7.png" group-title="Music",Disco Polo Music (1080p)
+http://185.236.229.62:9981/play/a078
 #EXTINF:-1 tvg-id="DismarRadioTV.py" tvg-logo="https://i.imgur.com/KOuxdMD.png" group-title="Music",Dismar Radio TV (720p)
 https://rds3.desdeparaguay.net/dismartv/dismartv/playlist.m3u8
 #EXTINF:-1 tvg-id="DJLonchoTV.cl" tvg-logo="https://lh3.googleusercontent.com/-VPBp6Vk47T4/XnzDahiuJCI/AAAAAAAAxMI/BkejtQRObwcVvsIvYbdi3Yf5UOizKSRoQCK8BGAsYHg/s0/2020-03-26.png" group-title="Music",DJ Loncho TV (720p)
@@ -269,8 +273,12 @@ https://til.pp.ua:3093/live/ellinikosfmlive.m3u8
 http://188.173.24.23:9093
 #EXTINF:-1 tvg-id="EnerGeekRadio.cl" tvg-logo="https://i.imgur.com/euaoN1A.png" group-title="Music",EnerGeek Radio (1080p)
 https://streaming-cl.sh1ny.space/memfs/75b105a4-2fd3-4538-a55c-480f3903a262.m3u8
-#EXTINF:-1 tvg-id="EskaRockTV.pl" tvg-logo="https://i.imgur.com/o0Fg19Q.png" group-title="Music",Eska Rock TV [Geo-blocked]
+#EXTINF:-1 tvg-id="EskaRockTV.pl" tvg-logo="https://i.imgur.com/o0Fg19Q.png" group-title="Music",Eska Rock TV (1080p)
 http://178.219.128.68:64889/ESKAROCKTV
+#EXTINF:-1 tvg-id="EskaTV.pl" tvg-logo="https://i.imgur.com/N0eH0Cg.png" group-title="Music",Eska TV (1080p)
+http://178.219.128.68:64888/ESKATVHD
+#EXTINF:-1 tvg-id="EskaTVExtra.pl" tvg-logo="https://i.imgur.com/pZAFshQ.png" group-title="Music",Eska TV Extra (1080p)
+http://178.219.128.68:64888/ESKATVEXTRHD
 #EXTINF:-1 tvg-id="EuroIndieMusicChartTV.it" tvg-logo="https://i.imgur.com/lF0iofX.png" group-title="Music",Euro Indie Music Chart TV (360p)
 http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8
 #EXTINF:-1 tvg-id="EurolatinaTV.es" tvg-logo="https://i.imgur.com/s2KcWnr.png" group-title="Culture;Music",Eurolatina TV (720p) [Not 24/7]
@@ -422,6 +430,8 @@ http://185.105.4.244:1935/livesp/kalika/playlist.m3u8
 https://streamtv.intervenhosting.net:3718/live/kandelamedioslive.m3u8
 #EXTINF:-1 tvg-id="KayhanTV.af" tvg-logo="https://i.imgur.com/2MDjU7x.png" group-title="Music",Kayhan TV (720p)
 https://playout395.livestreamingcdn.com/live/Stream1/playlist.m3u8
+#EXTINF:-1 tvg-id="KinoPolskaMuzyka.pl" tvg-logo="https://i.imgur.com/lE1IlPQ.png" group-title="Music",Kino Polska Muzyka (576p)
+http://185.236.229.62:9981/play/a030
 #EXTINF:-1 tvg-id="KissKissNapoliTV.it" tvg-logo="https://i.imgur.com/RsGiBwE.png" group-title="Music",Kiss Kiss Napoli TV (720p)
 https://58f12ffd2447a.streamlock.net/KKTVNapoli/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="KissKissTV.it" tvg-logo="https://i.imgur.com/ja6c2YZ.png" group-title="Music",Kiss Kiss TV (1080p)
@@ -712,6 +722,8 @@ https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2aa
 https://mn-nl.mncdn.com/blutv_nr1turk2/live.m3u8
 #EXTINF:-1 tvg-id="Number1TV.tr" tvg-logo="https://i.imgur.com/02cDIBi.png" group-title="Music",Number 1 TV (720p)
 https://mn-nl.mncdn.com/blutv_nr12/live.m3u8
+#EXTINF:-1 tvg-id="NutaTV.pl" tvg-logo="https://i.imgur.com/JHFUxDu.png" group-title="Music",Nuta TV (576p)
+http://178.219.128.68:64888/NUTA
 #EXTINF:-1 tvg-id="Ocko.cz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/%C3%93%C4%8Dko_logo_2012.png/512px-%C3%93%C4%8Dko_logo_2012.png" group-title="Music",Óčko (540p)
 https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko.stream.1.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="OckoExpres.cz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/%C3%93%C4%8Dko_Expres_logo.png/512px-%C3%93%C4%8Dko_Expres_logo.png" group-title="Music",Óčko Expres (540p)
@@ -796,6 +808,8 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60a26a056
 https://hls.pmchd.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="PMCRoyale.ae" tvg-logo="https://i.imgur.com/kuYMKgG.png" group-title="Music",PMC Royale (720p) [Not 24/7]
 https://rohls.pmc.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="PolsatMusic.pl" tvg-logo="https://i.imgur.com/uXygf1l.png" group-title="Music",Polsat Music (1080p)
+http://185.236.229.62:9981/play/a02b
 #EXTINF:-1 tvg-id="PopPataka.in" tvg-logo="https://i.imgur.com/9NacSLW.png" group-title="Music",Pop Pataka (480p) [Not 24/7]
 https://live.hungama.com/linear/pop-pataka/playlist.m3u8
 #EXTINF:-1 tvg-id="POPWorldTV.es" tvg-logo="https://i.imgur.com/LQB6G3s.jpg" group-title="Music",POP World TV (720p)
@@ -986,12 +1000,6 @@ https://vs.sednastream.com:1936/sitishqip/sitishqip/playlist.m3u8
 https://eu.live.skyfolk.mk/live.m3u8
 #EXTINF:-1 tvg-id="SL48TV.it" tvg-logo="https://i.imgur.com/0iPU3JE.png" group-title="Music",SL48 TV (576p)
 http://media.velcom.it:1935/sl48/sl48/playlist.m3u8
-#EXTINF:-1 tvg-id="SlagerMuzika.cz" tvg-logo="https://i.imgur.com/hKdXwrW.png" group-title="Music",Šláger Muzika (576p)
-https://stream-33.mazana.tv/slagr2.m3u
-#EXTINF:-1 tvg-id="SlagerOriginal.cz" tvg-logo="https://i.imgur.com/0YjeWcq.png" group-title="Music",Šláger Originál (576p)
-https://stream-6.mazana.tv/slagr.m3u
-#EXTINF:-1 tvg-id="SlagerPremium.cz" tvg-logo="https://i.imgur.com/A7u2KeM.png" group-title="Music",Šláger Premium (1080p)
-https://stream-15.mazana.tv/slagrpremium.m3u
 #EXTINF:-1 tvg-id="SolMusica.es" tvg-logo="https://i.imgur.com/rbJrmPw.png" group-title="Music",Sol Música (720p)
 https://d2glyu450vvghm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-21u4g5cjglv02/sm.m3u8
 #EXTINF:-1 tvg-id="SoloBailalo.cl" tvg-logo="https://i.imgur.com/SImJE7c.png" group-title="Music",SoloBáilalo (480p)
@@ -1216,6 +1224,8 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61d4c2817a823d00070ba53e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2ce918-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=90c1dbc6-366d-4ba4-913a-7ff94babe33e
 #EXTINF:-1 tvg-id="VH1East.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/512px-VH1_logonew.svg.png" group-title="Music",VH1
 https://streamer1.nexgen.bz/VH1/index.m3u8
+#EXTINF:-1 tvg-id="VH1.pl" tvg-logo="https://i.imgur.com/ZZEvehR.png" group-title="Music",VH1 (576p)
+http://109.233.89.166/VH1/index.m3u8
 #EXTINF:-1 tvg-id="PlutoTVVH1Plus.it" tvg-logo="https://i.imgur.com/KsiOX0r.png" group-title="Music",VH1+ Italy (720p)
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61cd822216e2fd00086d0aeb/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
 #EXTINF:-1 tvg-id="VH1.it" tvg-logo="https://i.imgur.com/ZZEvehR.png" group-title="Music",VH1 Italia (1080p)
@@ -1252,6 +1262,8 @@ https://cloudvideo.servers10.com:8081/8198/index.m3u8
 https://vmtv.iptv-playoutcenter.de/vmtv/vmtv1/playlist.m3u8
 #EXTINF:-1 tvg-id="VosyTV.ec" tvg-logo="https://i.imgur.com/294FDCB.png" group-title="Music",Vos y TV (720p) [Not 24/7]
 https://cloud37.ecuatel.com/vostv/live/manifest.m3u8
+#EXTINF:-1 tvg-id="VOXMusicTV.pl" tvg-logo="https://i.imgur.com/N993msF.png" group-title="Music",VOX Music TV (576p)
+http://109.233.89.166/VOX/index.m3u8
 #EXTINF:-1 tvg-id="Klara.be" tvg-logo="https://i.ibb.co/YdDkSJW/VRT-Klara-2020-svg.png" group-title="Music",VRT Radio Klara (720p)
 https://live-radio-cf-vrt.akamaized.net/groupb/live/eee20dc8-158a-4194-8d92-0c5a73ffcd3b/live.isml/.m3u8
 #EXTINF:-1 tvg-id="StuBru.be" tvg-logo="https://i.ibb.co/y0TcsXw/512px-VRT-Stu-Bru-logo-svg.png" group-title="Music",VRT Radio StuBru (720p)

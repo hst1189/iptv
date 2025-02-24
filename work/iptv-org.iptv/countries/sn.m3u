@@ -39,6 +39,8 @@ https://helga.iptv2022.com/Diama_TV/index.m3u8
 https://helga.iptv2022.com/sh/DIAMAGUENE_TV/index.m3u8
 #EXTINF:-1 tvg-id="EWTNAfricaAsia.us" tvg-logo="https://i.imgur.com/F8ZM25a.png" group-title="Religious",EWTN Africa Asia (720p)
 https://cdn3.wowza.com/1/ZVBYYXFLLzE0c3NC/Qk1FMURC/hls/live/playlist.m3u8
+#EXTINF:-1 tvg-id="ForYouTV.cm" tvg-logo="https://i.imgur.com/1oMboXL.png" group-title="News",For You TV (480p)
+https://stream.az-multimedia.com:3793/live/foryoutvlive.m3u8
 #EXTINF:-1 tvg-id="GODTVAfrica.za" tvg-logo="https://i.imgur.com/hW4g2oe.png" group-title="Religious",GOD TV Africa (576p)
 https://webstreaming.viewmedia.tv/web_006/Stream/playlist.m3u8
 #EXTINF:-1 tvg-id="GrandYoffTV.sn" tvg-logo="https://i.imgur.com/Gbiybwj.png" group-title="General",Grand Yoff TV (720p)
@@ -86,9 +88,6 @@ https://stream.sen-gt.com/senjeunestv/myStream/playlist.m3u8
 https://live3.acangroup.org:1929/publiclive/sunulabel/playlist.m3u8
 #EXTINF:-1 tvg-id="TBNAfrica.za" tvg-logo="https://i.imgur.com/6VjLFmR.png" group-title="Undefined",TBN Africa (1080p)
 https://tbn-jw.cdn.vustreams.com/live/tbn-africa/live.isml/master.m3u8
-#EXTINF:-1 tvg-id="Tele7.es" tvg-logo="https://i.imgur.com/JcuV9ZE.png" group-title="Undefined" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160",Tele 7 (720p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
-https://ingest2-video.streaming-pro.com/tele7_ABR/stream/playlist.m3u8
 #EXTINF:-1 tvg-id="TeleMusikSenegal.sn" tvg-logo="https://i.imgur.com/dPAPLsd.png" group-title="Music",TeleMusik Sénégal (720p)
 https://58c04fb1d143f.streamlock.net/rezopropartner_1/rezopropartner_1/playlist.m3u8
 #EXTINF:-1 tvg-id="TempoAfricTV.us" tvg-logo="https://i.imgur.com/mggN4mS.jpg" group-title="News",Tempo Afric TV (720p)

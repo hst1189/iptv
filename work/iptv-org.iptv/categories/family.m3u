@@ -1,10 +1,14 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="1KZNTV.za" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/188/6544bebaae.jpg" group-title="Entertainment;Family;General",1KZN TV (576p)
 https://cdn.freevisiontv.co.za/sttv/smil:1kzn.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="ActiveFamily.pl" tvg-logo="https://i.imgur.com/I1wdWAo.png" group-title="Family",Active Family (1080p)
+http://178.219.128.68:64888/ACTIFAMIHD
 #EXTINF:-1 tvg-id="AMGTV.us" tvg-logo="https://i.imgur.com/m5Anun9.png" group-title="Family",AMG TV (1080p)
 https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/playlist.m3u8
 #EXTINF:-1 tvg-id="CanalIPe.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Identidad_Peruana_ipe_2020.png/1200px-Identidad_Peruana_ipe_2020.png" group-title="Family",Canal IPe (1080p)
 https://cdnhd.iblups.com/hls/3f2cb1658d114f2693eff18d83199e67.m3u8
+#EXTINF:-1 tvg-id="CANALPlus360.pl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Canal360_1920x1080.png/320px-Canal360_1920x1080.png" group-title="Family",CANAL+ 360 (1080p)
+http://178.219.128.68:64889/CANAFAMIHD
 #EXTINF:-1 tvg-id="ChurchofUgandaFamilyTelevision.ug" tvg-logo="https://i.imgur.com/l53Eur6.png" group-title="Family;Religious",COU Family Television (720p)
 #EXTVLCOPT:http-referrer=https://player.castr.com/live_2c12d7a053f511ef9a978b0191f4a826
 https://stream.castr.com/66b2205a464da535308e57e1/live_2c12d7a053f511ef9a978b0191f4a826/index.fmp4.m3u8
@@ -43,14 +47,12 @@ https://rakuten-family-2-es.samsung.wurl.tv/playlist.m3u8
 https://rakuten-family-16-be.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="RakutenTVFamilyMovies.it" tvg-logo="https://i.imgur.com/NJYEYE3.png" group-title="Family;Movies",Rakuten Family
 https://rakuten-family-6-it.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="RakutenTVFamilyMovies.uk" tvg-logo="https://i.imgur.com/NJYEYE3.png" group-title="Family;Movies",Rakuten Family UK (720p)
-https://rakuten-family-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="RakutenTVFamilyMovies.fi" tvg-logo="https://i.imgur.com/NJYEYE3.png" group-title="Family;Movies",Rakuten Family (Finland) (720p)
+https://rakuten-family-12-fi.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="RakutenTVFamilyMovies.at" tvg-logo="https://i.imgur.com/NJYEYE3.png" group-title="Family;Movies",Rakuten TV Family Movies Austria (720p)
 https://9fa8baba055e4a52b0a8d1ae7d78bed8.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-at_RakutenFamily-1/playlist.m3u8
 #EXTINF:-1 tvg-id="RakutenTVFamilyMovies.ch" tvg-logo="https://i.imgur.com/NJYEYE3.png" group-title="Family;Movies",Rakuten TV Family Switzerland (720p)
 https://a24daf1125344b9cab66eed2fcff8821.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-ch_RakutenFamily-1/playlist.m3u8
-#EXTINF:-1 tvg-id="RakutenTVFamilyMovies.fi" tvg-logo="https://i.imgur.com/NJYEYE3.png" group-title="Family;Movies",Rakuten TV Perhe
-https://rakuten-family-12-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="RealFamilies.us" tvg-logo="https://i.imgur.com/uoWrh7e.png" group-title="Family",Real Families (1080p)
 https://lds-realfamilies-plex.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="RealFamilies.au" tvg-logo="https://i.imgur.com/fV9UC2U.png" group-title="Family",Real Families (Australia) (720p)

@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="ABNAfrica.us" tvg-logo="https://yt3.googleusercontent.com/BhFbqwxiQN89UGI2cpoffye2UuKtblDDUwJHce0fzjpdrMkb0CtKf_42ZVTiLX2Ulwbjey4YZQ=s512-c-k-c0x00ffffff-no-rj" group-title="Religious",ABN Africa (480p)
 https://mediaserver.abnvideos.com/streams/abnafrica.m3u8
-#EXTINF:-1 tvg-id="ACNTV.cm" tvg-logo="https://i.imgur.com/eQlO38M.png" group-title="News",ACN TV (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="ACNTV.cm" tvg-logo="https://i.imgur.com/aZyKsyN.png" group-title="News",ACN TV (720p) [Not 24/7]
 https://www.live.quantizedcreativity.com:5443/LiveApp/streams/ambazonia_is_independent_from_lrc.m3u8
 #EXTINF:-1 tvg-id="Africa24.fr" tvg-logo="https://i.imgur.com/YWIJdai.png" group-title="News",Africa 24 (540p)
 https://edge12.vedge.infomaniak.com/livecast/ik:africa24/manifest.m3u8
@@ -13,7 +13,7 @@ http://connectiktv.ddns.me:8080/live/61f1b992a6e8a-1/index.m3u8
 https://rakuten-africanews-1-pt.samsung.wurl.tv/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="AfricanewsFrench.fr" tvg-logo="https://i.imgur.com/5UxU4zc.png" group-title="News",AfricaNews Français (720p)
 https://rakuten-africanews-2-be.samsung.wurl.tv/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="AfriqueMedia.cm" tvg-logo="https://i.imgur.com/R4iKU6c.png" group-title="Undefined",Afrique Média (480p) [Not 24/7]
+#EXTINF:-1 tvg-id="AfriqueMedia.cm" tvg-logo="https://i.imgur.com/spQgX7X.png" group-title="News",Afrique Média (480p) [Not 24/7]
 #EXTVLCOPT:http-referrer=https://odysee.com/
 https://cloud.odysee.live/content/fe06b3cdc9412e359368b2455b6ea5e93856e382/master.m3u8
 #EXTINF:-1 tvg-id="Afrobit.cm" tvg-logo="https://i.imgur.com/M0m4Rra.png" group-title="Music",Afrobit (480p) [Not 24/7]
@@ -49,7 +49,7 @@ http://connectiktv.ddns.me:8080/live/624ae47756693/index.m3u8
 https://cdn3.wowza.com/1/ZVBYYXFLLzE0c3NC/Qk1FMURC/hls/live/playlist.m3u8
 #EXTINF:-1 tvg-id="ExcelDiscoveryTV.cm" tvg-logo="https://i.ibb.co/wQkmLSg/Channels4-profile-9.jpg" group-title="Religious",Excel Discovery TV (480p) [Not 24/7]
 http://connectiktv.ddns.me:8080/live/61f6352d2b4d5-1/index.m3u8
-#EXTINF:-1 tvg-id="ForYouTV.cm" tvg-logo="https://i.imgur.com/FgEDzTZ.png" group-title="News",For You TV (480p)
+#EXTINF:-1 tvg-id="ForYouTV.cm" tvg-logo="https://i.imgur.com/1oMboXL.png" group-title="News",For You TV (480p)
 https://stream.az-multimedia.com:3793/live/foryoutvlive.m3u8
 #EXTINF:-1 tvg-id="GloryChristChannel.cm" tvg-logo="https://i.imgur.com/m5xH4bL.png" group-title="Religious",Glory Christ Channel (720p)
 https://stream.it-innov.com/gcc/index.m3u8
@@ -90,13 +90,10 @@ https://origin3.afxp.telemedia.co.za/PremiumFree/romanza/playlist.m3u8
 https://streaming-live.rtp.pt/liverepeater/smil:rtpafrica.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="SCBCTV.cm" tvg-logo="https://i.imgur.com/49hhll2.png" group-title="General",SCBC Television (1080p)
 https://cdn.scbcmedia.com/scbctelevision/c9a1fdac6e082dd89e7173244f34d7b3.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="SunPlusTV.cm" tvg-logo="https://i.imgur.com/tmMoq8Z.png" group-title="Undefined",Sun+ TV (720p)
+#EXTINF:-1 tvg-id="SunPlusTV.cm" tvg-logo="https://i.imgur.com/5XCXWy7.png" group-title="Entertainment",Sun+ TV (720p)
 https://sunplustv.mboahost.biz:8181/live/chainesuntv/index.m3u8
 #EXTINF:-1 tvg-id="TBNAfrica.za" tvg-logo="https://i.imgur.com/6VjLFmR.png" group-title="Undefined",TBN Africa (1080p)
 https://tbn-jw.cdn.vustreams.com/live/tbn-africa/live.isml/master.m3u8
-#EXTINF:-1 tvg-id="Tele7.es" tvg-logo="https://i.imgur.com/JcuV9ZE.png" group-title="Undefined" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160",Tele 7 (720p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
-https://ingest2-video.streaming-pro.com/tele7_ABR/stream/playlist.m3u8
 #EXTINF:-1 tvg-id="TR24Television.cm" tvg-logo="https://i.ibb.co/fQrBY1M/tr24-telepack.jpg" group-title="Entertainment",TR24 (720p)
 https://stream.it-innov.com/tr24/index.m3u8
 #EXTINF:-1 tvg-id="TVBRICSAfrica.za" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/188/666abcee75.jpeg" group-title="General",TV BRICS Africa (1080p)
@@ -105,7 +102,7 @@ https://cdn.freevisiontv.co.za/sttv/smil:brics.stream.smil/playlist.m3u8
 https://video-auth4.iol.pt/live_tvi_africa/live_tvi_africa/edge_servers/tviafrica-480p/playlist.m3u8
 #EXTINF:-1 tvg-id="VibeMusic.cm" tvg-logo="https://i.ibb.co/23GyK4j/Screenshot-20230807-140109.jpg" group-title="Music",Vibe Music TV (360p) [Not 24/7]
 http://connectiktv.ddns.me:8080/live/62455ef0ac47a/index.m3u8
-#EXTINF:-1 tvg-id="Vision4.cm" tvg-logo="https://i.imgur.com/rUbrFA8.png" group-title="Undefined",Vision 4 (360p)
+#EXTINF:-1 tvg-id="Vision4.cm" tvg-logo="https://i.imgur.com/DnoOMH6.png" group-title="General",Vision 4 (360p)
 https://cdn-globecast.akamaized.net/live/eds/vision4/hls_video/index.m3u8
 #EXTINF:-1 tvg-id="VSRTV.cm" tvg-logo="https://i.ibb.co/pb9Sg4P/Screenshot-20230807-133639.jpg" group-title="Religious",VS RTV (480p) [Not 24/7]
 http://connectiktv.ddns.me:8080/live/61f65016ea2be-1/index.m3u8
