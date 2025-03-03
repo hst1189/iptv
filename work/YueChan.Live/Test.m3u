@@ -3,12 +3,6 @@
 http://rfye55.xyz:80/98:06:3c:5a:3f:27/030D4A607EE5/76564
 #EXTINF:-1 tvg-id="427229" tvg-name="BBC" tvg-logo="http://go4.pw/ASIA/VIETNAM/BBC_NEWS.png" group-title="国际",BBC
 http://rfye55.xyz:80/98:06:3c:5a:3f:27/030D4A607EE5/427229
-#EXTINF:-1 tvg-id="269823" tvg-name="凤凰资讯" tvg-logo="http://go4.pw/ASIA/CHINA/PHOENIX-INFONEWS.png" group-title="国际",凤凰资讯
-http://rfye55.xyz:80/98:06:3c:5a:3f:27/030D4A607EE5/269823
-#EXTINF:-1 tvg-id="269822" tvg-name="凤凰美洲" tvg-logo="http://go4.pw/ASIA/CHINA/PHOENIX-NORTH-AMERICA-CHINESE-CHANNEL.png" group-title="国际",凤凰北美
-http://rfye55.xyz:80/98:06:3c:5a:3f:27/030D4A607EE5/269822
-#EXTINF:-1 tvg-id="269828" tvg-name="凤凰香港" tvg-logo="http://go4.pw/ASIA/phoenix.png" group-title="国际",凤凰香港
-http://rfye55.xyz:80/98:06:3c:5a:3f:27/030D4A607EE5/269828
 #EXTINF:-1 tvg-id="269923" tvg-name="东森美洲" tvg-logo="http://go4.pw/ASIA/taiwan/ET-NEWS.png" group-title="国际",东森美洲
 http://rfye55.xyz:80/98:06:3c:5a:3f:27/030D4A607EE5/269923
 #EXTINF:-1 tvg-id="269926" tvg-name="东森卫视" tvg-logo="http://go4.pw/ASIA/taiwan/ET-GLOBAL.png" group-title="国际",东森卫视
@@ -21,52 +15,98 @@ http://rfye55.xyz:80/98:06:3c:5a:3f:27/030D4A607EE5/1052641
 http://rfye55.xyz:80/98:06:3c:5a:3f:27/030D4A607EE5/1052635
 #EXTINF:-1 tvg-id="1052644" tvg-name="MY - TVBS ASIA HD" tvg-logo="http://go4.pw/ASIA/tvbs.png" group-title="国际",TVBS欢乐台
 http://rfye55.xyz:80/98:06:3c:5a:3f:27/030D4A607EE5/1052644
-#EXTINF:-1 tvg-id="977688" tvg-name="索尼电影" tvg-logo="http://go4.pw/EUROPE/UK/SONYMOVIES.png" group-title="国际",Sony Movies
-http://rfye55.xyz:80/98:06:3c:5a:3f:27/030D4A607EE5/977688
-#EXTINF:-1 tvg-id="977690" tvg-logo="http://go4.pw/ASIA/kbsworld.png" group-title="国际",KBS World
-http://rfye55.xyz:80/98:06:3c:5a:3f:27/030D4A607EE5/977690
-#EXTINF:-1 tvg-id="543291" tvg-name="PH - BBC EARTH HD" tvg-logo="http://go4.pw/ASIA/VIETNAM/BBC_EARTH.png" group-title="国际",BBC Earth
-http://rfye55.xyz:80/98:06:3c:5a:3f:27/030D4A607EE5/543291
-#EXTINF:-1 tvg-id="543256" tvg-name="PH - PREMIER SPORTS HD" tvg-logo="http://go4.pw/PHILIPINES/Premier_Sports.png" group-title="国际",Premier Sports
-http://rfye55.xyz:80/98:06:3c:5a:3f:27/030D4A607EE5/543256
+#EXTINF:-1 tvg-id="1084575" tvg-name="US - FOX NEWS CHANNEL [BK]" tvg-logo="http://go4.pw/LATINO/MEXICO/FOXNEWSCHANNEL.png" group-title="国际",Fox News 
+http://rfye55.xyz:80/98:06:3c:5a:3f:27/030D4A607EE5/1084575
+#EXTINF:-1 tvg-id="71494" tvg-name="US - FOX BUSINESS NETWORK HD" tvg-logo="http://go4.pw/EUROPE/SPAIN/FOCNEWS.png" group-title="国际",Fox Business
+http://rfye55.xyz:80/98:06:3c:5a:3f:27/030D4A607EE5/71494
 #EXTINF:-1 tvg-id="232800" tvg-name="US - NBC NEWS NOW UHD" tvg-logo="http://go4.pw/USA/NBCNEWSNOW.png" group-title="国际",NBC News Now
 http://rfye55.xyz:80/98:06:3c:5a:3f:27/030D4A607EE5/232800
 #EXTINF:-1 tvg-id="332166" tvg-name="US - NEWSNATION HD" tvg-logo="http://go4.pw/USA/8.png" group-title="国际",Newsnation
 http://rfye55.xyz:80/98:06:3c:5a:3f:27/030D4A607EE5/332166
 #EXTINF:-1 tvg-id="248840" tvg-name="US - ABC NEWS HD" tvg-logo="http://go4.pw/AMERICA/USA/ABC.png" group-title="国际",ABC News
 http://rfye55.xyz:80/98:06:3c:5a:3f:27/030D4A607EE5/248840
+#EXTINF:-1 tvg-id="17361" tvg-name="UK - FRANCE 24 SD" tvg-logo="http://go4.pw/EUROPE/PORTUGAL/FRANCE24.png" group-title="国际",France 24 
+http://rfye55.xyz:80/98:06:3c:5a:3f:27/030D4A607EE5/17361
+#EXTINF:-1 tvg-id="1125003" tvg-name="VIP - MTV" tvg-logo="http://go4.pw/EUROPE/FRANCE/MTV.png" group-title="国际",MTV
+http://rfye55.xyz:80/98:06:3c:5a:3f:27/030D4A607EE5/1052559
+#EXTINF:-1 tvg-id="1088233" tvg-name="US - BLAZE TV HD" group-title="国际",Blaze TV 
+http://rfye55.xyz:80/98:06:3c:5a:3f:27/030D4A607EE5/1088233
+#EXTINF:-1 tvg-id="1086616" tvg-name="US - INFOWARS HD" group-title="国际",Infowars
+http://rfye55.xyz:80/98:06:3c:5a:3f:27/030D4A607EE5/1086616
+#EXTINF:-1 tvg-id="1166647" tvg-name="US - MYNETWORKTV 20 (WMYD) DETROIT" group-title="国际",My Network
+http://rfye55.xyz:80/98:06:3c:5a:3f:27/030D4A607EE5/1166647
+#EXTINF:-1 tvg-id="1052587" tvg-name="MY - SKY NEWS HD" tvg-logo="http://go4.pw/USA/SD2/10.png" group-title="国际",Sky News
+http://rfye55.xyz:80/98:06:3c:5a:3f:27/030D4A607EE5/1052587
+#EXTINF:-1 tvg-id="974332" tvg-name="US - SPECTRUM NEWS 13" tvg-logo="http://go4.pw/usa/24.png" group-title="国际",Spectrum News
+http://rfye55.xyz:80/98:06:3c:5a:3f:27/030D4A607EE5/974332
+#EXTINF:-1 tvg-id="271344" tvg-name="US - INSIGHT 4K" tvg-logo="http://go4.pw/USA/4.png" group-title="国际",Insight
+http://rfye55.xyz:80/98:06:3c:5a:3f:27/030D4A607EE5/271344
+#EXTINF:-1 tvg-id="271345" tvg-name="US - BLOOMBERG+ 4K" tvg-logo="http://go4.pw/USA/19.png" group-title="国际",Bloomberg+  
+http://rfye55.xyz:80/98:06:3c:5a:3f:27/030D4A607EE5/271345
+#EXTINF:-1 tvg-id="977688" tvg-name="索尼电影" tvg-logo="http://go4.pw/EUROPE/UK/SONYMOVIES.png" group-title="国际",Sony Movies
+http://rfye55.xyz:80/98:06:3c:5a:3f:27/030D4A607EE5/977688
+#EXTINF:-1 tvg-id="121096" tvg-name="24/7 COMEDY MOVIES" group-title="国际",Comedy Movies
+http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/121096
+#EXTINF:-1 tvg-id="977690" tvg-logo="http://go4.pw/ASIA/kbsworld.png" group-title="国际",KBS World
+http://rfye55.xyz:80/98:06:3c:5a:3f:27/030D4A607EE5/977690
+#EXTINF:-1 tvg-id="543291" tvg-name="PH - BBC EARTH HD" tvg-logo="http://go4.pw/ASIA/VIETNAM/BBC_EARTH.png" group-title="国际",BBC Earth
+http://rfye55.xyz:80/98:06:3c:5a:3f:27/030D4A607EE5/543291
+#EXTINF:-1 tvg-id="543256" tvg-name="PH - PREMIER SPORTS HD" tvg-logo="http://go4.pw/PHILIPINES/Premier_Sports.png" group-title="国际",Premier Sports
+http://rfye55.xyz:80/98:06:3c:5a:3f:27/030D4A607EE5/543256
 #EXTINF:-1 tvg-id="1052422" tvg-name="MY - BBC LIFESTYLE HD" tvg-logo="http://go4.pw/AFRICA/SOUTH-AFRICA/BBC_Lifestyl.png" group-title="国际",BBC Lifestyle
 http://rfye55.xyz:80/98:06:3c:5a:3f:27/030D4A607EE5/1052421
+#EXTINF:-1 tvg-id="71467" tvg-name="US - NICK JR UHD" tvg-logo="http://go4.pw/AMERICA/USA/NICKJR.png" group-title="国际",Nick Jr
+http://rfye55.xyz:80/98:06:3c:5a:3f:27/030D4A607EE5/71467
+#EXTINF:-1 tvg-id="494704" tvg-name="US - DISNEY JR HD" tvg-logo="http://go4.pw/usa/17.png" group-title="国际",Disney JR 
+http://rfye55.xyz:80/98:06:3c:5a:3f:27/030D4A607EE5/494704
+#EXTINF:-1 tvg-id="494705" tvg-name="US - DISNEY XD HD" tvg-logo="http://go4.pw/usa/17.png" group-title="国际",Disney XD 
+http://rfye55.xyz:80/98:06:3c:5a:3f:27/030D4A607EE5/494705
+#EXTINF:-1 tvg-id="495010" tvg-name="US - PBS KIDS HD" tvg-logo="http://go4.pw/usa/PBS_Kids_HD.png" group-title="国际",PBS Kids
+http://rfye55.xyz:80/98:06:3c:5a:3f:27/030D4A607EE5/495010
+#EXTINF:-1 tvg-id="9861" tvg-name="Discovery Life HD" tvg-logo="https://logodix.com/logo/997920.png" group-title="国际",Discovery Life  
+http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/9861
+#EXTINF:-1 tvg-id="10538" tvg-name="DISCOVERY FAMILY" tvg-logo="https://png.pngitem.com/pimgs/s/452-4528679_discovery-family-channel-logo-hd-png-download.png" group-title="国际",Discovery Family
+http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/10538
+#EXTINF:-1 tvg-id="9811" tvg-name="Discovery Channel East " tvg-logo="https://logodix.com/logo/997920.png" group-title="国际",Discovery Channel East 
+http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/9811
 #EXTINF:-1 tvg-id="1052478" tvg-name="MY - DISCOVERY CHANNEL HD" tvg-logo="http://go4.pw/EXYU/DISCOVERYCHANNEL.png" group-title="国际",Discovery Channel
 http://rfye55.xyz:80/98:06:3c:5a:3f:27/030D4A607EE5/1052478
 #EXTINF:-1 tvg-id="1052476" tvg-name="MY - DISCOVERY ASIA HD" tvg-logo="http://go4.pw/ASIA/DISCOVERY.png" group-title="国际",Discovery Asia
 http://rfye55.xyz:80/98:06:3c:5a:3f:27/030D4A607EE5/1052476
-#EXTINF:-1 tvg-id="1052488" tvg-name="MY - EUROSPORTS HD" tvg-logo="http://go4.pw/UK/eursp1.png" group-title="国际",Eurosports HD
-http://rfye55.xyz:80/98:06:3c:5a:3f:27/030D4A607EE5/1052488
+#EXTINF:-1 tvg-id="53695" tvg-name="UK-Discovery Science" group-title="国际",Discovery Science
+http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/53695
+#EXTINF:-1 tvg-id="11664" tvg-name="US Nat Geo Wild East (A)" tvg-logo="https://i.pinimg.com/originals/b7/4f/75/b74f758bf9eadb051be71f7a9deb6e8c.png" group-title="国际",Nat Geo Wild East  
+http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/11664
+#EXTINF:-1 tvg-id="46722" tvg-name="US National Geographic " group-title="国际",National Geographic 
+http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/46722
 #EXTINF:-1 tvg-id="1052452" tvg-name="MY - CINEMAX HD" tvg-logo="http://go4.pw/AMERICA/USA/CINEMAX.png" group-title="国际",Cinemax HD
 http://rfye55.xyz:80/98:06:3c:5a:3f:27/030D4A607EE5/1052452
 #EXTINF:-1 tvg-id="1014274" tvg-name="US - GOLD TV 24/7 | BET HER" tvg-logo="http://go4.pw/GOLDTV/gold tv.png" group-title="国际",Gold TV
 http://rfye55.xyz:80/98:06:3c:5a:3f:27/030D4A607EE5/1014274
-#EXTINF:-1 tvg-id="1052491" tvg-name="MY - FOOD NETWORK HD" tvg-logo="http://go4.pw/ASIA/MALAYSIA/food_network.png" group-title="国际",Food Network
-http://rfye55.xyz:80/98:06:3c:5a:3f:27/030D4A607EE5/1052491
+#EXTINF:-1 tvg-id="17773" tvg-name="US HBO Comedy (East) " tvg-logo="https://png.pngitem.com/pimgs/s/186-1863786_hbo-comedy-logo-hbo-comedy-channel-logo-hd.png" group-title="国际",HBO Comedy  
+http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/17773
+#EXTINF:-1 tvg-id="9266" tvg-name="US HBO SIGNATURE (East) " tvg-logo="https://logodix.com/logo/1111252.png" group-title="国际",HBO Singnature
+http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/9266
+#EXTINF:-1 tvg-id="9265" tvg-name="US HBO Zone (East) " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/HBO_Zone_logo.png" group-title="国际",HBO Zone  
+http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/9265
 #EXTINF:-1 tvg-id="1052504" tvg-name="MY - HBO FAMILY HD" tvg-logo="http://go4.pw/BRAZIL/FAMILY.png" group-title="国际",HBO Family
 http://rfye55.xyz:80/98:06:3c:5a:3f:27/030D4A607EE5/1052504
 #EXTINF:-1 tvg-id="1052507" tvg-name="MY - HBO HD" tvg-logo="http://go4.pw/PORTUGAL/hbo_HD.png" group-title="国际",HBO HD
-http://rfye55.xyz:80/98:06:3c:5a:3f:27/030D4A607EE5/1052507
+http://rfye55.xyz:80/98:06:3c:5a:3f:27/030D4A607EE5/1052508
 #EXTINF:-1 tvg-id="1052513" tvg-name="MY - HBO HITS HD" tvg-logo="http://go4.pw/AMERICA/USA/HBO.png" group-title="国际",HBO HITS
 http://rfye55.xyz:80/98:06:3c:5a:3f:27/030D4A607EE5/1052513
-#EXTINF:-1 tvg-id="1052520" tvg-name="MY - HITS HD" tvg-logo="http://go4.pw/ASIA/HITS1.png" group-title="国际",HITS
-http://rfye55.xyz:80/98:06:3c:5a:3f:27/030D4A607EE5/1052520
 #EXTINF:-1 tvg-id="1052526" tvg-name="MY - HITS NOW HD" tvg-logo="http://go4.pw/ASIA/HITS1.png" group-title="国际",HITS Now
 http://rfye55.xyz:80/98:06:3c:5a:3f:27/030D4A607EE5/1052526
-#EXTINF:-1 tvg-id="1052563" tvg-name="MY - NAT GEO WILD HD" tvg-logo="http://go4.pw/AFRICA/CANAL+/NATGEOWILD.png" group-title="国际",NAT GEO Wild
-http://rfye55.xyz:80/98:06:3c:5a:3f:27/030D4A607EE5/1052563
-#EXTINF:-1 tvg-id="1052587" tvg-name="MY - SKY NEWS HD" tvg-logo="http://go4.pw/USA/SD2/10.png" group-title="国际",Sky News
-http://rfye55.xyz:80/98:06:3c:5a:3f:27/030D4A607EE5/1052587
 #EXTINF:-1 tvg-id="957699" tvg-name="MY - ASIAN FOOD NETWORK HD" tvg-logo="http://go4.pw/ASIA/MALAYSIA/ASIAN_FOOD_NETWORK.png" group-title="国际",Food Network
-http://rfye55.xyz:80/98:06:3c:5a:3f:27/030D4A607EE5/957699
+http://rfye55.xyz:80/98:06:3c:5a:3f:27/030D4A607EE5/71351
 #EXTINF:-1 tvg-id="973137" tvg-name="UK - SKY SPORTS+ FHD" tvg-logo="http://go4.pw/UK/SKY_SPORTS+.png" group-title="国际",SKY Sports+  
 http://rfye55.xyz:80/98:06:3c:5a:3f:27/030D4A607EE5/973137
+#EXTINF:-1 tvg-id="76642" tvg-name="IT - SKY SPORT F1 UHD" tvg-logo="http://go4.pw/UK/SKYF1.png" group-title="国际",SKY Sports F1 
+http://rfye55.xyz:80/98:06:3c:5a:3f:27/030D4A607EE5/76642
+#EXTINF:-1 tvg-id="1052488" tvg-name="MY - EUROSPORTS HD" tvg-logo="http://go4.pw/UK/eursp1.png" group-title="国际",Eurosports
+http://rfye55.xyz:80/98:06:3c:5a:3f:27/030D4A607EE5/1052488
+#EXTINF:-1 tvg-id="1052431" tvg-name="MY - BEIN SPORTS FHD" tvg-logo="http://go4.pw/ASIA/beein.png" group-title="国际",BEIN Sports
+http://rfye55.xyz:80/98:06:3c:5a:3f:27/030D4A607EE5/1052431
 #EXTINF:-1 tvg-id="71986" tvg-name="nba tv" tvg-logo="http://go4.pw/AMERICA/USA/NBATV.png" group-title="国际",NBA TV
 http://rfye55.xyz:80/98:06:3c:5a:3f:27/030D4A607EE5/71986
 #EXTINF:-1 tvg-id="973127" tvg-name="US - ESPN FHD" tvg-logo="http://go4.pw/AMERICA/BRASIL/ESPN-1.png" group-title="国际",ESPN 

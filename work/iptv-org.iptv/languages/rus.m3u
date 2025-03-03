@@ -60,6 +60,8 @@ http://31.148.48.15/Bridge_TV/index.m3u8
 https://russian-livews.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd/playlist.m3u8
 #EXTINF:-1 tvg-id="Channel9.il" tvg-logo="https://i.imgur.com/pttM3KQ.png" group-title="News",Channel 9 (540p) [Not 24/7]
 http://50.7.231.221:8081/185/index.m3u8?wmsAuthSign=okad
+#EXTINF:-1 tvg-id="DWRussian.de" tvg-logo="https://epg.iptvx.one/picons/deutsche-welle-ru.png" group-title="Undefined",DW Russian (1080p)
+https://dwamdstream110.akamaized.net/hls/live/2017971/dwstream110/index.m3u8
 #EXTINF:-1 tvg-id="ETVPlus.ee" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a2/ETV%2B_logo.png" group-title="Entertainment",ETV+ (720p)
 https://sb.err.ee/live/etvpluss.m3u8
 #EXTINF:-1 tvg-id="Fox.ru" tvg-logo="https://i.imgur.com/nr1Y67Z.png" group-title="Entertainment",Fox
@@ -126,6 +128,8 @@ https://sirius.greenhosting.ru/Pro100tvRu/video.m3u8
 https://cdn-01.bonus-tv.ru/rtdoc/playlist.m3u8
 #EXTINF:-1 tvg-id="RUTV.ru" tvg-logo="https://i.imgur.com/Z7HUU7V.png" group-title="Music",RU TV
 https://hls-03-video.webcaramba.com/rutv/live.m3u8
+#EXTINF:-1 tvg-id="RussianMusicBox.ru" tvg-logo="https://i.imgur.com/ZkJ3Rh9.png" group-title="Music",Russian MusicBox (1080p)
+https://livetv.mylifeisgood.net.ru/channels/rusmusicbox.m3u8
 #EXTINF:-1 tvg-id="ShoppingLive.ru" tvg-logo="https://i.imgur.com/EMmGnjV.png" group-title="Shop",Shopping Live (576p) [Not 24/7]
 http://serv30.vintera.tv:8081/shoppinglive/shoppinglive_stream/playlist.m3u8
 #EXTINF:-1 tvg-id="Sochi24.ru" tvg-logo="https://i.imgur.com/iwWxkl6.png" group-title="General;News",Sochi 24 HD

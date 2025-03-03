@@ -294,13 +294,11 @@ https://www.streaming507.net:19360/videofabulosa/videofabulosa.m3u8
 #EXTINF:-1 tvg-id="FalastiniTV.ps" tvg-logo="https://i.imgur.com/6B3Cims.png" group-title="Music",Falastini TV (1080p)
 https://rp.tactivemedia.com/palestiniantv_source/live/playlist.m3u8
 #EXTINF:-1 tvg-id="Famatv.pt" tvg-logo="https://i.ibb.co/tMmRp18/Fama-TV-cor-whitebg-hotizontal.jpg" group-title="Music",Famatv (1080p) [Not 24/7]
-https://204280.global.ssl.fastly.net/64cd4f589272294ee667108d/live_2f24d2e05bfd11eeb524673aae68b8ac/rewind-3600.m3u8
+https://tv2.fastcast4u.com:3310/live/famatvlive.m3u8
 #EXTINF:-1 tvg-id="Fame95FM.jm" tvg-logo="https://i.imgur.com/fvtF0qM.png" group-title="Music",Fame95 FM (480p)
 https://rjr-fame.akamaized.net/hls/live/2033820/RJR_FAME/master.m3u8
 #EXTINF:-1 tvg-id="FarraPlay.py" tvg-logo="https://i.imgur.com/bXWzstH.png" group-title="Music",Farra Play (720p) [Not 24/7]
 http://159.203.148.226/live/farra.m3u8
-#EXTINF:-1 tvg-id="FiestaMax.ve" tvg-logo="https://i.imgur.com/8am0c5E.png" group-title="Music",Fiesta Max (720p)
-http://vcpar.myplaytv.com/fiestamax/live/playlist.m3u8
 #EXTINF:-1 tvg-id="FinestTV.de" tvg-logo="https://i.imgur.com/1uoP10V.png" group-title="Music",Finest TV (288p) [Not 24/7]
 https://media.finest.tv/hls/live.m3u8
 #EXTINF:-1 tvg-id="FMFrutillarTV.py" tvg-logo="https://i.ibb.co/Tq1hbQL/Captura.png" group-title="Music",FM Frutillar TV (720p) [Not 24/7]
@@ -674,7 +672,7 @@ https://muzzik-live.morescreens.com/mts-a5/playlist.m3u8
 https://muzzik-live.morescreens.com/mts-a4/playlist.m3u8
 #EXTINF:-1 tvg-id="MuzzOne.kz" tvg-logo="https://i.imgur.com/nHVABXh.png" group-title="Music",MuzzOne (1080p)
 https://muzzone-stream.daitsuna.net/muzzondvr/muzzone/playlist_dvr.m3u8
-#EXTINF:-1 tvg-id="MyxPhilippines.ph" tvg-logo="https://i.imgur.com/pbHuUuV.png" group-title="Music",MYX Philippines (720p)
+#EXTINF:-1 tvg-id="Myx.ph" tvg-logo="https://i.imgur.com/pbHuUuV.png" group-title="Music",Myx (720p)
 https://myxnola-abscbn-ono.amagi.tv/index.m3u8
 #EXTINF:-1 tvg-id="NagoTV.us" tvg-logo="https://i.imgur.com/cjFVtxK.png" group-title="Entertainment;Music",Nago TV (240p)
 https://lakay.online/public/nagotv/index.fmp4.m3u8
@@ -956,12 +954,12 @@ https://eu1.servers10.com:8081/8090/index.m3u8
 https://video03.logicahost.com.br/rfptv/rfptv/playlist.m3u8
 #EXTINF:-1 tvg-id="RHTGuadeloupe.gp" tvg-logo="https://i.imgur.com/lV8M3nn.jpg" group-title="Music",RHT Guadeloupe (720p)
 https://edge12.vedge.infomaniak.com/livecast/ik:livehautetension/manifest.m3u8
-#EXTINF:-1 tvg-id="RLVTV.ve" tvg-logo="https://i.imgur.com/hI8tXKW.png" group-title="Music",RLV TV (720p) [Not 24/7]
-https://tv.mundostreaming.cl:3083/live/radiolatinavzlalive.m3u8
 #EXTINF:-1 tvg-id="RockTV.ro" tvg-logo="https://i.imgur.com/JoPywOp.png" group-title="Music",Rock TV (720p)
 https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb.m3u8
 #EXTINF:-1 tvg-id="RockTV.mk" tvg-logo="https://i.imgur.com/Y9miDQo.png" group-title="Music",Rock TV (1080p) [Not 24/7]
 https://stream.nasatv.com.mk/rocktv/hls/rocktv_live.m3u8
+#EXTINF:-1 tvg-id="RotanaFMKSA.sa" tvg-logo="https://rotanaradios.com/wp-content/uploads/2024/10/Asset-4.png" group-title="Music",Rotana FM KSA (720p)
+rtmp://live.restream.io/pull/play_320121_94512612fd0e084bd284
 #EXTINF:-1 tvg-id="RTILa3.ci" tvg-logo="https://i.imgur.com/HdNshgF.png" group-title="Music;Sports",RTI La 3 (1080p) [Not 24/7]
 https://www.enovativecdn.com/rticdn/smil:rti3.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="RTLGold.lu" tvg-logo="https://i.imgur.com/LzHQoUv.png" group-title="Music",RTL Gold (1080p)
@@ -980,6 +978,8 @@ https://593b04c4c5670.streamlock.net/8038/8038/playlist.m3u8
 https://ss5.domint.net:3038/rum_str/rumba985fm/playlist.m3u8
 #EXTINF:-1 tvg-id="RUMBATV.cd" tvg-logo="https://i.imgur.com/SiBDqi3.png" group-title="Music",RUMBA TV (486p)
 https://tnt-television.com/RUMBA-TV/index.m3u8
+#EXTINF:-1 tvg-id="RussianMusicBox.ru" tvg-logo="https://i.imgur.com/ZkJ3Rh9.png" group-title="Music",Russian MusicBox (1080p)
+https://livetv.mylifeisgood.net.ru/channels/rusmusicbox.m3u8
 #EXTINF:-1 tvg-id="SalsaGordaTelevision.co" tvg-logo="https://i.imgur.com/3IhYd7G.jpg" group-title="Music",Salsa Gorda Television (720p)
 https://ssh101-fl.bozztv.com/ssh101/qMUAZEy/index.m3u8
 #EXTINF:-1 tvg-id="SaltoBrasaMusic.nl" tvg-logo="https://i.vimeocdn.com/portrait/31947989_640x640" group-title="Music",Salto Brasa Music (1080p)
@@ -992,8 +992,6 @@ https://live.obslivestream.com/sanjuanera/index.m3u8
 http://ip2.xxlservices.com:8081/seharaonline/live/playlist.m3u8
 #EXTINF:-1 tvg-id="SevdahTV.ba" tvg-logo="https://i.imgur.com/gmpkHWT.png" group-title="Music",Sevdah TV (288p)
 https://restreamer2.tnt.ba/hls/stream.m3u8
-#EXTINF:-1 tvg-id="ShowVenTV.ve" tvg-logo="https://i.imgur.com/AJIN8Dc.png" group-title="Culture;Music",ShowVen TV (1080p)
-https://vcp.myplaytv.com/coll/coll/playlist.m3u8
 #EXTINF:-1 tvg-id="SitiShqipTV.al" tvg-logo="https://i.imgur.com/U0Y5QRe.jpg" group-title="Music",Siti Shqip TV (720p) [Not 24/7]
 https://vs.sednastream.com:1936/sitishqip/sitishqip/playlist.m3u8
 #EXTINF:-1 tvg-id="SkyFolkTV.mk" tvg-logo="https://i.imgur.com/ya5xpUL.png" group-title="Music",Sky Folk TV (720p) [Not 24/7]
