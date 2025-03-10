@@ -5,7 +5,7 @@ https://mediaserver.abnvideos.com/streams/abnafrica.m3u8
 https://edge12.vedge.infomaniak.com/livecast/ik:africa24/manifest.m3u8
 #EXTINF:-1 tvg-id="Africa24English.fr" tvg-logo="https://i.imgur.com/YWIJdai.png" group-title="News",Africa 24 English (1080p)
 https://edge17.vedge.infomaniak.com/livecast/ik:africa24sport/manifest.m3u8
-#EXTINF:-1 tvg-id="AfricableTV.ml" tvg-logo="https://i.imgur.com/2ZpneNv.png" group-title="General",Africable TV (360p)
+#EXTINF:-1 tvg-id="AfricableTV.ml" tvg-logo="https://i.imgur.com/iQE57Z2.png" group-title="General",Africable TV (360p)
 http://69.64.57.208/africable/playlist.m3u8
 #EXTINF:-1 tvg-id="AfricanewsEnglish.fr" tvg-logo="https://i.imgur.com/5UxU4zc.png" group-title="News",Africanews
 https://rakuten-africanews-1-pt.samsung.wurl.tv/manifest/playlist.m3u8
@@ -23,6 +23,8 @@ https://bloomberg.com/media-manifest/streams/eu-event.m3u8
 http://69.64.57.208/cherifla/playlist.m3u8
 #EXTINF:-1 tvg-id="CNBCAfrica.za" tvg-logo="https://i.imgur.com/BnNYzWI.png" group-title="Business",CNBC Africa (480p)
 https://5be2f59e715dd.streamlock.net/CNBC/smil:CNBCSandton.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="CuriosityStream.us" tvg-logo="https://i.imgur.com/KUb4vEz.png" group-title="Education",CuriosityStream (720p)
+http://fl3.moveonjoy.com/Curiosity_Stream/index.m3u8
 #EXTINF:-1 tvg-id="D3TV.ml" tvg-logo="https://i.imgur.com/uFEIBtB.png" group-title="Music",D3 TV (540p) [Not 24/7]
 https://cageu.bozztv.com/ssh101/ssh101/d3tv1/playlist.m3u8
 #EXTINF:-1 tvg-id="EWTNAfricaAsia.us" tvg-logo="https://i.imgur.com/F8ZM25a.png" group-title="Religious",EWTN Africa Asia (720p)

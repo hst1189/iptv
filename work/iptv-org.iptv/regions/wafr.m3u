@@ -23,7 +23,7 @@ https://59d39900ebfb8.streamlock.net/adinkratvny/adinkratvny/playlist.m3u8
 https://strhls.streamakaci.tv/ortb/ortb2-multi/playlist.m3u8
 #EXTINF:-1 tvg-id="AfricaTV3.ng" tvg-logo="https://i.imgur.com/iibE9WL.png" group-title="Religious",Africa TV3 (720p) [Not 24/7]
 http://africatv.live.net.sa:1935/live/africatv3/playlist.m3u8
-#EXTINF:-1 tvg-id="AfricableTV.ml" tvg-logo="https://i.imgur.com/2ZpneNv.png" group-title="General",Africable TV (360p)
+#EXTINF:-1 tvg-id="AfricableTV.ml" tvg-logo="https://i.imgur.com/iQE57Z2.png" group-title="General",Africable TV (360p)
 http://69.64.57.208/africable/playlist.m3u8
 #EXTINF:-1 tvg-id="AfrocultureTV.ci" tvg-logo="https://i.imgur.com/bjaZ3kO.png" group-title="Culture",Afroculture TV (1080p)
 https://helga.iptv2022.com/sh/Afroculture/index.m3u8
@@ -375,7 +375,9 @@ https://stmv1.srvif.com/tvcidade/tvcidade/playlist.m3u8
 #EXTINF:-1 tvg-id="TVC.ng" tvg-logo="https://i.imgur.com/ReV8R5S.png" group-title="Undefined",TVC (1080p)
 https://tvce.gridpapaservers.com/TVCSEPT/ngrp:myStream_all/playlist.m3u8
 #EXTINF:-1 tvg-id="TVCBenin.bj" tvg-logo="https://i.imgur.com/oUnEYl5.png" group-title="General",TVC Bénin (720p)
-https://live.tvcbenin.com/direct/729c37a1d3319ee21991227b1f84c687.sdp/playlist.m3u8
+https://helga.iptv2022.com/sh/TVC_BENIN/index.m3u8
+#EXTINF:-1 tvg-id="TVCNews.ng" tvg-logo="https://i.imgur.com/jaSq18B.png" group-title="News",TVC News (576p)
+http://92.114.85.72:8000/play/a0al
 #EXTINF:-1 tvg-id="TVT.tg" tvg-logo="https://i.imgur.com/WtXonN9.png" group-title="General",TVT (720p) [Not 24/7]
 http://69.64.57.208/tvt/playlist.m3u8
 #EXTINF:-1 tvg-id="UGFTV.ci" tvg-logo="https://i.ibb.co/2k6HkKH/channels4-profile.jpg" group-title="News",UGF TV (720p) [Not 24/7]

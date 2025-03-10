@@ -47,7 +47,7 @@ http://africatv.live.net.sa:1935/live/africatv2/playlist.m3u8
 http://africatv.live.net.sa:1935/live/africatv3/playlist.m3u8
 #EXTINF:-1 tvg-id="AfricaPlusNews.cm" tvg-logo="https://i.ibb.co/JHxGNmf/logo-63c09708736e15-74858373-64636840.png" group-title="News",Africa+ News (480p) [Not 24/7]
 http://connectiktv.ddns.me:8080/live/61f1b992a6e8a-1/index.m3u8
-#EXTINF:-1 tvg-id="AfricableTV.ml" tvg-logo="https://i.imgur.com/2ZpneNv.png" group-title="General",Africable TV (360p)
+#EXTINF:-1 tvg-id="AfricableTV.ml" tvg-logo="https://i.imgur.com/iQE57Z2.png" group-title="General",Africable TV (360p)
 http://69.64.57.208/africable/playlist.m3u8
 #EXTINF:-1 tvg-id="AfricanewsEnglish.fr" tvg-logo="https://i.imgur.com/5UxU4zc.png" group-title="News",Africanews
 https://rakuten-africanews-1-pt.samsung.wurl.tv/manifest/playlist.m3u8
@@ -278,6 +278,8 @@ https://afxporigin.telemedia.co.za/afxp/abr_crimeandevidence/playlist.m3u8
 https://edge.vedge.infomaniak.com/livecast/ik:fluxvideo-crtv/manifest.m3u8
 #EXTINF:-1 tvg-id="CTVAfrique.cm" tvg-logo="https://i.ibb.co/k0mws9B/Ctv-Afrique.jpg" group-title="General",CTV Afrique (720p)
 https://stream.it-innov.com/ctv/index.m3u8
+#EXTINF:-1 tvg-id="CuriosityStream.us" tvg-logo="https://i.imgur.com/KUb4vEz.png" group-title="Education",CuriosityStream (720p)
+http://fl3.moveonjoy.com/Curiosity_Stream/index.m3u8
 #EXTINF:-1 tvg-id="D3TV.ml" tvg-logo="https://i.imgur.com/uFEIBtB.png" group-title="Music",D3 TV (540p) [Not 24/7]
 https://cageu.bozztv.com/ssh101/ssh101/d3tv1/playlist.m3u8
 #EXTINF:-1 tvg-id="DaawahTV.tr" tvg-logo="https://i.imgur.com/IIpgub8.png" group-title="Religious",Daawah TV (720p) [Not 24/7]
@@ -326,8 +328,6 @@ https://tnt-television.com/EDEN_CITY_TV/index.m3u8
 https://rtmp.edentv.bj/hls/stream.m3u8
 #EXTINF:-1 tvg-id="EGGPROTV.cd" tvg-logo="https://i.imgur.com/rygp3BA.jpg" group-title="General",EGG PRO TV (720p)
 https://helga.iptv2022.com/EGG_PRO_TV/index.m3u8
-#EXTINF:-1 tvg-id="ElHayatTV.dz" tvg-logo="https://i.imgur.com/C0s1I8w.png" group-title="General",El Hayat TV (1080p)
-https://elhayat-live-tv.dzsecurity.net/fullres/ElhayatTV_First/playlist.m3u8
 #EXTINF:-1 tvg-id="ElRadio9090FM.eg" tvg-logo="https://www.9090.fm/images/logo.png" group-title="Music",El Radio 9090 FM (480p)
 https://9090video.mobtada.com/hls/stream.m3u8
 #EXTINF:-1 tvg-id="ElbesharaGTV.us" tvg-logo="https://i.imgur.com/b0Wx7pE.png" group-title="Religious",Elbeshara GTV (1080p) [Not 24/7]
@@ -934,8 +934,6 @@ https://58c04fb1d143f.streamlock.net/rezopropartner_1/rezopropartner_1/playlist.
 https://tvsonlin.com/hls/tvs.m3u8
 #EXTINF:-1 tvg-id="TempoAfricTV.us" tvg-logo="https://i.imgur.com/mggN4mS.jpg" group-title="News",Tempo Afric TV (720p)
 https://streamspace.live/hls/tempoafrictv/livestream.m3u8
-#EXTINF:-1 tvg-id="TeN.eg" tvg-logo="https://i.imgur.com/gMnn6PD.png" group-title="General",TeN TV (720p) [Geo-blocked]
-https://weyyak-live.akamaized.net/weyyak_ten_tv/index.m3u8
 #EXTINF:-1 tvg-id="TFM.sn" tvg-logo="https://i.imgur.com/TQWBlXn.png" group-title="General",TFM (720p)
 http://69.64.57.208/tfm/playlist.m3u8
 #EXTINF:-1 tvg-id="TheBaseGospel.gh" tvg-logo="https://i.imgur.com/0moSF3t.png" group-title="Music",The Base Gospel TV (360p)
@@ -997,7 +995,9 @@ https://sgn-cdn-video.vods2africa.com/Tv-Zimbo/index.fmp4.m3u8
 #EXTINF:-1 tvg-id="TVC.ng" tvg-logo="https://i.imgur.com/ReV8R5S.png" group-title="Undefined",TVC (1080p)
 https://tvce.gridpapaservers.com/TVCSEPT/ngrp:myStream_all/playlist.m3u8
 #EXTINF:-1 tvg-id="TVCBenin.bj" tvg-logo="https://i.imgur.com/oUnEYl5.png" group-title="General",TVC Bénin (720p)
-https://live.tvcbenin.com/direct/729c37a1d3319ee21991227b1f84c687.sdp/playlist.m3u8
+https://helga.iptv2022.com/sh/TVC_BENIN/index.m3u8
+#EXTINF:-1 tvg-id="TVCNews.ng" tvg-logo="https://i.imgur.com/jaSq18B.png" group-title="News",TVC News (576p)
+http://92.114.85.72:8000/play/a0al
 #EXTINF:-1 tvg-id="TVGE.gq" tvg-logo="https://i.imgur.com/iOdHgPd.png" group-title="General",TVGE (480p)
 http://rtmp.ott.mx1.com/tvge1/tvge1multi.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TVIAfrica.pt" tvg-logo="https://i.ibb.co/vBbSHB4/Tvi-africa.png" group-title="General",TVI África (480p) [Not 24/7]
