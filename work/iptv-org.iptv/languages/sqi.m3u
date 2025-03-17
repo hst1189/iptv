@@ -15,8 +15,6 @@ https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Alsat_M)/index.m3
 https://vs.sednastream.com:1936/citytv/citytv/playlist.m3u8
 #EXTINF:-1 tvg-id="CNA.al" tvg-logo="https://codeit.al/wp-content/uploads/2020/08/cna.png" group-title="News",CNA (1080p)
 https://live1.mediadesk.al/cnatvlive.m3u8
-#EXTINF:-1 tvg-id="DritaTV.ch" tvg-logo="https://i.imgur.com/cvgVmZw.png" group-title="General",Drita TV (1080p)
-https://protokolldns.xyz/dritaweb2023ds/index.m3u8
 #EXTINF:-1 tvg-id="EbSPlus.be" tvg-logo="https://i.imgur.com/7V012zQ.png" group-title="Legislative",EbS+ (1080p)
 https://streams.prd.commavservices.eu/live/ebsplus/index.m3u8
 #EXTINF:-1 tvg-id="EuroAlTV.de" tvg-logo="https://i.imgur.com/0GrDAWx.png" group-title="Undefined",EuroAl TV (720p)
@@ -81,6 +79,8 @@ http://stream.tvdielli.com:8081/dielli/index.m3u8
 https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(ERA)/index.m3u8
 #EXTINF:-1 tvg-id="TVOpoja.xk" tvg-logo="https://i.imgur.com/hxi4Qiq.png" group-title="Undefined",TV Opoja (720p) [Not 24/7]
 http://ip.opoja.tv:1935/tvopoja/tvopoja/playlist.m3u8
+#EXTINF:-1 tvg-id="TVSyri.xk" tvg-logo="https://i.imgur.com/ZQuFosn.png" group-title="Undefined",TV Syri (720p)
+https://gjirafa-video-live.gjirafa.net/gjvideo-live/xej-xnb-ba0-kup/index.m3u8
 #EXTINF:-1 tvg-id="VizionPlus.al" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Vizion_Plus.svg/512px-Vizion_Plus.svg.png" group-title="General",Vizion Plus (1080p)
 https://fe.tring.al/delta/105/out/u/rdghfhsfhfshs.m3u8
 #EXTINF:-1 tvg-id="ZjarrTV.al" tvg-logo="https://i.imgur.com/hNuWZWe.png" group-title="General",Zjarr TV (720p) [Not 24/7]

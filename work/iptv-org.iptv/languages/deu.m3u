@@ -95,8 +95,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=2489
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
 #EXTINF:-1 tvg-id="DeluxeRap.de" tvg-logo="https://i.imgur.com/s3h67hx.png" group-title="Music",Deluxe Rap (1080p)
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m3u8
-#EXTINF:-1 tvg-id="DerAktionaerTV.de" tvg-logo="https://i.imgur.com/5bHrYoD.png" group-title="Business",Der Aktionär TV (720p)
-https://live2.telvi.de/hls/aktionaertv.m3u8
 #EXTINF:-1 tvg-id="DWDeutsch.de" tvg-logo="https://i.imgur.com/8MRNFb9.png" group-title="News" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148",Deutsche Welle (480p) [Not 24/7]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148
 http://ott-cdn.ucom.am/s26/index.m3u8
@@ -112,8 +110,6 @@ https://bild-und-ton.stream/die-neue-zeit-tv-live/smil:dnz-de.smil/playlist.m3u8
 https://muc3.iptv-playoutcenter.de/dokusat/dokusat1/playlist.m3u8
 #EXTINF:-1 tvg-id="DoraTV.de" tvg-logo="https://i.imgur.com/zJuSbmU.png" group-title="Kids",Dora TV
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e43c344b54fe800093552f4/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84ad19e8-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=6f38d5cb-dcfd-4261-b299-2bb3409c224c
-#EXTINF:-1 tvg-id="DorfTV.at" tvg-logo="https://i.imgur.com/L0q19NR.png" group-title="General",Dorf TV (576p)
-https://stream.openplayout.org/hls/dorftv/live.m3u8
 #EXTINF:-1 tvg-id="SachsenFernsehenDresden.de" tvg-logo="https://i.imgur.com/rnvprGj.png" group-title="Undefined",Dresden Fernsehen (1080p) [Not 24/7]
 https://dresden.iptv-playoutcenter.de/dresden/dresdenfernsehen.stream_1/playlist.m3u8
 #EXTINF:-1 tvg-id="EbS.be" tvg-logo="https://i.imgur.com/DIIRPNN.png" group-title="Legislative",EbS (1080p)
@@ -202,14 +198,10 @@ https://kikageohls.akamaized.net/hls/live/2022693/livetvkika_de/master.m3u8
 https://everest.pa-hosting.de:3591/live/joseflive.m3u8
 #EXTINF:-1 tvg-id="KommuTV.li" tvg-logo="https://i.imgur.com/qRJdwBT.png" group-title="General",Kommu TV (720p) [Not 24/7]
 http://31.10.19.12:8066/live/999/0.m3u8
-#EXTINF:-1 tvg-id="kronetv.at" tvg-logo="https://i.imgur.com/3zN58uH.png" group-title="News",Krone.TV (360p)
-https://kronetv.mdn.ors.at/out/u/kronetv-nodrm.m3u8
 #EXTINF:-1 tvg-id="Kronehit.at" tvg-logo="https://i.imgur.com/dQJQv1X.png" group-title="Music",Kronehit (1080p)
 https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="KulturMD.de" tvg-logo="https://i.imgur.com/io7cJ1Z.png" group-title="Culture",KulturMD (1080p)
 http://58bd5b7a98e04.streamlock.net/medienasa-live/kulturmd_high/playlist.m3u8
-#EXTINF:-1 tvg-id="KurierTV.at" tvg-logo="https://i.imgur.com/c53h8cz.png" group-title="News",Kurier TV (720p)
-https://schautv.mdn.ors.at/out/u/schautv-nodrm.m3u8
 #EXTINF:-1 tvg-id="KWTVWildau.de" tvg-logo="https://i.imgur.com/zSklDLl.png" group-title="Undefined",KW TV Wildau (720p) [Not 24/7]
 https://58af0c57eaf3e.streamlock.net/easycast11-live/mp4:livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="LTV.de" tvg-logo="https://i.imgur.com/HuGaMJj.png" group-title="General",L-TV (720p)
@@ -236,8 +228,6 @@ https://mdrtvsahls.akamaized.net/hls/live/2016879/mdrtvsa/index.m3u8
 https://mdrtvthhls.akamaized.net/hls/live/2016880/mdrtvth/index.m3u8
 #EXTINF:-1 tvg-id="MediaShopTV.li" tvg-logo="https://i.imgur.com/RuZcVey.png" group-title="Shop",Mediashop TV (576p)
 https://mediashop.akamaized.net/hls/live/2032402/Meine_Einkaufswelt/1.m3u8
-#EXTINF:-1 tvg-id="MelodieExpress.at" tvg-logo="https://i.imgur.com/QPoAsn4.png" group-title="Music",Melodie Express
-https://rpn3.bozztv.com/ssh101/ssh101/melodietvlive/playlist.m3u8
 #EXTINF:-1 tvg-id="Meteonews.ch" tvg-logo="https://i.imgur.com/YtYhbJD.png" group-title="Weather",Meteonews (1080p)
 https://streaming.meteonews.net/hls/stream.m3u8
 #EXTINF:-1 tvg-id="MoreThanSportsTV.de" tvg-logo="https://i.imgur.com/SLrjImc.png" group-title="Sports",More Than Sports TV (1080p)
@@ -306,8 +296,6 @@ https://fms.nrwision.de/live/livestreamHD.stream/playlist.m3u8
 https://h056.video-stream-hosting.de/easycast8-live/_definst_/mp4:livestreamhd4/playlist.m3u8?ref=
 #EXTINF:-1 tvg-id="OberpfalzTV.de" tvg-logo="https://i.imgur.com/ISI5KDd.png" group-title="General",Oberpfalz TV (1080p)
 https://oberpfalztv.iptv-playoutcenter.de/oberpfalztv/oberpfalztv.stream_1/playlist.m3u8
-#EXTINF:-1 tvg-id="oe24TV.at" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Oe24TV_Logo_2016.svg/512px-Oe24TV_Logo_2016.svg.png" group-title="News",oe24 TV (1080p)
-https://varoe24live.sf.apa.at/oe24-live1/oe24.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Oeins.de" tvg-logo="https://i.imgur.com/bWQifDE.png" group-title="Music",oeins (Oldenburg) (1080p) [Not 24/7]
 https://www.oeins.de/live/studio.m3u8
 #EXTINF:-1 tvg-id="OFTVOffenbach.de" tvg-logo="https://i.imgur.com/WAcxCJr.png" group-title="General",OF-TV Offenbach (720p)
@@ -364,11 +352,11 @@ https://cdne.folxplay.tv/folx-trz/streams/ch-3/master.m3u8
 https://mcdn.one.ard.de/ardone/hls/master.m3u8
 #EXTINF:-1 tvg-id="OneAdria.de" tvg-logo="https://i.imgur.com/NYkMamU.png" group-title="Music",One Adria (1080p)
 https://cdne.folxplay.tv/folx-trz/streams/ch-6/master.m3u8
+#EXTINF:-1 tvg-id="ORF1HD.at" tvg-logo="https://i.imgur.com/40p3eif.png" group-title="General",ORF 1 HD
+https://s6.hopslan.com/orfx1/index.m3u8
 #EXTINF:-1 tvg-id="ORF1HD.at" tvg-shift="-1" tvg-logo="https://i.imgur.com/40p3eif.png" group-title="General",ORF 1 HD
 #EXTVLCOPT:http-referrer=https://livestreamde.com/
 https://strm.hdtvizlecanli.com/live/orf1.m3u8
-#EXTINF:-1 tvg-id="ORF1HD.at" tvg-logo="https://i.imgur.com/40p3eif.png" group-title="General",ORF 1 HD (720p)
-https://s6.hopslan.com/orfx12/index.m3u8?token=cf047287f41e1ab2866bf517eb314b80f26ea1c4-9d0c133dedf3dd368c452f391b3bc18c-1733949261-173393
 #EXTINF:-1 tvg-id="ORF2.at" tvg-logo="https://i.imgur.com/svgv2q5.png" group-title="General",ORF 2 (720p)
 https://strm.hdtvizlecanli.com/live/orf2.m3u8
 #EXTINF:-1 tvg-id="P3tv.at" tvg-logo="https://i.imgur.com/qUOFiEe.png" group-title="General",P3tv (720p) [Not 24/7]
@@ -582,8 +570,6 @@ https://cdnapisec.kaltura.com/p/1719221/sp/171922100/playManifest/entryId/1_xias
 https://cdnapisec.kaltura.com/p/1719221/sp/171922100/playManifest/entryId/1_ljzy3evp/format/applehttp/protocol/https/a.m3u8
 #EXTINF:-1 tvg-id="TeleBarn.ch" tvg-logo="https://i.imgur.com/YwUbbKA.png" group-title="Undefined",TeleBärn (720p)
 https://klive.kaltura.com/env/cluster-1-d.live.nvp1/live/hls/p/1719221/e/1_obr1n222/tl/main/st/0/t/V5aB4vl7IdB41mCbZmUxNA/index-s32.m3u8
-#EXTINF:-1 tvg-id="Telebasel.ch" tvg-logo="https://i.imgur.com/t6HbqgA.png" group-title="Undefined",Telebasel (432p)
-https://cldf-wzw-live.r53.cdn.tv1.eu/10096xtelebase/_definst_/1000199copo/live/app510394368/w162136077/live_de_1500/playlist.m3u8
 #EXTINF:-1 tvg-id="TeleBielingue.ch" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/TeleBielingue_Logo.svg/512px-TeleBielingue_Logo.svg.png" group-title="Undefined",TeleBielingue (720p)
 https://edge20.vedge.infomaniak.com/livecast/ik:telebielinguech/manifest.m3u8
 #EXTINF:-1 tvg-id="TeleZuri.ch" tvg-logo="https://i.imgur.com/f8kzNT1.png" group-title="Undefined",TeleZüri (720p)

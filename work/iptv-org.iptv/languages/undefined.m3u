@@ -970,6 +970,8 @@ https://glb.bozztv.com/glb/ssh101/el70tv/index.m3u8
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1079
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Elsharq TV (1080p) [Not 24/7]
 https://mn-nl.mncdn.com/elsharq_live/live/playlist.m3u8
+#EXTINF:-1 tvg-id="EmTV.tr" tvg-logo="" group-title="Undefined",Em TV (486p)
+https://cdn.yayin.com.tr/TVEM/TVEM/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Emma einfach magisch!
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f4796368174910007756454/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1d8ac4-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=a05d126a-1903-4adf-85c8-55259cc392f6
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Emma einfach magisch!
@@ -1398,8 +1400,6 @@ https://amg09501-questar-amg09501c2-stirr-us-3095.playouts.now.amagi.tv/amg09501
 https://streamer1.nexgen.bz/HISTORY/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Hmong Star TV (720p) [Not 24/7]
 https://livefta.malimarcdn.com/ftaedge00/hmongstartv.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",HmongUSA TV (360p)
-https://livefta.malimarcdn.com/ftaedge00/hmongusatv.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Holidayscapes (1080p)
 https://plextv.ott-channels.stingray.com/holidayscapes/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Hollywood Squares
@@ -1604,8 +1604,6 @@ https://edge1.socialsmart.tv/kanal58/bant1/playlist.m3u8
 https://cdn-kanaltvo.yayin.com.tr/kanaltvo/kanaltvo/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Kanal S TV
 https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/kanal-s.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Khomsanh TV (720p)
-https://livefta.malimarcdn.com/ftaedge00/lstv2.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Kid Quest
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62fb6aede6ff56000707085b/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7ac9d5-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=03b2428e-2903-46ce-9192-ce454749a025
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Kid Squad
@@ -3513,12 +3511,16 @@ https://apollo.production-public.tubi.io/live/tubi-originals.m3u8
 https://stream.gia.tv/giatvplayout7/giatv-208343/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",TV7 Meteo (404p)
 https://www.gruppotv7.com:8090/hls/meteo.m3u8
+#EXTINF:-1 tvg-id="TV8International.tr" tvg-logo="" group-title="Undefined",TV8 International (1080p)
+http://185.234.111.229:8000/play/a01x
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",TV Blossom (1080p)
 https://amg00437-amg00437c3-firetv-us-5409.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",TV Cartago Digital
 https://ssh101-fl.bozztv.com/ssh101/tvcdstreaming/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",TV Cultura Nacional
 https://d28367vmhj4ljz.cloudfront.net/out/v1/f26e176ce67244de862cd9b21d823934/index.m3u8
+#EXTINF:-1 tvg-id="TVEm.tr" tvg-logo="" group-title="Undefined",TV Em (486p)
+https://cdn-tvem.yayin.com.tr/TVEM/TVEM/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Tv Famypanc HD (1080p)
 https://panel.host-live.com:19360/8042/8042.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",TV Land Sitcoms 2
@@ -3842,6 +3844,8 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/66
 https://zindisorani.zaroktv.com.tr/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Zed TV
 http://190.2.148.141:8080/bar7657/index.m3u8
+#EXTINF:-1 tvg-id="ZeeAlwan.in" tvg-logo="" group-title="Undefined",Zee Alwan (576p) [Not 24/7]
+https://tgn.bozztv.com/gin-dvrfl05/ga-zeealwan/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Zee One
 https://87e3eec452134557a82da031f54a1899.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-fr_ZeeMagic/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Zoey 101

@@ -534,8 +534,6 @@ https://webstreaming.viewmedia.tv/web_011/Stream/playlist.m3u8
 https://stream.castr.com/64490fcefe045f1b63012886/live_8c1539b0eb6c11eda9f0c7bd90506d4f/index.m3u8
 #EXTINF:-1 tvg-id="LibyaAlWataniya.ly" tvg-logo="https://i.imgur.com/KSUny9D.jpeg" group-title="General",Libya Al Wataniya (360p)
 https://cdn-globecast.akamaized.net/live/eds/libya_al_watanya/hls_roku/index.m3u8
-#EXTINF:-1 tvg-id="LibyaMostakbal.ly" tvg-logo="https://i.imgur.com/vNv6APA.png" group-title="General",Libya Mostakbal (1080p)
-http://41.33.221.140:1935/monitor/libyaalmustaqbal.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="LifeCenterNetwork.ng" tvg-logo="https://www.lyngsat.com/logo/tv/ll/life-center-network-ng.png" group-title="Undefined",Life Center Network (576p)
 https://webstreaming-11.viewmedia.tv/web_152/Stream/playlist.m3u8
 #EXTINF:-1 tvg-id="LifeTV.ci" tvg-logo="https://i.imgur.com/iz9qHZk.png" group-title="General",Life TV
@@ -609,11 +607,11 @@ https://glb.bozztv.com/glb/ssh101/mbcmalawi/playlist.m3u8
 https://shls-masr-prod-dub.shahid.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index.m3u8
 #EXTINF:-1 tvg-id="MBCMasr2.eg" tvg-logo="https://i.imgur.com/KHo7Gtn.png" group-title="General",MBC Masr 2 (1080p)
 https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/index.m3u8
-#EXTINF:-1 tvg-id="Medi1TVAfrique.ma" tvg-logo="https://i.imgur.com/5S3er4e.png" group-title="News",Medi 1 TV Afrique (1080p) [Not 24/7]
+#EXTINF:-1 tvg-id="Medi1TVAfrique.ma" tvg-logo="https://i.imgur.com/OioFepy.jpeg" group-title="News",Medi 1 TV Afrique (1080p) [Not 24/7]
 https://streaming1.medi1tv.com/live/smil:medi1fr.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Medi1TVArabic.ma" tvg-logo="https://i.imgur.com/5S3er4e.png" group-title="News",Medi 1 TV Arabic (1080p) [Not 24/7]
+#EXTINF:-1 tvg-id="Medi1TVArabic.ma" tvg-logo="https://i.imgur.com/jWKH922.jpeg" group-title="News",Medi 1 TV Arabic (1080p) [Not 24/7]
 https://streaming1.medi1tv.com/live/smil:medi1ar.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Medi1TVMaghreb.ma" tvg-logo="https://i.imgur.com/5S3er4e.png" group-title="News",Medi 1 TV Maghreb (1080p) [Not 24/7]
+#EXTINF:-1 tvg-id="Medi1TVMaghreb.ma" tvg-logo="https://i.imgur.com/LbeChWy.jpeg" group-title="News",Medi 1 TV Maghreb (1080p) [Not 24/7]
 https://streaming1.medi1tv.com/live/smil:medi1tv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="MekameleenTV.tr" tvg-logo="https://i.imgur.com/q7iVchl.png" group-title="News",Mekameleen TV (1080p)
 https://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/playlist.m3u8
@@ -934,6 +932,8 @@ https://58c04fb1d143f.streamlock.net/rezopropartner_1/rezopropartner_1/playlist.
 https://tvsonlin.com/hls/tvs.m3u8
 #EXTINF:-1 tvg-id="TempoAfricTV.us" tvg-logo="https://i.imgur.com/mggN4mS.jpg" group-title="News",Tempo Afric TV (720p)
 https://streamspace.live/hls/tempoafrictv/livestream.m3u8
+#EXTINF:-1 tvg-id="TeN.eg" tvg-logo="https://i.imgur.com/gMnn6PD.png" group-title="General",TeN (720p) [Geo-blocked]
+https://weyyak-live.akamaized.net/weyyak_ten_tv/index.m3u8
 #EXTINF:-1 tvg-id="TFM.sn" tvg-logo="https://i.imgur.com/TQWBlXn.png" group-title="General",TFM (720p)
 http://69.64.57.208/tfm/playlist.m3u8
 #EXTINF:-1 tvg-id="TheBaseGospel.gh" tvg-logo="https://i.imgur.com/0moSF3t.png" group-title="Music",The Base Gospel TV (360p)
