@@ -39,6 +39,12 @@
 如：https://ghp.ci/https://xxxxx/iptv.m3u 或  https://ghgo.xyz/https://xxxxx/iptv.m3u
 
 
+2025/4/12 追加
+自动收集的IPv4酒店电视直播源，自动测试播放速度，每日自动更新。 有CCTV央视卫视频道，及部分地方频道，播放流畅。也可在openwrt或群辉的docker运行。
+```
+  自动运行./py/new.py
+  运行完成后在当前目录下生成电视直播文件itvlist.txt
+```
 
 # 📖 API使用方法
 1. 下载.m3u 导入本地播放器即可
