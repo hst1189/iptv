@@ -212,13 +212,10 @@ jobs:
       - name: Install dependencies
         run: pip install selenium requests futures eventlet aiohttp aiofiles asyncio
       - name: Run cctv
-        run: python ${{ github.workspace }}/local/py/new.py
-        
-      - name: Copy files 🚚
         run: |
           cd ${GITHUB_WORKSPACE}/local/py
-          cp -rfp ${GITHUB_WORKSPACE}/local/py/*.txt  ${GITHUB_WORKSPACE}/local/
-          tree -a
+          python ./new.py
+          cp -rfp ./*.txt  ${GITHUB_WORKSPACE}/local/
 
 
       - name: Commit & Push changes 🔥
