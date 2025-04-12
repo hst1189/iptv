@@ -17,8 +17,6 @@ http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/46754
 http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/78578
 #EXTINF:-1 tvg-id="17749" tvg-name="US NBC (KXAN) Austin " group-title="国际",NBC
 http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/17749
-#EXTINF:-1 tvg-id="224557" tvg-name="US PBS (WNJT) NJ | New Jersey (D)" group-title="国际",PBS NJ
-http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/224557
 #EXTINF:-1 tvg-id="121004" tvg-name="AU ABC News Sydney (D)" group-title="国际",ABC News Sydney 
 http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/121004
 #EXTINF:-1 tvg-id="53695" tvg-name="UK-Discovery Science" group-title="国际",Discovery Science
@@ -29,8 +27,6 @@ http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/11664
 http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/46722
 #EXTINF:-1 tvg-id="53719" tvg-name="UK-Cartoon Network" group-title="国际",Cartoon Network
 http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/53719
-#EXTINF:-1 tvg-id="53728" tvg-name="UK: NICKELODEON" group-title="国际",NICKELODEON
-http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/53728
 #EXTINF:-1 tvg-id="18925" tvg-name="US AMC" tvg-logo="https://seeklogo.com/images/A/amc-logo-36BD2C5A01-seeklogo.com.png" group-title="国际",AMC
 http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/18925
 #EXTINF:-1 tvg-id="13702" tvg-name="US BET (East)" tvg-logo="https://www.pinclipart.com/picdir/middle/396-3966034_bet-her-logo-png-clipart.png" group-title="国际",BET
@@ -43,7 +39,7 @@ http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/9815
 http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/46724
 #EXTINF:-1 tvg-id="35248" tvg-name="UK Sky Cinema Scifi & Horror FHD" group-title="国际",Sky Cinema Scifi & Horror 
 http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/35248
-#EXTINF:-1 tvg-id="35252" tvg-name="UK MOVIES: SKY CRIME THRILLER" group-title="国际",SKY Crime Thriller
+#EXTINF:-1 tvg-id="35252" tvg-name="UK MOVIES: SKY CRIME THRILLER" group-title="国际",Sky Crime Thriller
 http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/35252
 #EXTINF:-1 tvg-id="20863" tvg-name="US Lifetime Movies " tvg-logo="https://findvectorlogo.com/wp-content/uploads/2020/01/lifetime-movies-vector-logo.png" group-title="国际",Lifetime Movies
 http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/20863
@@ -99,3 +95,27 @@ http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/20926
 http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/20943
 #EXTINF:-1 tvg-id="1846" tvg-name="US Fox Sports 1 " tvg-logo="https://awfulannouncing.com/wp-content/uploads/sites/94/2015/09/Screen-Shot-2015-09-04-at-6.09.55-PM.png" group-title="国际",Fox Sports 1 
 http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/1846
+#EXTINF:-1 tvg-id="17772" tvg-name="US HBO Family (East) " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="国际",HBO Family  
+http://fortv.cc:8080//clarencekingrh@hotmail.com/pKgSdl4ZFX/17772
+#EXTINF:-1 tvg-id="13480" tvg-name="US MovieMAX (East) " tvg-logo="https://www.dishactivations.com/wp-content/uploads/2014/05/MoviePlex.png" group-title="国际",MovieMAX
+http://fortv.cc:8080//clarencekingrh@hotmail.com/pKgSdl4ZFX/13480
+#EXTINF:-1 tvg-id="21012" tvg-name="US Cinemax Outermax (X)" group-title="国际",Cinemax Outermax
+http://fortv.cc:8080//clarencekingrh@hotmail.com/pKgSdl4ZFX/21012
+#EXTINF:-1 tvg-id="46214" tvg-name="US Showtime East " group-title="国际",Showtime 
+http://fortv.cc:8080//clarencekingrh@hotmail.com/pKgSdl4ZFX/46214
+#EXTINF:-1 tvg-id="57306" tvg-name="CA: CBC TORONTO" group-title="国际",CBC  
+http://fortv.cc:8080//clarencekingrh@hotmail.com/pKgSdl4ZFX/57306
+#EXTINF:-1 tvg-id="57357" tvg-name="CA CP24 News HD (D)" group-title="国际",CP24 News 
+http://fortv.cc:8080//clarencekingrh@hotmail.com/pKgSdl4ZFX/57357
+#EXTINF:-1 tvg-id="57254" tvg-name="CA CTV Drama Channel (R)" group-title="国际",CTV Drama 
+http://fortv.cc:8080//clarencekingrh@hotmail.com/pKgSdl4ZFX/57254
+#EXTINF:-1 tvg-id="57350" tvg-name="CA: CTV NEWS CHANNEL HD" group-title="国际",CTV NEWS
+http://fortv.cc:8080//clarencekingrh@hotmail.com/pKgSdl4ZFX/57350
+#EXTINF:-1 tvg-id="57437" tvg-name="CA: HBO 1 " group-title="国际",HBO 1 
+http://fortv.cc:8080//clarencekingrh@hotmail.com/pKgSdl4ZFX/57437
+#EXTINF:-1 tvg-id="57438" tvg-name="CA HBO 2 (R)" group-title="国际",HBO 2 
+http://fortv.cc:8080//clarencekingrh@hotmail.com/pKgSdl4ZFX/57438
+#EXTINF:-1 tvg-id="57276" tvg-name="CA: PBS HD" group-title="国际",PBS 
+http://fortv.cc:8080//clarencekingrh@hotmail.com/pKgSdl4ZFX/57276
+#EXTINF:-1 tvg-id="57277" tvg-name="CA OWN " group-title="国际",OWN 
+http://fortv.cc:8080//clarencekingrh@hotmail.com/pKgSdl4ZFX/57277
