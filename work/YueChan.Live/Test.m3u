@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-id="47213" tvg-name="CA CNN " group-title="国际",CNN
 http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/47213
 #EXTINF:-1 tvg-id="53757" tvg-name="UK: BBC NEWS" group-title="国际",BBC 
-http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/53757
+https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 #EXTINF:-1 tvg-id="121139" tvg-name="US abc 7 (WABC) New York" group-title="国际",ABC
 http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/121139
 #EXTINF:-1 tvg-id="160711" tvg-name="US Al Jazeera" group-title="国际",Al Jazeera
@@ -15,8 +15,6 @@ http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/161450
 http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/46754
 #EXTINF:-1 tvg-id="78578" tvg-name="Infowars" group-title="国际",Infowars
 http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/78578
-#EXTINF:-1 tvg-id="17749" tvg-name="US NBC (KXAN) Austin " group-title="国际",NBC
-http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/17749
 #EXTINF:-1 tvg-id="121004" tvg-name="AU ABC News Sydney (D)" group-title="国际",ABC News Sydney 
 http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/121004
 #EXTINF:-1 tvg-id="53695" tvg-name="UK-Discovery Science" group-title="国际",Discovery Science
@@ -35,7 +33,7 @@ http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/13702
 http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/21259
 #EXTINF:-1 tvg-id="9815" tvg-name="US CNBC " tvg-logo="https://piketrail.com/wp-content/uploads/2019/09/cnbclogo.png" group-title="国际",CNBC
 http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/9815
-#EXTINF:-1 tvg-id="46724" tvg-name="US HISTORY " group-title="国际",HISTORY
+#EXTINF:-1 tvg-id="46724" tvg-name="US HISTORY " group-title="国际",History
 http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/46724
 #EXTINF:-1 tvg-id="35248" tvg-name="UK Sky Cinema Scifi & Horror FHD" group-title="国际",Sky Cinema Scifi & Horror 
 http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/35248
@@ -53,6 +51,8 @@ http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/53650
 http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/53720
 #EXTINF:-1 tvg-id="57377" tvg-name="CA: Animal Planet" group-title="国际",Animal Planet
 http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/57377
+#EXTINF:-1 tvg-id="NBCSportsBayArea.us" tvg-name="NBC Sports Bay Area" tvg-logo="https://i.imgur.com/MTgUVKx.png" group-title="国际",NBC Sports
+https://v1.thetvapp.to/hls/nbc-sports-bay-area/index.m3u8
 #EXTINF:-1 tvg-id="35241" tvg-name="UK-Sky Sports News" group-title="国际",Sky Sports News
 http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/137719
 #EXTINF:-1 tvg-id="53706" tvg-name="UK Sky Sports Mix FHD (D)" group-title="国际",Sky Sports Mix  
@@ -77,8 +77,6 @@ http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/57273
 http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/46688
 #EXTINF:-1 tvg-id="21360" tvg-name="MLB Network" tvg-logo="https://a4.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fmisc_logos%2F500%2Fmlb.png" group-title="国际",MLB Network
 http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/21360
-#EXTINF:-1 tvg-id="146293" tvg-name="US UFC  (HD)" group-title="国际",UFC 
-http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/146293
 #EXTINF:-1 tvg-id="159091" tvg-name="USA: NFL NETWORK (1)" group-title="国际",NFL Network
 http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/159091
 #EXTINF:-1 tvg-id="17776" tvg-name="US More Max " tvg-logo="https://p.kindpng.com/picc/s/83-836958_more-max-hdtv-cinemax-hd-png-download.png" group-title="国际",More Max
@@ -119,3 +117,5 @@ http://fortv.cc:8080//clarencekingrh@hotmail.com/pKgSdl4ZFX/57438
 http://fortv.cc:8080//clarencekingrh@hotmail.com/pKgSdl4ZFX/57276
 #EXTINF:-1 tvg-id="57277" tvg-name="CA OWN " group-title="国际",OWN 
 http://fortv.cc:8080//clarencekingrh@hotmail.com/pKgSdl4ZFX/57277
+#EXTINF:-1 tvg-id="ComedyDynamics.us" tvg-name="Comedy Dynamics" tvg-logo="https://i.imgur.com/1lEvUOa.png" group-title="国际",Comedy Dynamics
+https://aegis-cloudfront-1.tubi.video/427cd05d-a47b-4b16-a2fe-5e739da93966/playlist.m3u8
