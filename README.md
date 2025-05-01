@@ -1,9 +1,7 @@
 # 📖 感谢关注
-本仓库定期收集 各位大佬分享的`m3u`，将其集合到一起，并通过[iptv-checker](https://www.npmjs.com/package/iptv-checker)（一个开源的 测试m3u的小工具）实行自动检测，定期删减无效的源
+本仓库收集 各位大佬分享的`m3u`，将其集合到一起，并通过[iptv-checker](https://www.npmjs.com/package/iptv-checker)（一个开源的 测试m3u的小工具）实行自动检测，定期删减无效源
 
-建立本仓库的初衷，自从老牌电视软件(电视家)下线以后，经常东平西凑，疲于寻找各种稳定的直播源。 
-
-为了有效的管理，及时能检测出失效的直播源，求人不如求己，自己动手建立个仓库用来管理。
+建立本仓库的初衷，自从老牌电视软件(电视家)下线以后，经常疲于寻找各种稳定的直播源。 为了有效的管理，求人不如求己，自己动手建立个仓库用来管理。
 
 如果本仓库对你有帮助，点击小星星，收藏+关注
 
@@ -13,6 +11,7 @@
 
 ![打赏](wechat_reward.png)
 
+[请我喝杯咖啡](https://ko-fi.com/hst1189)
 
 # 📖 m3u电视源
 
@@ -35,8 +34,6 @@
 - https://cdn.jsdelivr.net/gh/hst1189/iptv/99_少儿不宜NSFW.m3u
 
 （如果需要挂梯子，可在地址前加 https://ghp.ci/，或 https://ghgo.xyz/）
-
-如：https://ghp.ci/https://xxxxx/iptv.m3u 或  https://ghgo.xyz/https://xxxxx/iptv.m3u
 
 
 2025/4/12 追加
@@ -196,6 +193,13 @@
 
 ### imDazui/Tvlist-awesome-m3u-m3u8
 ☑️[gituhub地址](https://github.com/imDazui/Tvlist-awesome-m3u-m3u8)   ※超多中文电视台 - 貌似很久未更新了
+
+### luongz/iptv-jp
+☑️[gituhub地址](https://github.com/luongz/iptv-jp)   ※日本电视台
+
+### karenda-jp/AbemaTV
+☑️[gituhub地址](https://github.com/karenda-jp/AbemaTV)   ※日本电视台
+
 
 </details>
 
