@@ -190,6 +190,25 @@ jobs:
           cd Kimentanm.aptv
           cp -rfp ${GITHUB_WORKSPACE}/remote8/m3u/*.m3u  ./
           tree -a
+          
+    # remote 9
+      - name: 9-1 .Ceckout remote repo@luongz/iptv-jp 🚀
+        uses: actions/checkout@v4
+        with:
+          repository: luongz/iptv-jp
+          ref: main
+          path: remote9
+      - name: 9-2. Copy files 🚚
+        run: |
+          cd ${GITHUB_WORKSPACE}/local/work/
+          if [ ! -d luongz.iptv-jp ]; then
+            mkdir luongz.iptv-jp
+          fi
+          cd luongz.iptv-jp
+          cp -rfp ${GITHUB_WORKSPACE}/remote9/*.m3u  ./
+          tree -a
+          cp -rfp ./*.m3u ${GITHUB_WORKSPACE}/local/
+
 
 
      # remote new.py
