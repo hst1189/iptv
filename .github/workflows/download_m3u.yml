@@ -209,9 +209,27 @@ jobs:
           tree -a
           cp -rfp ./*.m3u ${GITHUB_WORKSPACE}/local/
 
+    # remote 10
+      - name: 10-1 .Ceckout remote repo@karenda-jp/AbemaTV 🚀
+        uses: actions/checkout@v4
+        with:
+          repository: karenda-jp/AbemaTV
+          ref: main
+          path: remote10
+      - name: 10-2. Copy files 🚚
+        run: |
+          cd ${GITHUB_WORKSPACE}/local/work/
+          if [ ! -d karenda-jp.AbemaTV ]; then
+            mkdir karenda-jp.AbemaTV
+          fi
+          cd karenda-jp.AbemaTV
+          cp -rfp ${GITHUB_WORKSPACE}/remote10/*.m3u  ./
+          tree -a
+          cp -rfp ./*.m3u ${GITHUB_WORKSPACE}/local/
 
 
-     # remote new.py
+
+     # remote new.py 📋
       - name: Ceckout remote repo@ssili126/tv 🚀
         uses: actions/checkout@v4
         with:
@@ -223,8 +241,8 @@ jobs:
           cd ${GITHUB_WORKSPACE}/local/py
           cp -rfp ${GITHUB_WORKSPACE}/remote_py/*.py  ./
           tree -a
-      
-      - name: Set up Python
+   
+      - name: Set up Python 📋
         uses: actions/setup-python@v2
         with:
           python-version: '3.12.3'
