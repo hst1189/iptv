@@ -4,7 +4,8 @@
 建立本仓库的初衷，自从老牌电视软件(电视家)下线以后，经常疲于寻找各种稳定的直播源。 为了有效的管理，求人不如求己，自己动手建立个仓库用来管理。
 
 如果本仓库对你有帮助，点击小星星，收藏+关注
-<a href='https://ko-fi.com/hst1189' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi6.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/hst1189)
 
 🐧  QQ群： 601075492
 
