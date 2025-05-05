@@ -23,6 +23,8 @@ https://vs-cmaf-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_c
 http://livevideo.vedge.infomaniak.com/livecast/ik:bblackafrica/manifest.m3u8
 #EXTINF:-1 tvg-id="BloombergTV.us@EMEALiveEvent" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="Business",Bloomberg TV EMEA Live Event (720p)
 https://bloomberg.com/media-manifest/streams/eu-event.m3u8
+#EXTINF:-1 tvg-id="Canal2International.cm" tvg-logo="https://i.imgur.com/BzA2z7m.png" group-title="General",Canal 2 International
+http://69.64.57.208/canal2international/playlist.m3u8
 #EXTINF:-1 tvg-id="CaviTV.gn" tvg-logo="https://i.imgur.com/kwXzUwd.png" group-title="General",Cavi TV (400p)
 https://helga.iptv2022.com/Cavi_TV/index.m3u8
 #EXTINF:-1 tvg-id="CISTV.gn" tvg-logo="https://i.imgur.com/7KdUOqY.png" group-title="Culture;Sports",CIS TV (360p)
@@ -35,6 +37,8 @@ http://fl3.moveonjoy.com/Curiosity_Stream/index.m3u8
 https://edge11.vedge.infomaniak.com/livecast/ik:espacetv/manifest.m3u8
 #EXTINF:-1 tvg-id="EvasionTV.gn" tvg-logo="https://i.imgur.com/TTWl2Iy.png" group-title="General",Evasion TV (720p)
 https://kali1.everestcast.com:3235/live/visionweblive.m3u8
+#EXTINF:-1 tvg-id="EWTN.us@AfricaAsia" tvg-logo="https://i.imgur.com/sua70RO.png" group-title="Religious",EWTN Africa Asia (720p)
+https://cdn3.wowza.com/1/ZVBYYXFLLzE0c3NC/Qk1FMURC/hls/live/playlist.m3u8
 #EXTINF:-1 tvg-id="FassoTVKankan.gn" tvg-logo="https://i.imgur.com/xrV3Qrr.png" group-title="General",Fasso TV Kankan (720p) [Not 24/7]
 https://cageu.bozztv.com/ssh101/ssh101/fassotv1/playlist.m3u8
 #EXTINF:-1 tvg-id="ForYouTV.cm" tvg-logo="https://i.imgur.com/1oMboXL.png" group-title="News",For You TV (480p)
