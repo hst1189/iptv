@@ -5,7 +5,7 @@
 
 如果本仓库对你有帮助，点击小星星，收藏+关注
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/hst1189)
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/hst1189/tip)
 
 🐧  QQ群： 601075492
 
