@@ -131,7 +131,7 @@
       // 下拉框事件监听
       document.getElementById('streamSelect').addEventListener('change', function() {
         const newUrl = this.value;
-        msgbox(newUrl);
+        alert(newUrl);
         // 切换播放源
         dp.switchVideo({
           url: newUrl,
