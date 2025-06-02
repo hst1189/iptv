@@ -13,6 +13,8 @@ https://castus-vod-dev.s3.amazonaws.com/vod_clients/athens/live/ch2/video.m3u8
 https://cm.hostlagarto.com:4445/phtv/Phtv.myStream/chunks.m3u8
 #EXTINF:-1 tvg-id="Althingi.is" tvg-logo="https://i.imgur.com/tKNPdea.png" group-title="Legislative",Althingi (1080p) [Not 24/7]
 https://althingi-live.secure.footprint.net/althingi/live/index.m3u8
+#EXTINF:-1 tvg-id="AppleValleyChannel180.us@SD" tvg-logo="https://i.imgur.com/3h9RkFA.png" group-title="Legislative",Apple Valley Channel 180
+https://reflect-applevalley.cablecast.tv/live-3/live/live.m3u8
 #EXTINF:-1 tvg-id="ARTV.pt" tvg-logo="https://i.imgur.com/y00t9hr.png" group-title="Legislative",ARTV Canal Parlamento (720p) [Not 24/7]
 https://playout172.livextend.cloud/liveiframe/_definst_/liveartvabr/playlist.m3u8
 #EXTINF:-1 tvg-id="AssembleeNationale.fr" tvg-logo="https://i.imgur.com/Eta6gUq.png" group-title="Legislative",Assemblée Nationale (1080p) [Not 24/7]
@@ -149,6 +151,8 @@ https://stream.swagit.com/live-edge/houstontx/smil:hd-16x9-2-a/playlist.m3u8
 https://stream.swagit.com/live-edge/houstontx/smil:hd-16x9-2-b/playlist.m3u8
 #EXTINF:-1 tvg-id="G10TV.us" tvg-logo="https://i.imgur.com/5VPgAxB.jpg" group-title="Legislative",Jacksonville Onslow Government Television (G10TV) (Jacksonville NC) (1080p)
 https://reflect-jacksonville.cablecast.tv/live/stream-1/live.m3u8
+#EXTINF:-1 tvg-id="JNETV.pe@SD" tvg-logo="https://i.imgur.com/b25XfCj.png" group-title="Legislative",JNE TV
+https://live20.bozztv.com/akamaissh101/ssh101/jnetv/playlist.m3u8
 #EXTINF:-1 tvg-id="JuntadeCastillayLeon.es" tvg-logo="https://i.imgur.com/hGR3tv9.png" group-title="Legislative",Junta de Castilla y León (1080p) [Not 24/7]
 https://16escalones-live2.flumotion.com/chunks.m3u8
 #EXTINF:-1 tvg-id="JusticiaTV.mx" tvg-logo="https://i.imgur.com/zyAS1hk.png" group-title="Legislative",Justicia TV (720p)
@@ -194,6 +198,8 @@ https://cdn3.wowza.com/5/UWpORHhLSEs5SkJs/martin/G0074_002/playlist.m3u8
 https://edge-f.swagit.com/live/miamibeachfl/smil:hd-16x9-1-a/playlist.m3u8
 #EXTINF:-1 tvg-id="MidpenMediaCenterChannel29.us" tvg-logo="https://i.imgur.com/RPJiolQ.png" group-title="Legislative",Midpen Media Center Government etc Channel 29 (720p)
 https://5c2974786200d.streamlock.net/live-chan29/ngrp:ch29_all/playlist.m3u8
+#EXTINF:-1 tvg-id="MOITV.kh@SD" tvg-logo="https://i.imgur.com/fbI2ybo.png" group-title="Legislative",MOI TV
+http://202.62.56.22:8080/hls/MOITV.m3u8
 #EXTINF:-1 tvg-id="MonroeCountyTV.us" tvg-logo="https://i.imgur.com/YJfzdSu.png" group-title="Legislative",Monroe County Television MCTV (Monroe County FL) (1080p)
 https://castus-vod-dev.s3.amazonaws.com/vod_clients/monroe/live/ch1/video.m3u8
 #EXTINF:-1 tvg-id="MPTV.us" tvg-logo="https://i.imgur.com/OOQqMQz.png" group-title="Legislative",Moorpark Government Channel (360p)
@@ -300,6 +306,8 @@ https://senato-live.morescreens.com/SENATO_1_001/playlist.m3u8
 https://cdn3.wowza.com/5/V2Y2VmhqMEFDTUkx/sanfrancisco/G0051_003/playlist.m3u8
 #EXTINF:-1 tvg-id="SGTV.us" tvg-logo="https://i.imgur.com/rVyWa2A.png" group-title="Legislative",SGTV (Seminole County FL) (1080p)
 https://live.seminolecountyfl.gov/live-2/live/live.m3u8
+#EXTINF:-1 tvg-id="SomalilandNationalTV.so@SD" tvg-logo="https://i.imgur.com/FIuQNWN.png" group-title="Legislative",Somaliland National TV
+https://live20.bozztv.com/dvrfl05/gin-somaliland/index.m3u8
 #EXTINF:-1 tvg-id="GTV.us" tvg-logo="https://i.imgur.com/xN6WM3N.png" group-title="Legislative",St. Johns County Government GTV (St. Johns County FL) (720p)
 https://edge-f.swagit.com/live/stjohnscountyfl/live-1-a/playlist.m3u8
 #EXTINF:-1 tvg-id="SPTV.us" tvg-logo="https://i.imgur.com/fl8I3cg.png" group-title="Legislative",St. Pete TV (SPTV) (St Petersburg FL) (360p)

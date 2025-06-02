@@ -74,6 +74,8 @@ http://media.smc-host.com:1935/alhorreya.tv/mp4:alhorreya3/playlist.m3u8
 https://kali.vdopanel.com:3797/live/bashaclicklive.m3u8
 #EXTINF:-1 tvg-id="AlMaarefTV.qa" tvg-logo="https://i.imgur.com/QFnztgo.png" group-title="Religious",Al Maaref (350p)
 https://672a3a5c8e335.streamlock.net/AlMaaref/smil:almaareflive.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="AlMouridiyyahTV.sn@SD" tvg-logo="https://i.imgur.com/aqS5qhq.png" group-title="Religious",Al Mouridiyyah TV
+https://live20.bozztv.com/dvrfl06/astv/astv-AlMouridiyyahTV/index.m3u8
 #EXTINF:-1 tvg-id="AlQuranAlKareemTV.sa" tvg-logo="https://i.imgur.com/A2fJysM.png" group-title="Religious",Al Quran Al Kareem TV (1080p)
 https://al-ekhbaria-prod-dub.shahid.net/out/v1/9885cab0a3ec4008b53bae57a27ca76b/index.m3u8
 #EXTINF:-1 tvg-id="AlRafidainTV.tr" tvg-logo="https://i.imgur.com/rjXDCN5.png" group-title="Religious",Al Rafidain (720p) [Not 24/7]
@@ -185,6 +187,8 @@ https://stream.commec.tv/6447b2559d8b0711e2fa75cc/live_222c2dc0b69f11ee8c3c99218
 https://www.yupi.live:1936/livearbol/livearbol/playlist.m3u8
 #EXTINF:-1 tvg-id="ArkTV.ug" tvg-logo="https://i.imgur.com/yCHNZXD.png" group-title="Religious",Ark TV (1080p) [Not 24/7]
 https://stream.hydeinnovations.com/arktv-international/index.fmp4.m3u8
+#EXTINF:-1 tvg-id="AsfiyahiTV.sn@SD" tvg-logo="https://i.imgur.com/tDuvfsh.png" group-title="Religious",Asfiyahi TV
+https://live20.bozztv.com/dvrfl06/astv/astv-asfiyahilive/index.m3u8
 #EXTINF:-1 tvg-id="AshrafiChannel.in" tvg-logo="https://i.imgur.com/IXpFcJA.png" group-title="Religious",Ashrafi Channel (484p) [Not 24/7]
 https://ashrafichannel.livebox.co.in/ashrafivhannelhls/live.m3u8
 #EXTINF:-1 tvg-id="Assadissa.ma" tvg-logo="https://i.imgur.com/un6qTGO.png" group-title="Religious",Assadissa (480p)
@@ -216,9 +220,11 @@ https://live.beitolabbas.tv/live/beitolabbastv.m3u8
 #EXTINF:-1 tvg-id="BenieTV.ci" tvg-logo="https://i.imgur.com/7FXi05e.jpeg" group-title="Religious",Benie TV (720p)
 https://voozmedia.fun/benietv/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="BETGospel.us" tvg-logo="https://i.imgur.com/jbOkq8C.png" group-title="Religious",BET Gospel
-http://fl3.moveonjoy.com/BET_GOSPEL/index.m3u8
+https://fl3.moveonjoy.com/BET_GOSPEL/index.m3u8
 #EXTINF:-1 tvg-id="BetterLifeTV.us" tvg-logo="https://yt3.googleusercontent.com/YQLtMymrkfaL2UwsK7pOcvPsePMRSdWehXK1Hds9h0F_IzNnN56tw6vzFhRar3d9HRFCAuG7=s512" group-title="Religious",Better Life TV (720p)
 https://tgn.bozztv.com/betterlife/betterlife/betterlife/index.m3u8
+#EXTINF:-1 tvg-id="BichriTV.sn@SD" tvg-logo="https://i.imgur.com/mNiWJi8.jpg" group-title="Religious",Bichri TV
+https://live20.bozztv.com/dvrfl06/astv/astv-bichritv/index.m3u8
 #EXTINF:-1 tvg-id="AaseervathamTV.in" tvg-logo="https://i.imgur.com/GlfrYs7.png" group-title="Religious",Blessing TV Tamil (720p)
 https://stream.blessingtv.tv:1443/blessingtv-tamillive/mystream_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="K21JQD1.us" tvg-logo="https://i.imgur.com/k9Ze0cr.png" group-title="Religious",Blue Mountain TV (720p)
@@ -239,6 +245,8 @@ https://genexservicios.com:19360/canal13jujuy/canal13jujuy.m3u8
 https://stmvideo2.livecastv.com/canal21nic3/canal21nic3/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal27.gt" tvg-logo="https://i.imgur.com/eA4vt8A.png" group-title="Religious",Canal 27 (1080p)
 https://live.canal27.tv:3633/live/canal27live.m3u8
+#EXTINF:-1 tvg-id="Canal29TVA.bo@SD" tvg-logo="https://i.imgur.com/y3bymuv.jpg" group-title="Religious",Canal 29 TVA
+https://play.agenciastreaming.com:19360/8160/8160.m3u8
 #EXTINF:-1 tvg-id="Canal30TVBethel.gt" tvg-logo="https://i.imgur.com/PP4U1JL.png" group-title="Religious",Canal 30 TV Bethel (720p) [Not 24/7]
 https://s.emisoras.tv:8081/canal30tvbethel/index.m3u8
 #EXTINF:-1 tvg-id="Canal65.sv" tvg-logo="https://i.imgur.com/P15QovY.png" group-title="Religious",Canal 65 (1080p) [Not 24/7]
@@ -300,6 +308,8 @@ https://d3e05csss9c272.cloudfront.net/out/v1/f0bf71c57581470fb9379f603e8f5d83/CG
 https://d2p4mrcwl6ly4.cloudfront.net/out/v1/8d50f69fdbbf411a8d302743e4263716/CGNWebLiveJP.m3u8
 #EXTINF:-1 tvg-id="CGNTVSouthKorea.kr" tvg-logo="https://i.imgur.com/zwZASOB.png" group-title="Religious",CGNTV South Korea (1080p)
 https://du35ivadp6cxj.cloudfront.net/out/v1/81781d23cbbf490990b2aa9181d4ce19/CGNWebLiveKR.m3u8
+#EXTINF:-1 tvg-id="Ch4Teen.kw@SD" tvg-logo="https://i.imgur.com/pHpFGeg.png" group-title="Religious",Ch4Teen
+https://ch14.tv/live/ch4teenclip/playlist.m3u8
 #EXTINF:-1 tvg-id="ChabibaTV.sn" tvg-logo="https://i.imgur.com/qVTOklV.png" group-title="Religious",Chabiba TV (360p) [Not 24/7]
 https://endour.net/hls/RUgLAPCbPdF5oPSTX2Hvl/index.m3u8
 #EXTINF:-1 tvg-id="ChannelDivya.in" tvg-logo="https://i.imgur.com/RZVmCxf.png" group-title="Religious",Channel Divya (720p)
@@ -422,12 +432,16 @@ https://cdn.streamhispanatv.net:3648/live/elroitvlive.m3u8
 http://media3.smc-host.com:1935/elbesharagtv.com/gtv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ElevateTV.ke" tvg-logo="https://i.imgur.com/M7xaQ7o.jpg" group-title="Religious",Elevate TV (720p) [Not 24/7]
 https://goliveafrica.media:9998/live/64a98a7eac12a/index.m3u8
+#EXTINF:-1 tvg-id="ElijahTV.gh@SD" tvg-logo="https://i.imgur.com/kprss2J.png" group-title="Religious",Elijah TV
+https://live20.bozztv.com/dvrfl06/astv/astv-elijah/index.m3u8
 #EXTINF:-1 tvg-id="ElimTV.sv" tvg-logo="https://i.imgur.com/payIg0N.png" group-title="Religious",Elim TV (480p)
 https://dacastmmd.mmdlive.lldns.net/dacastmmd/7e84ed301b194b7b81e86f85bb2c3a33/playlist.m3u8
 #EXTINF:-1 tvg-id="ElshaddaiTelevisionNetwork.uk" tvg-logo="https://i.imgur.com/iw5XaLi.png" group-title="Religious",Elshaddai Television Network (720p)
 https://5d00db0e0fcd5.streamlock.net/7586/7586/playlist.m3u8
 #EXTINF:-1 tvg-id="EmanChannel.uk" tvg-logo="https://i.imgur.com/ugn0DWe.png" group-title="Religious",Eman Channel (576p)
 https://ap02.iqplay.tv:8082/iqb8002/3m9n/playlist.m3u8
+#EXTINF:-1 tvg-id="EmmanuelTV.ng@SD" tvg-logo="https://i.imgur.com/c7XjM8Y.png" group-title="Religious",Emmanuel TV
+https://live20.bozztv.com/dvrfl06/astv/astv-emmanuel/index.m3u8
 #EXTINF:-1 tvg-id="ENTV.hn" tvg-logo="https://i.imgur.com/GQ3ka8z.jpg" group-title="Religious",EN TV (720p)
 https://cp.cast-live.net:1936/exodotv/exodotv/playlist.m3u8
 #EXTINF:-1 tvg-id="Enlace.cr" tvg-logo="https://i.imgur.com/YwUVTmS.png" group-title="Religious",Enlace (720p)
@@ -470,6 +484,8 @@ https://cdn3.wowza.com/1/ZHdrMWt1NjlDSzFu/bzdDVG10/hls/live/playlist.m3u8
 https://cdn3.wowza.com/1/WjduMm1tYnlwNXQx/M01NV3Uz/hls/live/playlist.m3u8
 #EXTINF:-1 tvg-id="ExodusTV.si" tvg-logo="https://i.imgur.com/WKr5ncQ.png" group-title="Religious",Exodus TV (720p)
 https://584943999.r.worldssl.net/584943999/_definst_/vzivo/playlist.m3u8
+#EXTINF:-1 tvg-id="ExploitsTV.ci@SD" tvg-logo="https://i.imgur.com/3wC7tSG.jpeg" group-title="Religious",Exploits TV
+https://stream.berosat.live:19360/exploits-tv/exploits-tv.m3u8
 #EXTINF:-1 tvg-id="ExpresionTV.gt" tvg-logo="https://i.imgur.com/lFek4Pj.png" group-title="Religious",Expresión TV (1080p)
 https://ssh101.bozztv.com/ssh101/expresiongrany/playlist.m3u8
 #EXTINF:-1 tvg-id="ExtremaTV.cr" tvg-logo="https://i.imgur.com/E9AuhOU.png" group-title="Religious",Extrema TV (720p)
@@ -490,6 +506,8 @@ https://stream.oursnetworktv.com/latin/feVivienteGtm/playlist.m3u8
 https://fgtvlive.fgtv.com/smil:fgtv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="FicoaTV.ec" tvg-logo="https://i.imgur.com/ohiygbS.jpg" group-title="Religious",Ficoa TV (720p) [Not 24/7]
 https://ssh101-fl.bozztv.com/ssh101/FicoaTVM/playlist.m3u8
+#EXTINF:-1 tvg-id="FireTV.gh@SD" tvg-logo="https://i.imgur.com/om2y5Bp.png" group-title="Religious",Fire TV
+https://live20.bozztv.com/dvrfl06/astv/astv-rock/index.m3u8
 #EXTINF:-1 tvg-id="Firstlight.nz" tvg-logo="https://i.imgur.com/gtDROeT.png" group-title="Religious",Firstlight (576p)
 https://uni01rtmp.tulix.tv/firstlight/firstlight.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="FlameTV.ng" tvg-logo="https://i.imgur.com/ORKcnzr.png" group-title="Religious",Flame TV (576p)
@@ -652,6 +670,8 @@ https://live.imamhossaintv.com/live/ih3.m3u8
 https://live.imamhossaintv.com/live/ih4.m3u8
 #EXTINF:-1 tvg-id="ImmaculataTV.ch" tvg-logo="https://i.imgur.com/8WsYVpt.png" group-title="Religious",Immaculata TV (720p)
 https://g5nl63z8lpq6-hls-live.5centscdn.com/tvistream/a5586d8ea3b7b021120a05c60dc59876.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="ImpactTVNetwork.us@SD" tvg-logo="https://i.imgur.com/Pp0kYYi.png" group-title="Religious",Impact TV Network
+https://live20.bozztv.com/trn03/gin-impacttv/index.m3u8
 #EXTINF:-1 tvg-id="IMPDTV.br" tvg-logo="https://i.imgur.com/23m7LHH.png" group-title="Religious",IMPD TV (720p)
 https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/playlist.m3u8
 #EXTINF:-1 tvg-id="INCTV.ph" tvg-logo="https://i.imgur.com/JGSLqA6.png" group-title="Religious",INC TV (720p) (720p) [Geo-blocked]
@@ -662,11 +682,13 @@ https://rpn3.bozztv.com/ssh101/ssh101/inmaculadatv/playlist.m3u8
 https://cp.panelchs.com:1936/8108/8108/playlist.m3u8
 #EXTINF:-1 tvg-id="IPlusTV.in" tvg-logo="https://i.imgur.com/rnfEh0c.png" group-title="Religious",iPlus TV (1080p) [Not 24/7]
 https://live.we2live.in/iplustv/iplustv/playlist.m3u8
+#EXTINF:-1 tvg-id="IqraTV.uk@SD" tvg-logo="https://iqra.tv/wp-content/uploads/2019/12/IQ-logo-light-120px.png" group-title="Religious",Iqra TV
+https://cdn149.anystream.uk:8082/app/iq53la/playlist.m3u8
 #EXTINF:-1 tvg-id="IqraaArabic.sa" tvg-logo="https://i.imgur.com/HPVsIa4.png" group-title="Religious",Iqraa Arabic (1080p) [Not 24/7]
 https://playlist.fasttvcdn.com/pl/dlkqw1ftuvuuzkcb4pxdcg/Iqraafasttv3/playlist.m3u8
 #EXTINF:-1 tvg-id="IqraaQuran.sa" tvg-logo="https://i.imgur.com/HPVsIa4.png" group-title="Religious",Iqraa Quran (1080p)
 https://playlist.fasttvcdn.com/pl/dlkqw1ftuvuuzkcb4pxdcg/Iqraafasttv2/playlist.m3u8
-#EXTINF:-1 tvg-id="IranJewishTV.ir" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjwdSjfPN5mmdN_f8zB2HesppxL_MwwsPGmA&usqp=CAU" group-title="Religious",Iran Jewish TV (720p)
+#EXTINF:-1 tvg-id="IranJewishTV.ir" tvg-logo="https://i.ibb.co/JWXs7csN/en.png" group-title="Religious",Iran Jewish TV (720p)
 http://iran620.com:1935/live/IranJewishTv/playlist.m3u8
 #EXTINF:-1 tvg-id="IRRTV.fi" tvg-logo="https://upload.wikimedia.org/wikipedia/fi/9/93/IRR-TV-1.png" group-title="Religious",IRR-TV (576p) [Not 24/7]
 https://irrtv.digitacdn.net/live/_definst_/irrtv/amlst:irrtv.amlst/playlist.m3u8
@@ -752,6 +774,8 @@ https://w1.manasat.com/ktv/smil:ktv.smil/playlist.m3u8
 https://627bb251f23c7.streamlock.net:444/LaVozdeMaria/live/playlist.m3u8
 #EXTINF:-1 tvg-id="LalegulTV.tr" tvg-logo="https://i.imgur.com/wwCysFs.png" group-title="Religious",Lalegül TV (720p) [Not 24/7]
 http://lalegultv.netmedya.net/hls/lalegultv.m3u8
+#EXTINF:-1 tvg-id="LampFallTV.sn@SD" tvg-logo="https://i.imgur.com/qWKKwYv.png" group-title="Religious",Lamp Fall TV
+https://live20.bozztv.com/dvrfl06/astv/astv-lampfall/index.m3u8
 #EXTINF:-1 tvg-id="LBFDRTV.cd" tvg-logo="https://i.imgur.com/buMvLJc.jpeg" group-title="Religious",LBFD RTV (1080p)
 https://tnt-television.com/LBFD_RTV/index.m3u8
 #EXTINF:-1 tvg-id="LiberationTV.ng" tvg-logo="https://i.imgur.com/MjbLGOu.png" group-title="Religious",Liberation TV (576p)
@@ -850,6 +874,8 @@ https://w2.manasat.com/iglesia-online/smil:iglesia-online.smil/playlist.m3u8
 https://w1.manasat.com/igrejaonline/smil:igrejaonline.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ManaTserkovOnlayn.pt" tvg-logo="https://i.imgur.com/PruXLqS.png" group-title="Religious",Maná Tserkov' Onlayn (1080p) [Not 24/7]
 https://w2.manasat.com/tserkov-online/smil:tserkov-online.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="MaranathaTV.gh@SD" tvg-logo="https://i.imgur.com/MargDV9.png" group-title="Religious",Maranatha TV
+https://media.streambrothers.com:1936/8298/8298/playlist.m3u8
 #EXTINF:-1 tvg-id="MariaVisionItalia.it" tvg-logo="https://www.lyngsat.com/logo/tv/mm/maria-plus-vision-italia-mx-it.png" group-title="Religious",Maria Vision (1080p)
 https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:CHANNEL_2/playlist.m3u8
 #EXTINF:-1 tvg-id="MariaVision.mx" tvg-logo="https://i.imgur.com/GylOPxE.png" group-title="Religious",María Visión Mexico (360p) [Not 24/7]
@@ -898,6 +924,8 @@ https://6096a9cf11ae5.streamlock.net:1943/live/missiontv/playlist.m3u8
 https://live.relentlessinnovations.net:1936/rspe-tv/rspe-tv/playlist.m3u8
 #EXTINF:-1 tvg-id="MOGPATV.gh" tvg-logo="https://i.imgur.com/34PmVAq.png" group-title="Religious",MOGPA TV (720p)
 https://livestream.anojed.com/ablazetv/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="MOGPATVPlus.gh@SD" tvg-logo="https://i.imgur.com/0YLSM3R.png" group-title="Religious",MOGPA TV Plus
+https://bk7l2r2nyx53-hls-live.5centscdn.com/mogpatvplus/2567a5ec9705eb7ac2c984033e06189d.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="MohabatTV.ir" tvg-logo="https://i.imgur.com/Ig0SPev.png" group-title="Religious",Mohabat TV (540p)
 http://204.11.235.251:1935/live_transcoder/ngrp:mohabat.stream_all/playlist.m3u8
 #EXTINF:-1 tvg-id="MohabatTV.us" tvg-logo="https://i.imgur.com/tucTC1O.jpg" group-title="Religious",Mohabat TV (540p)
@@ -986,6 +1014,8 @@ https://vip.livecastnet.com:3206/live/nuevavidalive.m3u8
 https://stream.live.novotempo.com/tv/smil:tvnuevotiempo.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ObediraTV.py" tvg-logo="https://i.imgur.com/fRzOUw5.png" group-title="Religious",Obedira TV (720p)
 https://59ce1298bfb98.streamlock.net/obediratv/obediratv/playlist.m3u8
+#EXTINF:-1 tvg-id="OCNTV.us@SD" tvg-logo="https://i.imgur.com/iSB5Obl.png" group-title="Religious",OCN TV
+https://5d12bc59c4748.streamlock.net/redirect/ocnbroadcasting.com/ocnbroadcasting2?type=m3u8
 #EXTINF:-1 tvg-id="Omega.is" tvg-logo="https://i.imgur.com/doybFbZ.png" group-title="Religious",Omega (1080p)
 https://196914.global.ssl.fastly.net/63fe5f3a8f037f47ac36fb2a/live_1d411f00b7a411eda9b5d3bb4704377e/index.m3u8
 #EXTINF:-1 tvg-id="OmidJavedan.us" tvg-logo="https://i.imgur.com/K7502YG.png" group-title="Religious",Omid Javedan (720p) [Not 24/7]
@@ -1118,6 +1148,8 @@ https://svs.itworkscdn.net/sat7kidslive/sat7kids.smil/playlist_dvr.m3u8
 https://svs.itworkscdn.net/sat7parslive/sat7pars.smil/playlist_dvr.m3u8
 #EXTINF:-1 tvg-id="SayareTV.ke" tvg-logo="https://i.imgur.com/M2Fnxj7.png" group-title="Religious",Sayare TV (720p) [Not 24/7]
 https://goliveafrica.media:9998/live/636dedfa327d7/index.m3u8
+#EXTINF:-1 tvg-id="SBNTV.us@SD" tvg-logo="https://i.imgur.com/tspT2dF.png" group-title="Religious",SBN TV
+https://live20.bozztv.com/trn03/gin-sbntv/index.m3u8
 #EXTINF:-1 tvg-id="SeraphimTV.za" tvg-logo="https://i.imgur.com/MfeKk07.png" group-title="Religious",Seraphim TV [Not 24/7]
 https://restream.churchtv247.co.za/Apostle/Hggc@24/1.m3u8
 #EXTINF:-1 tvg-id="ShalomTV.sr" tvg-logo="https://i.imgur.com/lJ4MLHn.png" group-title="Religious",Shalom TV (360p)
@@ -1184,6 +1216,8 @@ http://dc.tbnbaltia.eu:8088/dvr/rewind-21600.m3u8
 https://d7ge95bb03xsu.cloudfront.net/out/v1/0c95a89614194912834019fc37d741ef/tbn-freecast.m3u8
 #EXTINF:-1 tvg-id="TBNEspana.es" tvg-logo="https://i.imgur.com/oGvsUH9.png" group-title="Religious",TBN España (576p)
 https://edge.xn--tbnespaa-j3a.es/LiveApp/streams/tbnlive.m3u8
+#EXTINF:-1 tvg-id="TBNInspire.us@SD" tvg-logo="https://i.imgur.com/GSM0Pkr.png" group-title="Religious",TBN Inspire
+https://live20.bozztv.com/dvrfl05/gin-tbninspire/index.m3u8
 #EXTINF:-1 tvg-id="KTBNDT3.us" tvg-logo="https://i.imgur.com/WYM3tj8.png" group-title="Religious",TBN Smile (480p)
 https://tbn-jw.cdn.vustreams.com/live/smile/live.isml/.m3u8
 #EXTINF:-1 tvg-id="TDVTV.hn" tvg-logo="https://i.ibb.co/C2mr74y/Ee0f72e3708fb045177dd894cc93ae99.png" group-title="Religious",TDV TV (240p)
@@ -1229,6 +1263,8 @@ https://mediaprod1.nowcast.cc:5443/LiveApp/streams/anZPy7eaVWLyDMZB1697488814699
 https://clouditize.piksel.tech/hls/live/2043070/ClouditizeStream1/playlist.m3u8
 #EXTINF:-1 tvg-id="TNE.cl" tvg-logo="https://i.imgur.com/8QbvXva.png" group-title="Religious",TNE (720p) [Not 24/7]
 https://v2.tustreaming.cl/tnetv/index.m3u8
+#EXTINF:-1 tvg-id="ToubaTV.sn@SD" tvg-logo="https://i.imgur.com/tEgpvbf.png" group-title="Religious",Touba TV
+https://live20.bozztv.com/dvrfl06/astv/astv-toubatv/index.m3u8
 #EXTINF:-1 tvg-id="towheedtv.ir@HD" tvg-logo="https://i.imgur.com/63MqyOt.png" group-title="Religious",towheedtv (720p)
 https://avr.host247.net/live/towheedtv/playlist.m3u8
 #EXTINF:-1 tvg-id="TraceGospel.fr@SD" tvg-logo="https://i.imgur.com/X0UmU3K.png" group-title="Music;Religious",Trace Gospel
@@ -1300,6 +1336,10 @@ https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/playlist.m3u8
 https://ssh101.bozztv.com/ssh101/tvcaelsalvador/playlist.m3u8
 #EXTINF:-1 tvg-id="TVCARiBGospel.sx" tvg-logo="https://i.imgur.com/fvGlwKo.png" group-title="Religious",TVCARiB Gospel (480p) [Not 24/7]
 https://cdn.mycloudstream.io/hls/live/broadcast/wokrhjkd/index.m3u8
+#EXTINF:-1 tvg-id="UnifeTV.ar" tvg-logo="https://i.imgur.com/TLM592m.png" group-title="Religious",Unife TV
+https://cdn.mycloudstream.io/hls/live/broadcast/xundwjvp/index.m3u8
+#EXTINF:-1 tvg-id="UnifeTV.pe" tvg-logo="https://i.imgur.com/lVpDLVU.png" group-title="Religious",Unife TV
+https://cdn.mycloudstream.io/hls/live/broadcast/ic1frrzz/index.m3u8
 #EXTINF:-1 tvg-id="UrbancristTV2.do" tvg-logo="https://i.ibb.co/xFsskNf/descarga.jpg" group-title="Music;Religious",Urbancrist 2 TV (720p)
 https://fl1002.bozztv.com/ssh101/urbancrist2/index.m3u8
 #EXTINF:-1 tvg-id="UrbancristTV.do" tvg-logo="https://i.imgur.com/oHzFwsb.png" group-title="Religious",Urbancrist TV (720p)
