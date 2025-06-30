@@ -797,7 +797,7 @@ async def main():
         x_urls.append(x_url)
     unique_urls = set(x_urls)
 
-    semaphore = asyncio.Semaphore(300)
+    semaphore = asyncio.Semaphore(500)
     async with aiohttp.ClientSession() as session:
         valid_urls = await check_urls(session, unique_urls, semaphore)
         all_results = []
@@ -891,6 +891,11 @@ async def main():
     #results.sort(key=lambda x: channel_key(x[0]))
     results.sort(key=lambda x: (x[0], -float(x[2].split()[0])))
     results.sort(key=lambda x: channel_key(x[0]))
+
+    # 保存结果到文件
+    with open("speed_results.txt", 'w', encoding='utf-8') as file:
+        for result in results:
+            file.write(f"{result[0]},{result[1]},{result[2]}\n")
 
     result_counter = 8  # 每个频道需要的个数
 

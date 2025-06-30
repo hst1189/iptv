@@ -19,6 +19,8 @@ https://www.hellasnet.tv/rest2.live.hn/w2r.alf/playlist.m3u8
 http://alphatvlive.siliconweb.com/1/Y2Rsd1lUcUVoajcv/UVdCN25h/hls/live/playlist.m3u8
 #EXTINF:-1 tvg-id="ANT1.gr" tvg-logo="https://i.imgur.com/ItxKvVS.png" group-title="Entertainment",ANT1 (1080p) [Geo-blocked]
 http://d1nfykbwa3n98t.cloudfront.net/out/v1/6e5667da5a6843899a337dea72adb61b/antenna.m3u8
+#EXTINF:-1 tvg-id="ANT1.gr@HD" tvg-logo="https://i.imgur.com/ItxKvVS.png" group-title="Entertainment",ANT1 HD (1080p)
+http://31.121.110.30:4000/play/a028/index.m3u8
 #EXTINF:-1 tvg-id="ART.gr" tvg-logo="https://i.imgur.com/mNeLu04.png" group-title="Culture",APT (1080p)
 https://hugh.cdn.rumble.cloud/live/k5e12sb4/slot-82/fdd0-tbln/chunklist_DVR.m3u8
 #EXTINF:-1 tvg-id="ARTTV.gr" tvg-logo="https://i.imgur.com/8uS0sib.png" group-title="General",ART TV
@@ -96,8 +98,12 @@ https://channel.streams.ovh:1936/epsilontv/epsilontv/playlist.m3u8
 http://88.99.254.101/ert1/mono.m3u8
 #EXTINF:-1 tvg-id="ERT2.gr" tvg-logo="https://i.imgur.com/nMHKG3A.png" group-title="General",ERT2
 http://88.99.254.101/ert2/mono.m3u8
+#EXTINF:-1 tvg-id="ERT2.gr@HD" tvg-logo="https://i.imgur.com/nMHKG3A.png" group-title="General",ERT2 HD (1080p)
+http://31.121.110.30:4000/play/a02a/index.m3u8
 #EXTINF:-1 tvg-id="ERT3.gr" tvg-logo="https://i.imgur.com/f2l9bDR.png" group-title="Entertainment",ERT3
 http://88.99.254.101/ert3/mono.m3u8
+#EXTINF:-1 tvg-id="ERT3.gr@HD" tvg-logo="https://i.imgur.com/f2l9bDR.png" group-title="Entertainment",ERT3 HD (1080p)
+http://31.121.110.30:4000/play/a029/index.m3u8
 #EXTINF:-1 tvg-id="ERTNews.gr" tvg-logo="https://i.imgur.com/AqJKDy1.png" group-title="News",ERT News (1080p)
 http://ertflix.s.llnwi.net/ertlive/ertnews/default/index.m3u8
 #EXTINF:-1 tvg-id="ERTSports1.gr" tvg-logo="https://i.imgur.com/EsczO2H.png" group-title="Sports",ERT Sports 1 (1080p)
@@ -237,6 +243,8 @@ http://ovh-edge-h.evrideo.com:8080/23e234f2-aec8-4804-b694-4cdd71d2d48d_MONITORI
 http://178.219.128.68:64888/RTL
 #EXTINF:-1 tvg-id="RTLZwei.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/RTLZWEI_Logo_2019.svg/512px-RTLZWEI_Logo_2019.svg.png" group-title="Undefined",RTL Zwei (1080p)
 http://178.219.128.68:64888/RTL2
+#EXTINF:-1 tvg-id="RTLZwei.de@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/RTLZWEI_Logo_2019.svg/512px-RTLZWEI_Logo_2019.svg.png" group-title="Undefined",RTL Zwei HD
+http://lafamilia2024.direct.quickconnect.to:9981/stream/channelid/518354068?profile=pass
 #EXTINF:-1 tvg-id="SamiakiTV.gr" tvg-logo="https://i.imgur.com/9Pf1we6.png" group-title="Undefined",Samiaki TV (540p) [Not 24/7]
 http://live.cast-control.eu:1935/samiaki/samiaki/playlist.m3u8
 #EXTINF:-1 tvg-id="ShadesofBlack.pl@SD" tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/e989f6d8-1ea1-44fe-97a5-9715c22c98b9-width200-quality90.jpeg" group-title="Undefined",Shades of Black
@@ -287,8 +295,6 @@ http://live.streams.ovh:1935/tvfilopoli/tvfilopoli/playlist.m3u8
 https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/tvkosmosgr.m3u8
 #EXTINF:-1 tvg-id="TVRodopi.gr" tvg-logo="https://i.imgur.com/1u9a6G7.png" group-title="Undefined",TV Rodopi (720p) [Not 24/7]
 https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/TVRodopi.m3u8
-#EXTINF:-1 tvg-id="TVEInternacionalEuropeAsia.es" tvg-logo="https://i.imgur.com/ow1HArj.png" group-title="Undefined",TVE Internacional Europe-Asia [Geo-blocked]
-https://rtvelivestream.akamaized.net/rtvesec/int/tvei_eu_main.m3u8
 #EXTINF:-1 tvg-id="VerginaTV.gr" tvg-logo="https://i.imgur.com/abQmFoH.png" group-title="Entertainment;News",Vergina TV (1080p)
 https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/verginachannel.m3u8
 #EXTINF:-1 tvg-id="ViasatExploreClassic.pl" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/1f51bd5f-5c9a-486d-8720-800de7f73129-width200-quality90.jpeg" group-title="Undefined",Viasat Explore Classic (720p)

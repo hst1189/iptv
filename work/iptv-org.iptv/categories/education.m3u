@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="7STORIA.it" tvg-logo="https://i.imgur.com/rF3tpbR.jpeg" group-title="Documentary;Education",7 STORIA (720p)
+https://stream10.xdevel.com/video2s976543-2104/stream/playlist.m3u8
 #EXTINF:-1 tvg-id="A2iNaija.sn" tvg-logo="https://i.imgur.com/yq7ghPE.jpg" group-title="Education",A2i Naija (720p) [Not 24/7]
 https://stream.sen-gt.com/A2iNaija/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="ABCME.au@Sydney" tvg-logo="https://i.imgur.com/6NyFLAm.png" group-title="Education;Kids",ABC Me (720p)
@@ -21,6 +23,8 @@ https://ketsdt.lls.pbs.org/out/v1/03c094dbd7874a4a8c3fe9fb10081bdb/index.m3u8
 https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/playlist_dvr.m3u8
 #EXTINF:-1 tvg-id="AyenehTV.ir@SD" tvg-logo="https://i.imgur.com/aHdixeT.png" group-title="Culture;Education",Ayeneh TV
 https://live20.bozztv.com/dvrfl05/gin-ayeneh/index.m3u8
+#EXTINF:-1 tvg-id="AyenehTV.us@SD" tvg-logo="https://i.imgur.com/F0AevIQ.png" group-title="Culture;Education",Ayeneh TV
+https://2nbyjjx7y53k-hls-live.5centscdn.com/cls040318/b0d2763968fd0bdd2dc0d44ba2abf9ce.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="CVCEducation.us" tvg-logo="https://i.imgur.com/tUgEAUJ.png" group-title="Education",Bolton Community Voice Channel (CVC) Education (Bolton CT) (480p)
 https://s3-us-west-2.amazonaws.com/bolton.castus-vod/live/ch2/video.m3u8
 #EXTINF:-1 tvg-id="BRTVScienceEducationChannel.cn" tvg-logo="https://i.imgur.com/q0qvOUe.png" group-title="Education;Science",BRTV Science & Education Channel
@@ -66,8 +70,6 @@ http://178.217.72.66:8080/Da_Vinchi/index.m3u8
 https://hls.dabangasudan.org/hls/stream.m3u8
 #EXTINF:-1 tvg-id="DKN.us" tvg-logo="https://i.imgur.com/DIau0GB.png" group-title="Education",DC.gov DKN (Washington DC) (1080p)
 https://video.oct.dc.gov/out/u/DKN.m3u8
-#EXTINF:-1 tvg-id="DepEdTV.ph" tvg-logo="https://i.imgur.com/3BiY6mI.png" group-title="Education",DepEd TV (480p) [Geo-blocked]
-https://d3cbe0gidjd4k2.cloudfront.net/channel_7/channel7/playlist.m3u8
 #EXTINF:-1 tvg-id="DerryTV23.us" tvg-logo="https://i.imgur.com/MRR6UL3.png" group-title="Education;General",DerryTV 23
 https://livestream.telvue.com/derrynh2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="DLTV1.th" tvg-logo="https://i.imgur.com/nLzdGeX.png" group-title="Education",DLTV 1 (1080p)
@@ -112,8 +114,6 @@ https://ebsonair.ebs.co.kr/plus1familypc/familypc1m/playlist.m3u8
 https://ebsonair.ebs.co.kr/plus2familypc/familypc1m/playlist.m3u8
 #EXTINF:-1 tvg-id="EcologyEnvironmentTV.cn" tvg-logo="https://i.imgur.com/se7H6Yv.png" group-title="Education;Science",Ecology & Environment TV
 http://49.113.179.174:4022/udp/238.125.2.175:5140
-#EXTINF:-1 tvg-id="Educanal.py" tvg-logo="https://i.imgur.com/857OkFf.png" group-title="Education",Educanal (720p) [Not 24/7]
-https://59ce1298bfb98.streamlock.net/educanal/educanal/playlist.m3u8
 #EXTINF:-1 tvg-id="EducaTV.ec" tvg-logo="https://i.imgur.com/lY9Bx2u.png" group-title="Education",EducaTV (720p) [Not 24/7]
 https://vid2.ecuamedia.net/educatv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="Eduvision.co" tvg-logo="https://i.imgur.com/ppBdqel.png" group-title="Education",Eduvision (1080p)
@@ -138,6 +138,8 @@ https://relay2.cdn.fem-net.de/hls/loop/istuff_live/istuff_live-720p.m3u8
 https://stmv1.srvstm.com/sistema7933/sistema7933/playlist.m3u8
 #EXTINF:-1 tvg-id="JaliscoTV.mx" tvg-logo="https://i.imgur.com/N4meE8I.png" group-title="Culture;Education",Jalisco TV (720p)
 https://5fa5de1a545ae.streamlock.net/sisjalisciense/sisjalisciense/playlist.m3u8
+#EXTINF:-1 tvg-id="JilinRuralChannel.cn" tvg-logo="https://www.tvchinese.net/uploads/tv/jlxcpd.jpg" group-title="Education;Lifestyle;Science",Jilin Rural Channel
+https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/3ffc4824dce54b92be185555923ce382/index.m3u8
 #EXTINF:-1 tvg-id="KanEducational.il" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/KanHinuchit.svg/512px-KanHinuchit.svg.png" group-title="Education",Kan Kids (720p)
 https://kan23.media.kan.org.il/hls/live/2024691/2024691/master.m3u8
 #EXTINF:-1 tvg-id="KBEV.us" tvg-logo="https://i.imgur.com/YFVrphZ.png" group-title="Education",KBEV Spectrum Channel 6 [Beverly Hills] (1080p)
@@ -186,8 +188,6 @@ https://livestream.telvue.com/nashuanh2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/pla
 https://media.joycorp.co.kr:4443/live/ngrp:live_all/playlist.m3u8
 #EXTINF:-1 tvg-id="NCMEducationalKidsChannel.us" tvg-logo="https://i.imgur.com/3YPvfPn.png" group-title="Education;Kids",NCM Educational & Kids Channel
 https://cdn3.wowza.com/5/cHYzekYzM2kvTVFH/nevco/G0644_005/playlist.m3u8
-#EXTINF:-1 tvg-id="NihonGakkoTV.py" tvg-logo="https://i.imgur.com/ly0F9dD.jpg" group-title="Education",Nihon Gakko TV (720p) [Not 24/7]
-https://59ce1298bfb98.streamlock.net/ngtv/ngtv/playlist.m3u8
 #EXTINF:-1 tvg-id="NRWision.de" tvg-logo="https://i.imgur.com/RkF2Kmx.png" group-title="Education",NRWision (1080p)
 https://fms.nrwision.de/live/ngrp:livestreamHD.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="NTV.cl" tvg-logo="https://i.imgur.com/NnkSyta.png" group-title="Culture;Education",NTV
@@ -204,6 +204,8 @@ https://live.knou.ac.kr/knou1/live1/playlist.m3u8
 https://pbc.furrera.ps/PalestineEDU/index.m3u8
 #EXTINF:-1 tvg-id="ParyawaranTV.np" tvg-logo="https://i.imgur.com/H10qamt.png" group-title="Education;Outdoor",Paryawaran TV (1080p)
 https://webtv-stream.nettv.com.np/broadcaster/Paryawaran.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="PayamJavanTV.us" tvg-logo="https://i.imgur.com/GYfsHh9.png" group-title="Education",Payam Javan TV (720p) [Not 24/7]
+https://uni01rtmp.tulix.tv/kensecure/pjtv.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="KHETDT1.us" tvg-logo="https://i.imgur.com/O5uOeQh.png" group-title="Education",PBS Honolulu HI (KHET) (1080p) [Not 24/7]
 https://khetdt.lls.pbs.org/out/v1/7ec7903413294b72bb64f83963d8ea9b/index.m3u8
 #EXTINF:-1 tvg-id="WKMJDT1.us" tvg-logo="https://i.imgur.com/U9HFzJk.png" group-title="Education",PBS KET Louisville KY (WKMJ-TV) (720p)
@@ -232,6 +234,10 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1213ba0
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f32d4d9ec194100070c7449/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:-1 tvg-id="PSDTV.us" tvg-logo="https://i.imgur.com/djT0Q8q.png" group-title="Education",Poudre School District TV (PSD TV) (Fort Collins CO) (720p)
 https://reflect-broadcast-psdschools.cablecast.tv/live-6/live/live.m3u8
+#EXTINF:-1 tvg-id="RaiScuola.it@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Rai_Scuola_-_Logo_2017.svg/512px-Rai_Scuola_-_Logo_2017.svg.png" group-title="Education",Rai Scuola
+https://cachehsi1a.netplus.ch/live/eds/raiscuola/browser-dash/raiscuola.mpd
+#EXTINF:-1 tvg-id="RaiScuola.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Rai_Scuola_-_Logo_2017.svg/512px-Rai_Scuola_-_Logo_2017.svg.png" group-title="Education",Rai Scuola (576p) [Geo-blocked]
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747011
 #EXTINF:-1 tvg-id="RedApple21.us" tvg-logo="https://i.imgur.com/ICcQUCH.png" group-title="Education",Red Apple 21 (Fairfax County Public Schools) (480p) [Not 24/7]
 https://cs.ebmcdn.net/eastbay-live-hs-1/fcps/mp4:fcps/playlist.m3u8
 #EXTINF:-1 tvg-id="RedeMinas.br" tvg-logo="https://i.imgur.com/MtQWAHv.png" group-title="Education",Rede Minas (1080p) [Not 24/7]
@@ -256,12 +262,16 @@ http://223.166.234.114:7777/tsfile/live/1033_1.m3u8
 https://svtk-c.akamaized.net/se/svtk/master.m3u8
 #EXTINF:-1 tvg-id="CIVMDT.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/T%C3%A9l%C3%A9-Qu%C3%A9bec_logo.svg/512px-T%C3%A9l%C3%A9-Qu%C3%A9bec_logo.svg.png" group-title="Education",Télé-Québec (720p)
 https://bcovlive-a.akamaihd.net/4b1c462c86094bae93b65adc84e43afc/us-west-2/6101674910001/playlist.m3u8
-#EXTINF:-1 tvg-id="Telepace3.it" tvg-logo="https://i.imgur.com/hE4i2ft.png" group-title="Education;Religious",Telepace 3 (360p)
-https://live.mariatvcdn.com/teleradiopace3/d2274c22e9ee09eb2eda01ed0496f8f5.sdp/index.m3u8
+#EXTINF:-1 tvg-id="Telepace3.it" tvg-logo="https://i.imgur.com/hE4i2ft.png" group-title="Education;Religious",Telepace 3 (1080p)
+https://932y4273djv8-hls-live.mariatvcdn.it/teleradiopace3/d2274c22e9ee09eb2eda01ed0496f8f5.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="TheSoutheasternChannel.us" tvg-logo="https://i.imgur.com/E5dmC1U.png" group-title="Education",The Southeastern Channel (540p)
 http://147.174.13.196/live/live.m3u8
 #EXTINF:-1 tvg-id="CityofTracyChannel26.us" tvg-logo="https://i.imgur.com/ZhPmjkc.png" group-title="Education;Legislative",Tracy Education and Governmental Access Channel (Tracy CA) (720p)
 https://cdn3.wowza.com/5/dk84U1p2UUdoMGxT/tracy-ca/G0950_002/playlist.m3u8
+#EXTINF:-1 tvg-id="TRTEBAIlkokul.tr" tvg-logo="https://i.imgur.com/CRBfZi4.png" group-title="Education",TRT EBA Ilkokul (720p)
+https://tv-e-okul00.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="TRTEBALise.tr" tvg-logo="https://i.imgur.com/vj2L2L2.png" group-title="Education",TRT EBA Lise (720p)
+https://tv-e-okul02.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="TUTV.us" tvg-logo="https://i.imgur.com/At0BPeA.png" group-title="Education",TUTV
 https://livestream.telvue.com/templeuni1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="TVMackenzie.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/TV_Mackenzie_logo.svg/512px-TV_Mackenzie_logo.svg.png" group-title="Education",TV Mackenzie (480p)
@@ -304,7 +314,7 @@ https://playhls.media.nic.in/hls/live/vyas/vyas.m3u8
 #EXTINF:-1 tvg-id="WikiTV.kh" tvg-logo="https://i.imgur.com/rnV0Ui1.png" group-title="Education",WIKI TV (720p)
 https://stream.wikitv.asia/live/ngrp:myStream_all/playlist.m3u8
 #EXTINF:-1 tvg-id="WLVTDT1.us@SD" tvg-logo="https://i.imgur.com/3FPFBjU.png" group-title="Education",WLVT-DT1
-https://live20.bozztv.com/trn03/gin-pbstv/index.m3u8
+https://dvrfl03.bozztv.com/hondu/hondu-gbp-pbs/index.m3u8
 #EXTINF:-1 tvg-id="WomanTV.tr" tvg-logo="https://i.imgur.com/f2zGoV3.png" group-title="Culture;Education;Lifestyle",Woman TV (1080p)
 https://embedlp.becdn.net/womantv.m3u8
 #EXTINF:-1 tvg-id="WorldChannel.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/PBSworld.png" group-title="Education",World Channel (1080p)

@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="24Kitchen.us@Serbia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/24Kitchen.png/512px-24Kitchen.png" group-title="Cooking",24Kitchen Serbia (720p)
+http://91.132.74.5:8000/play/a00a
+#EXTINF:-1 tvg-id="ArenaSport1.ba@SD" tvg-logo="https://i.imgur.com/RJrJGbW.png" group-title="Sports",Arena Sport 1 (720p)
+http://91.132.74.5:8000/play/a00k
 #EXTINF:-1 tvg-id="BalkanRadioSalzburg.at" tvg-logo="https://i.imgur.com/UDyxgXf.png" group-title="Entertainment",Balkan Radio Salzburg (480p)
 https://channel.streams.ovh:1936/balkanradiosalzburgtv/balkanradiosalzburgtv/playlist.m3u8
 #EXTINF:-1 tvg-id="BloombergAdria.rs" tvg-logo="https://i.imgur.com/A5ui53C.png" group-title="Business",Bloomberg Adria (1080p)
@@ -29,6 +33,8 @@ https://muzzik-live.morescreens.com/mts-2/playlist.m3u8
 https://muzzik-live.morescreens.com/mts-1/playlist.m3u8
 #EXTINF:-1 tvg-id="TIKTAK.rs" tvg-logo="https://i.imgur.com/9dz8MsD.png" group-title="Music",Muzzik TIKTAK (720p)
 https://muzzik-live.morescreens.com/mts-a5/playlist.m3u8
+#EXTINF:-1 tvg-id="NarodnaTV.rs" tvg-logo="https://i.imgur.com/dua57HD.png" group-title="Undefined",Narodna TV (720p)
+https://edge8.pink.rs/narodnatv/index.m3u8
 #EXTINF:-1 tvg-id="NisvilleTV.rs" tvg-logo="https://i.imgur.com/cbtgd2h.png" group-title="Music",Nisville TV (1080p)
 https://tv.nisville.com/live/nisville/playlist.m3u8
 #EXTINF:-1 tvg-id="PannonTV.rs" tvg-logo="https://i.imgur.com/xQa2idL.png" group-title="General",Pannon RTV (648p)
@@ -53,6 +59,8 @@ https://uzivo.rtrs.tv/tv/live/index.m3u8
 https://webtvstream.bhtelecom.ba/rts1.m3u8
 #EXTINF:-1 tvg-id="RTS2.rs" tvg-logo="https://i.imgur.com/jltAf5h.png" group-title="Undefined",RTS 2 (720p) [Not 24/7]
 https://webtvstream.bhtelecom.ba/rts2.m3u8
+#EXTINF:-1 tvg-id="RTSSvet.rs@HD" tvg-logo="https://i.imgur.com/LjunOdy.png" group-title="Undefined",RTS Svet HD (720p)
+https://cachehsi1a.netplus.ch/live/eds/rtssat/browser-dash/rtssat.mpd
 #EXTINF:-1 tvg-id="RTV1.rs" tvg-logo="https://i.imgur.com/CG44YT3.png" group-title="Undefined",RTV 1 (576p) [Not 24/7]
 mmsh://212.200.255.151/rtv1
 #EXTINF:-1 tvg-id="RTV2.rs" tvg-logo="https://i.imgur.com/skpr66t.png" group-title="Undefined",RTV 2 (576p) [Not 24/7]
