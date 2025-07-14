@@ -250,6 +250,8 @@ https://lb2-e3-20.pluscdn.pl/lv/1511888/322/dash/52a9b70b/live.mpd
 https://live-video.dpgmedia.net/e087512ad0c32643/out/v1/82d59bbe343b4d0896f829c59da82dc0/index.m3u8
 #EXTINF:-1 tvg-id="Qmusic.nl" tvg-logo="https://i.imgur.com/fMTuqDu.png" group-title="Music",Qmusic (Netherlands) (720p)
 https://dpp-qmusicnl-live.akamaized.net/streamx/QmusicNL.m3u8
+#EXTINF:-1 tvg-id="QU4TRELiegeMedia.be" tvg-logo="https://i.imgur.com/GHFuvmZ.png" group-title="General",Qu4tre (1080p)
+https://tvlocales-live.freecaster.com/rtc/95d2f6ec-22f7-4027-b23d-d5372116b2ad/95d2f6ec-22f7-4027-b23d-d5372116b2ad.isml/master.m3u8
 #EXTINF:-1 tvg-id="Radio10.nl" tvg-logo="https://i.imgur.com/2oGtj7r.png" group-title="Undefined",Radio 10 (720p)
 https://radio10.prd1.talpatvcdn.nl/2b725bc7c93f477eaf0e43955ea8a6c1/index.m3u8
 #EXTINF:-1 tvg-id="Radio350.nl" tvg-logo="https://i.imgur.com/3nkzXup.png" group-title="Undefined",Radio 350 (360p) [Not 24/7]
@@ -403,6 +405,8 @@ https://rightsboosterltd-scl-1-nl.samsung.wurl.tv/playlist.m3u8
 https://d591ovpa48r6h.cloudfront.net/nlpo/clr-nlpo/studio040tv/index.m3u8
 #EXTINF:-1 tvg-id="StudioRheden.nl" tvg-logo="https://i.imgur.com/swfxaac.png" group-title="Undefined",Studio Rheden (1080p)
 https://stream.studiorhedenlive.nl/hlstv/stream.m3u8
+#EXTINF:-1 tvg-id="TeleMB.be" tvg-logo="https://i.imgur.com/XAggjM4.png" group-title="Undefined",TeleMB (1080p)
+https://tvlocales-live.freecaster.com/telemb/95d2f6ca-817a-48c0-aba5-6323a621c2d6/95d2f6ca-817a-48c0-aba5-6323a621c2d6.isml/master.m3u8
 #EXTINF:-1 tvg-id="TGRTEurope.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/TGRT_EU.png/512px-TGRT_EU.png" group-title="General",TGRT Europe (1080p)
 https://canli.tgrteu.com/tgrteu.m3u8
 #EXTINF:-1 tvg-id="ThePetCollective.us@Poland" tvg-logo="https://i.imgur.com/yH7n2dF.png" group-title="Family",The Pet Collective (720p)
@@ -459,8 +463,6 @@ https://live-radio-cf-vrt.akamaized.net/groupa/live/e96793cc-eac5-4ed2-8eb5-617c
 https://live-radio-cf-vrt.akamaized.net/groupb/live/eee20dc8-158a-4194-8d92-0c5a73ffcd3b/live.isml/.m3u8
 #EXTINF:-1 tvg-id="StuBru.be" tvg-logo="https://i.ibb.co/y0TcsXw/512px-VRT-Stu-Bru-logo-svg.png" group-title="Music",VRT Radio StuBru (720p)
 https://live-radio-cf-vrt.akamaized.net/groupb/live/0f394a26-c87d-475e-8590-e9c6e79b28d9/live.isml/.m3u8
-#EXTINF:-1 tvg-id="VTM2.be" tvg-logo="https://i.imgur.com/kYBHMlw.png" group-title="Undefined",VTM 2 (720p)
-https://dpp-live-events.medialaancdn.be/events/hls/aes/webstream3.m3u8
 #EXTINF:-1 tvg-id="VTM.be" tvg-logo="https://i.imgur.com/N3nwyDd.png" group-title="Undefined",VTM (720p)
 https://dpp-live-events.medialaancdn.be/events/hls/aes/webstream1.m3u8
 #EXTINF:-1 tvg-id="WEEFFTV.nl" tvg-logo="https://i.imgur.com/4XCwuob.png" group-title="General",WEEFF TV (1080p)
