@@ -11,8 +11,6 @@ https://tv.thbl.vn/live/tv/tv.m3u8
 https://stream.thingnet.vn/live/smil:BTV.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="BinhPhuocTV1.vn" tvg-logo="https://i.postimg.cc/15v88Bxx/BPTV1-logo.png" group-title="General;News",Binh Phuoc TV 1 (720p)
 https://live.baobinhphuoc.com.vn/bptvlive/tv1live.m3u8
-#EXTINF:-1 tvg-id="BRT.vn" tvg-logo="https://i.imgur.com/WEMfHas.png" group-title="Undefined",BRT (360p)
-http://113.163.216.23:1935/live/ngrp:tv2.stream_all/playlist.m3u8
 #EXTINF:-1 tvg-id="CaMauTV.vn" tvg-logo="https://i.imgur.com/gWc8xVD.jpg" group-title="Undefined",Cà Mau TV (720p) [Geo-blocked]
 https://tv.ctvcamau.vn/live/tv/tv.m3u8
 #EXTINF:-1 tvg-id="CaoBangTV.vn" tvg-logo="https://i.imgur.com/dGonewm.png" group-title="General",Cao Bang TV (480p)
@@ -33,10 +31,10 @@ http://118.107.85.4:1935/live/smil:DNTV2.smil/playlist.m3u8
 http://113.161.25.3:8134/hls/gialaitv/gialaitv.m3u8
 #EXTINF:-1 tvg-id="HaGiangTV.vn" tvg-logo="https://i.imgur.com/zXqjjUf.png" group-title="General",Ha Giang TV (406p)
 http://123.31.36.68/live.m3u8?c=vstv365&deviceId=&deviceType=&gcId=1532&location=NA&pkg=pkg11.hni&q=high&requestTime=1586309420781&time=1586395820&token=LX-ibJYRUq9pflRtYAxfYQ&type=tv&userId=
-#EXTINF:-1 tvg-id="HanoiTV1.vn" tvg-logo="https://i.imgur.com/Je3K25E.png" group-title="General",HanoiTV1 (1080p)
-https://cecex9g5cpliv.vcdn.cloud/capture/smil:HN1.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="HanoiTV2.vn" tvg-logo="https://i.imgur.com/szivqh2.png" group-title="General",HanoiTV2 (1080p)
-https://cecex9g5cpliv.vcdn.cloud/live/smil:HN2.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="HanoiTV1.vn" tvg-logo="https://i.imgur.com/Je3K25E.png" group-title="General",HanoiTV1 (1080p) [Geo-blocked]
+https://cloudstreamhntv.tek4tv.vn/capture/smil:HN1.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="HanoiTV2.vn" tvg-logo="https://i.imgur.com/szivqh2.png" group-title="General",HanoiTV2 (2160p) [Geo-blocked]
+https://cloudstreamhntv.tek4tv.vn/events/HN2/playlist.m3u8
 #EXTINF:-1 tvg-id="HaTinhTV.vn" tvg-logo="https://i.imgur.com/4yIgKKx.png" group-title="General",Ha Tinh TV (720p)
 https://wse.hatinhtv.net/live/httv1/playlist.m3u8
 #EXTINF:-1 tvg-id="HauGiangTV.vn" tvg-logo="https://i.imgur.com/e0gc4CQ.png" group-title="General",Hau Giang TV (720p)
@@ -127,8 +125,6 @@ http://125hvt.ddns.net:21585/thvl1/tracks-v1a1/mono.m3u8
 http://vinhphuctv.vn:8090/vinhphuclive/web.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="VTV1.vn" tvg-logo="https://i.imgur.com/vZYlGIW.png" group-title="Undefined",VTV1 (576p)
 http://125hvt.ddns.net:21585/vtv1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="VTV1.vn@HD" tvg-logo="https://i.imgur.com/vZYlGIW.png" group-title="Undefined",VTV1 (1080p)
-http://p1.cvtv.xyz/vtv1?token=live
 #EXTINF:-1 tvg-id="VTV4.vn" tvg-logo="https://i.imgur.com/WsLLmR2.png" group-title="Undefined",VTV4 (576p)
 http://125hvt.ddns.net:21585/vtv4/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="VTV9.vn" tvg-logo="https://i.imgur.com/QiY55sy.png" group-title="Undefined",VTV9 (576p)
