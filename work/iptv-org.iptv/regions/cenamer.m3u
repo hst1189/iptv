@@ -7,6 +7,8 @@ https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main_dvr.m3u8
 https://stream.alojamientowebgt.com:3656/live/tv45live.m3u8
 #EXTINF:-1 tvg-id="88Stereo.cr" tvg-logo="https://i.imgur.com/i3YwORV.png" group-title="Music",88 Stereo (720p) [Not 24/7]
 http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8
+#EXTINF:-1 tvg-id="360RFTV.cr" tvg-logo="https://i.imgur.com/EBtgnxR.png" group-title="General",360 RFTV (576p) [Geo-blocked]
+https://acceso.radiosportstv.online:3417/live/360rftvcrlive.m3u8
 #EXTINF:-1 tvg-id="504TV.hn" tvg-logo="https://i.imgur.com/c2HLI3k.png" group-title="Entertainment",504 TV (720p)
 https://mediacp.us:8081/504tvhn/index.m3u8
 #EXTINF:-1 tvg-id="OPA.cr@SD" tvg-logo="https://i.imgur.com/300c1ZH.png" group-title="Entertainment",¡OPA! (1080i) [Geo-blocked]
@@ -605,6 +607,8 @@ http://45.175.139.194:8000/play/62
 https://mist01.homestream.fun/hls/tlmas904/0_1/index.m3u8
 #EXTINF:-1 tvg-id="Telemas.hn" tvg-logo="https://i.imgur.com/eORs1yt.jpg" group-title="General",Telemás (720p)
 https://viewhn.com/telemas/live/playlist.m3u8
+#EXTINF:-1 tvg-id="TelemicroInternacional.do" tvg-logo="https://i.imgur.com/507tvMY.png" group-title="Undefined",Telemicro Internacional
+http://45.190.13.8:80/TelemicroHD/index.m3u8
 #EXTINF:-1 tvg-id="Telenorte.ni" tvg-logo="https://i.imgur.com/rvxjAO6.png" group-title="General" http-referrer="https://odysee.com/",Telenorte (1080p)
 #EXTVLCOPT:http-referrer=https://odysee.com/
 https://cloud.odysee.live/content/e4037b515169fa8e91645219d0f48aa2e69f0546/master.m3u8
@@ -709,6 +713,8 @@ https://cdn.streamhispanatv.net:3832/live/tvtunlive.m3u8
 https://stream.castr.com/643880749cf895435bf8eadf/live_d0b3cf70e24111ed8ed2951b4c7d1b75/index.m3u8
 #EXTINF:-1 tvg-id="TVCa.sv" tvg-logo="https://i.imgur.com/uPWWtCA.png" group-title="Religious",TVCa Televisión Católica Arquidiocesana (720p)
 https://ssh101.bozztv.com/ssh101/tvcaelsalvador/playlist.m3u8
+#EXTINF:-1 tvg-id="TVEInternacionalAmerica.es@SD" tvg-logo="https://i.imgur.com/iODADvi.png" group-title="Undefined",TVE Internacional America (720p)
+http://190.11.225.124:5000/live/tve_hd/playlist.m3u8
 #EXTINF:-1 tvg-id="TVMElSalvador.sv" tvg-logo="https://i.imgur.com/fyCC8R6.png" group-title="News",TVM El Salvador
 http://201.247.102.189/tmp_hls/stream/index.m3u8
 #EXTINF:-1 tvg-id="TVMax.pa" tvg-logo="https://i.imgur.com/XcrkfGh.png" group-title="Entertainment",TVMAX (720p)
