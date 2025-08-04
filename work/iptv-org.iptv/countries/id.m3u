@@ -19,12 +19,14 @@ http://202.150.153.254:65500/bandungtvWEBSITE.m3u8
 https://5bf7b725107e5.streamlock.net/bantentv/bantentv/playlist.m3u8
 #EXTINF:-1 tvg-id="BMSTV.id" tvg-logo="https://i.imgur.com/pRyaqIi.png" group-title="Undefined",Banyumas TV (720p) [Geo-blocked]
 https://v2.siar.us/bmstv/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="BBCNews.uk@AsiaPacific" tvg-logo="https://i.imgur.com/vSz2WEp.png" group-title="News",BBC News Asia Pacific (1080p)
+https://tv.ddns.vn/tv/bbcworldnews/index.m3u8
 #EXTINF:-1 tvg-id="BeritaSatuEnglish.id@SD" tvg-logo="https://i.postimg.cc/SRDWxRGs/13092012142252.jpg" group-title="News",BeritaSatu English
 https://beritasatu.secureswiftcontent.com/han/beritasatu/bsatu10008/srtoutput/manifest.m3u8
-#EXTINF:-1 tvg-id="BiznetAdventure.id" tvg-logo="https://i.imgur.com/ZREy4zM.png" group-title="Undefined",Biznet Adventure (720p)
-http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="BioskopIndonesia.id" tvg-logo="https://i.imgur.com/8gdyddg.png" group-title="Undefined",Biznet Adventure (720p) [Geo-blocked]
 https://cdn01-telkomsel-01.akamaized.net/Content/HLS/Live/channel(41d51f9f-8855-e625-012f-304a1f0eb538)/index.m3u8
+#EXTINF:-1 tvg-id="BiznetAdventure.id" tvg-logo="https://i.imgur.com/ZREy4zM.png" group-title="Undefined",Biznet Adventure (720p)
+http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="BiznetKids.id" tvg-logo="https://i.imgur.com/J5QNqJ0.png" group-title="Kids",Biznet Kids (480p)
 http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/chunklist_w417362857_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1xQXJpMU0yeHVfTUFsbkh3VlJ0T3MyNGxSOFlfSFNEaWpOMkNSTmdoaWZVbGxoWXFRU0Rsa2QwcUU4Q2tad3hD.m3u8
 #EXTINF:-1 tvg-id="BiznetLifestyle.id" tvg-logo="https://i.imgur.com/XqUfQKA.png" group-title="Lifestyle",Biznet Lifestyle (480p)
@@ -37,8 +39,8 @@ https://bloomberg.com/media-manifest/streams/asia-event.m3u8
 https://b1news.beritasatumedia.com/Beritasatu/B1News_manifest.m3u8
 #EXTINF:-1 tvg-id="BungoTV.id" tvg-logo="https://i.imgur.com/OrCrtDA.png" group-title="General",Bungo TV (480p) [Not 24/7]
 https://5bf7b725107e5.streamlock.net/bungotv/bungotv/playlist.m3u8
-#EXTINF:-1 tvg-id="CCTV4Asia.cn@SD" tvg-logo="https://i.imgur.com/tWt4Wou.png" group-title="General",CCTV-4 Asia
-http://trn03.bozztv.com/gin-cctv4/index.m3u8
+#EXTINF:-1 tvg-id="CCTV4Asia.cn" tvg-logo="https://i.imgur.com/tWt4Wou.png" group-title="General",CCTV-4 Asia (480p)
+http://210.210.155.37/qwr9ew/s/s19/index.m3u8
 #EXTINF:-1 tvg-id="CelebesTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Logo_Celebes_TV.png" group-title="General",Celebes TV [Not 24/7]
 https://ams.juraganstreaming.com:5443/LiveApp/streams/celebesmedia.m3u8
 #EXTINF:-1 tvg-id="CinemaWorld.my" tvg-logo="https://i.imgur.com/D2qNVZ7.png" group-title="Movies",CinemaWorld (576p)
@@ -159,8 +161,6 @@ http://210.210.155.37/uq2663/h/h191/index.m3u8
 https://op-krgroup1-swiftservehd-1.dens.tv/h/h126/live.m3u8
 #EXTINF:-1 tvg-id="NaDooKorean.id" tvg-logo="https://i.imgur.com/GWFiyOk.jpeg" group-title="Shop",NaDoo Korean (1080p) [Geo-blocked]
 https://op-krgroup1-swiftservehd-1.dens.tv/h/h125/live.m3u8
-#EXTINF:-1 tvg-id="NickelodeonAsia.sg" tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="Kids",Nickelodeon Asia (720p)
-http://178.128.214.60:1234/stream/astro/nickelodeon/master.m3u8
 #EXTINF:-1 tvg-id="NusantaraTV.id" tvg-logo="https://i.imgur.com/viun5hj.png" group-title="General",Nusantara TV (720p)
 https://nusantaratv.siar.us/nusantaratv/live/chunks.m3u8
 #EXTINF:-1 tvg-id="ONE.sg" tvg-logo="https://i.imgur.com/ea0iGfA.png" group-title="Entertainment",One TV Asia (576p) [Geo-blocked]

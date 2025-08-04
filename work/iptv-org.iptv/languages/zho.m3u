@@ -49,8 +49,8 @@ https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
 https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="CCTV4America.cn" tvg-logo="https://i.imgur.com/gBbLyqh.png" group-title="General",CCTV-4 America (1080p)
 https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
-#EXTINF:-1 tvg-id="CCTV4Asia.cn@SD" tvg-logo="https://i.imgur.com/tWt4Wou.png" group-title="General",CCTV-4 Asia
-http://trn03.bozztv.com/gin-cctv4/index.m3u8
+#EXTINF:-1 tvg-id="CCTV4Asia.cn" tvg-logo="https://i.imgur.com/tWt4Wou.png" group-title="General",CCTV-4 Asia (480p)
+http://210.210.155.37/qwr9ew/s/s19/index.m3u8
 #EXTINF:-1 tvg-id="CCTV5.cn" tvg-logo="https://i.imgur.com/nbmnGwE.png" group-title="Sports",CCTV-5体育 (1080p)
 http://1.85.0.62:808/hls/503/index.m3u8
 #EXTINF:-1 tvg-id="CCTV6.cn" tvg-logo="https://i.imgur.com/rFiaef7.png" group-title="Movies",CCTV-6电影 (1080p)
@@ -199,8 +199,6 @@ http://play1-qk.nmtv.cn/live/1686560423879174.m3u8
 https://nhkw-zh-hlscomp.akamaized.net/ixxemlzk1vqvy44o/playlist.m3u8
 #EXTINF:-1 tvg-id="NTDTV.us@East" tvg-logo="https://i.imgur.com/QtFM5Oo.png" group-title="General",NTD TV (1080p)
 https://amg17596-ntdtv-amg17596c1-rakuten-gb-6741.playouts.now.amagi.tv/playlist/amg17596-newtangdynastytelevision-ntdtv-rakutengb/playlist.m3u8
-#EXTINF:-1 tvg-id="NTDTV.us@West" tvg-logo="https://i.imgur.com/QtFM5Oo.png" group-title="General",NTD TV West (New Tang Dynasty Television)
-https://ntd02.akamaized.net/NTD-West/index.m3u8
 #EXTINF:-1 tvg-id="Okey.my" tvg-logo="https://i.imgur.com/V2jREQ5.png" group-title="General" http-referrer="https://rtm-player.glueapi.io/",Okey [Geo-blocked]
 #EXTVLCOPT:http-referrer=https://rtm-player.glueapi.io/
 https://d25tgymtnqzu8s.cloudfront.net/smil:okey/playlist.m3u8?id=3
@@ -240,6 +238,8 @@ http://49.113.179.174:4022/udp/238.125.0.156:5140
 http://223.166.234.114:7777/tsfile/live/1033_1.m3u8
 #EXTINF:-1 tvg-id="SihaiFishingChannel.cn" tvg-logo="https://i.imgur.com/BCJes2k.png" group-title="Outdoor",Sihai Fishing Channel
 http://49.113.179.174:4022/udp/238.125.2.172:5140
+#EXTINF:-1 tvg-id="SipingTV.cn" tvg-logo="https://www.tvchinese.net/uploads/tv/sptv1.jpg" group-title="General",Siping TV
+http://stream2.jlntv.cn/sptv/sd/live.m3u8?_upt=f27750421743154598
 #EXTINF:-1 tvg-id="SMGFootballChannel.cn" tvg-logo="https://i.imgur.com/BaBr5fM.png" group-title="Sports",SMG Football Channel
 http://49.113.179.174:4022/udp/238.125.2.142:5140
 #EXTINF:-1 tvg-id="STVCity.cn" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/94/Shanghai_City_TV.PNG" group-title="General",STV City
@@ -284,8 +284,6 @@ http://l2.weihai.tv:8081/hls/g16E3482eM.m3u8
 http://49.113.179.174:4022/udp/238.125.2.205:5140
 #EXTINF:-1 tvg-id="XinjiangTV12.cn" tvg-logo="https://i.imgur.com/ZdqKVeE.png" group-title="Undefined",Xinjiang TV 12
 http://49.113.179.174:4022/udp/238.125.3.185:5140
-#EXTINF:-1 tvg-id="XizangTVChinese.cn" tvg-logo="https://i.imgur.com/V0v3ST5.png" group-title="Undefined",Xizang TV Chinese
-http://php.jdshipin.com/xztv.php?id=ws
 #EXTINF:-1 tvg-id="YanbianCineseComprehensiveChannel.cn" tvg-logo="https://www.tvchinese.net/uploads/tv/ybtv2.jpg" group-title="General",Yanbian Cinese Comprehensive Channel
 https://live.ybtvyun.com/video/s10016-6d4fe23a90b3/index.m3u8
 #EXTINF:-1 tvg-id="YicaiTV.cn" tvg-logo="https://i.imgur.com/OLj4mKK.png" group-title="Undefined",Yicai TV

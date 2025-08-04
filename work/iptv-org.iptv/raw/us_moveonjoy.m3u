@@ -63,12 +63,10 @@ https://fl3.moveonjoy.com/CRAVE_3/index.m3u8
 https://fl3.moveonjoy.com/CRAVE_4/index.m3u8
 #EXTINF:-1 tvg-id="CuriosityStream.us" tvg-logo="https://i.imgur.com/KUb4vEz.png" group-title="Education",CuriosityStream (720p)
 https://fl3.moveonjoy.com/Curiosity_Stream/index.m3u8
-#EXTINF:-1 tvg-id="DisneyChannel.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Disney_Channel_logo_%282014%29.svg/512px-Disney_Channel_logo_%282014%29.svg.png" group-title="Kids",Disney Channel East
+#EXTINF:-1 tvg-id="DisneyChannel.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg" group-title="Kids",Disney Channel East
 https://fl5.moveonjoy.com/DISNEY/index.m3u8
-#EXTINF:-1 tvg-id="DisneyJunior.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/512px-Disney_Junior.svg.png" group-title="Kids",Disney Junior East
+#EXTINF:-1 tvg-id="DisneyJunior.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/2019_Disney_Junior_logo.svg" group-title="Kids",Disney Junior East
 https://fl3.moveonjoy.com/DISNEY_JR/index.m3u8
-#EXTINF:-1 tvg-id="DisneyXD.us@West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/512px-Disney_XD_-_2015.svg.png" group-title="Kids",Disney XD West (720p)
-https://fl3.moveonjoy.com/DISNEY_XD/index.m3u8
 #EXTINF:-1 tvg-id="E.us@East" tvg-logo="https://i.imgur.com/TWFDkap.png" group-title="Entertainment",E! East
 https://fl3.moveonjoy.com/E_ENTERTAINMENT_TELEVISION/index.m3u8
 #EXTINF:-1 tvg-id="ESPNU.us" tvg-logo="https://i.imgur.com/HiBrysh.png" group-title="Sports",ESPN U (720p)
@@ -105,8 +103,6 @@ https://fl3.moveonjoy.com/FXX/index.m3u8
 https://fl3.moveonjoy.com/FYI/index.m3u8
 #EXTINF:-1 tvg-id="GetTV.us" tvg-logo="https://i.imgur.com/evOWORd.png" group-title="Entertainment",GetTV (480p)
 https://fl3.moveonjoy.com/GET_TV/index.m3u8
-#EXTINF:-1 tvg-id="GolfChannel.us" tvg-logo="https://i.imgur.com/Lgux6Ik.png" group-title="Sports",Golf Channel
-https://fl3.moveonjoy.com/GOLF_CHANNEL/index.m3u8
 #EXTINF:-1 tvg-id="Grit.us" tvg-logo="https://i.imgur.com/6w1Wj3j.png" group-title="Entertainment",Grit
 https://fl3.moveonjoy.com/GRIT_TV/index.m3u8
 #EXTINF:-1 tvg-id="HallmarkChannel.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Hallmark_Channel.svg/512px-Hallmark_Channel.svg.png" group-title="Family",Hallmark Channel East
@@ -175,6 +171,8 @@ https://fl3.moveonjoy.com/NFL_NETWORK/index.m3u8
 https://fl1.moveonjoy.com/NFL_RedZone/index.m3u8
 #EXTINF:-1 tvg-id="NHLNetwork.us" tvg-logo="https://i.imgur.com/UNZ8bef.png" group-title="Sports",NHL Network (720p)
 https://fl3.moveonjoy.com/NHL_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="Nickelodeon.us@East" tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="Kids",Nickelodeon East
+https://fl5.moveonjoy.com/NICKELODEON/index.m3u8
 #EXTINF:-1 tvg-id="NickJr.us@East" tvg-logo="https://i.imgur.com/KT4tdQs.png" group-title="Kids",Nick Jr East
 https://fl3.moveonjoy.com/NICK_JR/index.m3u8
 #EXTINF:-1 tvg-id="NickJr.us@East" tvg-logo="https://i.imgur.com/KT4tdQs.png" group-title="Kids",Nick Jr. East (720p)
@@ -245,8 +243,6 @@ https://fl5.moveonjoy.com/TSN_3/index.m3u8
 https://fl5.moveonjoy.com/TSN_4/index.m3u8
 #EXTINF:-1 tvg-id="TSN5.ca" tvg-logo="https://i.imgur.com/HEzHpzz.png" group-title="Sports",TSN5
 https://fl5.moveonjoy.com/TSN_5/index.m3u8
-#EXTINF:-1 tvg-id="TVLand.us@East" tvg-logo="https://i.imgur.com/VNNS4mF.png" group-title="Classic",TV Land East
-https://fl3.moveonjoy.com/TV_Land/index.m3u8
 #EXTINF:-1 tvg-id="TVOne.us" tvg-logo="https://i.imgur.com/tthm8Q5.png" group-title="Undefined",TV One
 https://fl3.moveonjoy.com/TV_ONE/index.m3u8
 #EXTINF:-1 tvg-id="UpTV.us" tvg-logo="https://i.imgur.com/AvR9LSn.png" group-title="Undefined",Up TV (1080p)

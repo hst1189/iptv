@@ -3,8 +3,14 @@
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62ba60f059624e000781c436/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c25e430-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=1b7de8e4-d114-4438-b098-6f7aee77b4be
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",3ABN Canada
 https://3abn.bozztv.com/3abncanada/3ABN/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",4Afghanistan
+https://4afghls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",4Afghanistan
+https://4afghls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",4K Travel TV
 https://streams2.sofast.tv/sofastplayout/33c31ac4-51fa-46ae-afd0-0d1fe5e60a80_0_HLS/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",4Music
+https://4muhls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",4Music
 https://itthls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",4UV
@@ -157,6 +163,8 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61fbf91afb1b10000880dd08/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84ac2f81-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=601f4d3b-4861-4283-9b4f-d09024aaa219
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Auto Motor Sport
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f760c3d41aa2d0007bfde19/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=bc82e211-4b91-11ef-8a44-83c5e90e038f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=ed9bb283-dacb-4765-bf95-fbea4893d023
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Auto TV (720p)
+https://cdn3.skygo.mn/live/disk1/AutoTV/HLS-FTA/AutoTV.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Automotion
 https://streams2.sofast.tv/sofastplayout/0c3229e2-6ca5-4714-859e-c0ac6b9aa58a_0_HLS/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Avatar
@@ -499,8 +507,6 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62bc1957e4da730007195dc3/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=bc835745-4b91-11ef-8a44-83c5e90e038f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=8fec7709-f957-4c32-ae6d-2dde8020c4e6
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Clarissa
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62bc1957e4da730007195dc3/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84accbc1-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=1e3c23ed-3d87-4733-9ff1-947db55c9d2d
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Classic Reels TV
-https://crt-ext.rodeotv.net/s/iUvKb6g3mbVgXDGy8a3tCQQSfjNXvNEL/crt-h264.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Classic TV
 https://scbhls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Classic TV Crime Drama
@@ -513,6 +519,8 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f984784ccb4de0007dfad74/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1d1591-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=f172947b-b59e-48be-9382-85fe6446e954
 #EXTINF:-1 tvg-id="ClubbingTV.us@NewZealand" tvg-logo="https://i.imgur.com/MyiA92q.png" group-title="Music",Clubbing TV
 https://clubbingtv-samsungnz.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",CNBC MGL (720p)
+https://cdn3.skygo.mn/live/disk1/CNBC/HLS-FTA/CNBC.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",CNN HEADLINES
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5421f71da6af422839419cb3/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c280714-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=094d5321-1bd1-4a68-84aa-0a3f4fef2e25
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",CNV/Montreal
@@ -643,8 +651,6 @@ https://news.ctbperth.net.au/hls/stream.m3u8
 rtmp://59.124.75.138:1935/sat/tv111
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Cuisine Culture
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/34839a9b-a901-4f31-b593-07555f7937d4/manifest.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Cult Classic Movie Theater (1080p)
-https://app.viloud.tv/hls/channel/053140e08adc29e3eac61eb05ff12f51.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Curiosity Now (1080p)
 https://amg00170-curiositystream-amg00170c3-rakuten-us-2289.playouts.now.amagi.tv/playlist/amg00170-curiositystreamllcfast-curiositynowrow-rakutenus/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",D Television (Antenna 10) (480p)
@@ -721,8 +727,6 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62
 https://aegis-cloudfront-1.tubi.video/b2fc97e6-b98f-42b4-be35-bd0361f1f637/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",DEFA TV (720p)
 https://wdrmediagroup-defatv-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Delicioso
-https://dai.google.com/linear/hls/event/P-z5VMsOQxmXTpZLaDC6Pg/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Der Denver-Clan
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62cebd7302478b00073a6b71/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1d63b1-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c1976749-dc67-441a-aa5b-1e7f21edcbf9
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Der Denver-Clan
@@ -747,8 +751,6 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/63
 https://amg00353-amg00353c40-xumo-us-4839.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",DesiPlay TV (1080p)
 https://amg00857-amg00857c1-rakuten-us-4656.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Despierta América
-https://dai.google.com/linear/hls/event/oLZnojGrQ02TM-L5EeTuwA/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Detective Conan
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62f3e8ad2a8e8000077b013d/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e06b107-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=165463a5-b9d3-452a-84d9-0cf94452227f
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Diagnosis Murder
@@ -865,20 +867,16 @@ https://xumo-xumoent-vc-117-a3ga4.fast.nbcuni.com/live/master.m3u8
 https://earthtouch-earthtouch-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",EarthDay 365
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/650b69cfd1f20c0008586bac/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c28a351-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=99d5f340-8533-449d-baf7-62a01ce5a66d
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Ebony TV (1080p)
-https://aegis-cloudfront-1.tubi.video/22574bab-8a1f-44f4-b62f-ae2963c6a875/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Ebony TV [Geo-blocked]
 https://amg00353-lionsgatestudios-amg00353c11-xumo-us-2108.playouts.now.amagi.tv/EbonyTV-pl/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Ebony TV (1080p)
+https://aegis-cloudfront-1.tubi.video/22574bab-8a1f-44f4-b62f-ae2963c6a875/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Echappées Belles & Co
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/63b578b524f0cf00072f2a52/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e06ff22-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=3edb47ac-db16-4729-ab4d-d838f822b945
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Edgy TV
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/49f275ac-7129-4492-93c0-854b3c3138f0/manifest.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Edgy Urban
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/50ce2783-e0fe-405b-bfa7-349c4ff4916b/manifest.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Education (1080p)
-https://cdn3.skygo.mn/live/disk1/Education/DASH-FTA/Education.mpd
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Education (1080p)
-https://cdn3.skygo.mn/live/disk1/Education/HLS-FTA/Education.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Eggheads (1080p)
 https://amg00654-itv-amg00654c28-rakuten-uk-5302.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Ein Engel auf Erden
@@ -905,10 +903,10 @@ https://streams2.sofast.tv/sofastplayout/11d7f7fd-9c12-4c8a-b1a8-e879821e2187_10
 https://backend.energeek.cl/webtv/egfanweb/index.m3u8?token=ZZDemoIPTVGH
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",English TV
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/a5e9aebd-1df4-4e56-be4f-33a891756f9b/manifest.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Enquêtes de Choc
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/63921a1bf76e7d0007c998a6/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e06d816-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=7931c2bb-1392-4543-8cc4-684661cfd449
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Enquetes de Choc (1080p)
 https://fastmedia-enquetesdechoc-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Enquêtes de Choc
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/63921a1bf76e7d0007c998a6/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e06d816-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=7931c2bb-1392-4543-8cc4-684661cfd449
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Equidia Racing Mag (1080p)
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/racingmag.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Equus TV (1080p)
@@ -1061,8 +1059,12 @@ https://amg00346-vizioono-forkandfligt-xumo-us.amagi.tv/playlist.m3u8
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65c69ee3d77d450008c80438/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c28f172-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=922e06a8-1ba6-4236-9931-06d471735996
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Foshan News TV
 http://dslive.grtn.cn/fszh/sd/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",FOX Sports [Geo-blocked]
+https://amg02855-foxsports-amg02855c1-xumo-us-1755.playouts.now.amagi.tv/Fox-Sports-AmazonNews/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Fox Sports
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c28f173-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=46a3b8ff-5a4a-4952-bb4d-9461224acd54
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Fox Sports (720p)
+https://apollo.production-public.tubi.io/live/fox-sports.m3u8
 #EXTINF:-1 tvg-id="FoxSports.mx@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/512px-FOX_Sports_logo.svg.png" group-title="Sports",Fox Sports
 https://ott.udptv.com/stream/udptv/foxsports/master.m3u8?u=discord.gg/civ3&p=eeaf011ae6d8cdbf0200cc0234f54fdc95d7b5b158d22258efd49d7e36275c7a
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Fox Sports 1
@@ -1071,10 +1073,6 @@ https://fl3.moveonjoy.com/FOX_Sports_1/index.m3u8
 https://tvpass.org/live/FoxSports2/sd
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Fox Sports 2 (720p)
 https://tvpass.org/live/FoxSports2/hd
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Fox Sports (720p)
-https://apollo.production-public.tubi.io/live/fox-sports.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",FOX Sports [Geo-blocked]
-https://amg02855-foxsports-amg02855c1-xumo-us-1755.playouts.now.amagi.tv/Fox-Sports-AmazonNews/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",France 24 FAST English
 https://amg00106-amg00106c1-rakuten-uk-4654.playouts.now.amagi.tv/playlist/amg00106-france24fast-france24-rakutenuk/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",FrankenPlus (1080p)
@@ -1101,8 +1099,6 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6270ea4345f5bc0007823048/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84ad6802-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=59b98e79-5c91-4b90-b21b-df3ab3630476
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Fusung News TV
 http://stream8.jlntv.cn/fs/sd/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Fútbol
-https://dai.google.com/linear/hls/event/JgYgVMW8Szinkmm7dchlmQ/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",G-eye TV
 https://online.geyetv.com/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Gaki no Tsukai (English Subs) (720p)
@@ -1125,10 +1121,10 @@ https://all3media-gardening-with-monty-don-us.xumo.wurl.tv/playlist.m3u8
 https://apollo.production-public.tubi.io/live/ac-gardening-monty-don.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",GenB TV (1080p)
 https://bad-badiv-stirr.otteravision.com/bad/badiv/badiv.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Génération Sitcoms
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60afb203ec391c00070ea1bf/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e05edb6-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=268b6554-9dcf-4fcd-bcd8-d9cb017d0cd0
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Generation Sitcoms (1080p)
 https://production-fastbpk.content.okast.tv/fa2e8c4385712f9aa35c5b79a2b4ac2d/channels/eec463a6-4364-473b-8d89-555acc5b8fb2/e36e4304-73ff-4f9f-8d38-e748576a1f51/media_.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Génération Sitcoms
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60afb203ec391c00070ea1bf/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e05edb6-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=268b6554-9dcf-4fcd-bcd8-d9cb017d0cd0
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Germany Shore
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6447dea7e94c380008dba94c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1dd8e6-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=5f9f4951-a4da-4d64-b310-30e3d35efdca
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Germany Shore
@@ -1271,10 +1267,10 @@ https://live.ishiacloud.com/haditv.co.uk/haditv2.m3u8
 https://live.ishiacloud.com/haditv.co.uk/haditv7.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Haiti News Channel (720p) [Not 24/7]
 https://haititivi.com/website/haitinews/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Hallmark en español
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6532e7b290a74c00084a3bb6/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c291885-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=abaa1d27-e975-4a86-be91-f282e0832a1c
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Hallmark en Espanol [Geo-blocked]
 https://amg00235-amg00235c3-xumo-us-3820.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Hallmark en español
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6532e7b290a74c00084a3bb6/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c291885-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=abaa1d27-e975-4a86-be91-f282e0832a1c
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Hardcore Pawn (1080p)
 https://amg00627-amg00627c8-rakuten-uk-4801.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Haunt TV Canada (1080p)
@@ -1411,8 +1407,6 @@ https://apollo.production-public.tubi.io/live/ac-ice-road-truckers.m3u8
 https://ic3hls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Ictimai TV
 https://node19.connect.az:9081/tv/live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Ideal TV
-https://cloud5.idealtv.net/hls/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Ideas en 5 minutos (1080p)
 https://soul-5mincraftspa-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",iHeartRadio Alternative
@@ -1467,10 +1461,10 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/63
 https://tsw.streamingwebtv24.it:1936/insuranceconnect/insuranceconnect/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Intermediate League Curaçao [Geo-blocked]
 https://streannlivecariflix.cachefly.net/cariflix12/cariflix12/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",InTravel (1080p)
-https://amg00861-amg00861c10-rakuten-uk-3152.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",INTRAVEL (1080p) [Geo-blocked]
 https://amg00861-amg00861c10-firetv-us-4726.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",InTravel (1080p)
+https://amg00861-amg00861c10-rakuten-uk-3152.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Investigation
 https://amg00346-vizioono-investigation-xumo-us.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",ION Mystery (1080p)
@@ -1499,8 +1493,6 @@ https://live20.bozztv.com/giatv/giatv-jattvibe/jattvibe/playlist.m3u8
 http://80.79.6.221:25461/smash/public/25
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",JCN TV (1080p)
 https://jcnonair-1108.acs.wecandeo.com/ms/3162/1108/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Jeffrey A Swanson Photography (720p)
-https://app.viloud.tv/hls/channel/07c8b76fa3a98409d527cede85852d55.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Jewelry Television Espanol (720p)
 https://82934cf9c8696bd2.mediapackage.us-east-1.amazonaws.com/out/v1/72b5a55e4c35445f9e742871aa0aefa2/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Joel Osteen Network
@@ -1519,6 +1511,8 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61b33085897b9d000702b72e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84ad8f17-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=d06cb634-30f9-492b-b1b6-c1c3af23164b
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Kajou TV (480p) [Not 24/7]
 https://video1.getstreamhosting.com:1936/8055/8055/playlist.m3u8
+#EXTINF:-1 tvg-id="KanadeBrasil.pt" tvg-logo="" group-title="Undefined",Kanade Brasil (1080p)
+https://backend.energeek.cl/webtv/kanadebr/index.m3u8?token=deM0kanADeweB
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",KANAL 58 (720p) [Not 24/7]
 https://live.artidijitalmedya.com/artidijital_kanal58/kanal58/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",KANAL 58 (1080p) [Not 24/7]
@@ -1712,8 +1706,6 @@ https://webtvstream.bhtelecom.ba/malta.m3u8
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/65f99e10-8d57-460a-a6be-731d90cfe7b1/manifest.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Marco Polo TV
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65004cf398020f00084ca8bc/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=bc8468b2-4b91-11ef-8a44-83c5e90e038f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=1057cbe6-1580-4066-9d29-83892f1f476d
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",MAV Select CANADA
-https://d70mb4nkspm3g.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-vvwqo3j029lz0/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Max & Ruby
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62fb6a4feb32e8000708f4d0/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7b17f0-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=ef7abed0-920d-4c83-92ed-2a600f6fc6d8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",MCJ TV
@@ -1750,8 +1742,10 @@ https://livecdn.live247stream.com/missionasia/tv/playlist.m3u8
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/634fe5afece2e60007c9d8b8/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=bc8468b4-4b91-11ef-8a44-83c5e90e038f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=ba63718b-58e5-4710-8f32-86c6af58620d
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Mister Rogers' Neighborhood
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65e23f340d4561000821540d/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c29dbd1-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=18721deb-08cc-4fc5-b3dd-89d418b508de
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",MNB Гэр бүл (1080p)
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",MNB Гэр бүл (576p)
 https://live.mnb.mn/hls/mnb_family.stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",MNB Гэр бүл (1080p) [Not 24/7]
+https://cdn3.skygo.mn/live/disk1/MNB_Family/HLS-FTA/MNB_Family.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",MO Channel
 https://cloudvideo.servers10.com:8081/8070/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Modern Marvels
@@ -1782,8 +1776,6 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/642ad2127ef83900085f8910/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84adb628-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=e56c1fd6-210e-4009-bdfa-feed08d1e2f1
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",MotoAmerica TV (1080p)
 https://1422977263.rsc.cdn77.org/HLS/MOTOAMERICA.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Motorbikes & Engines
-https://motors.playout.vju.tv/motors/main.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",MotorRacing
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/db917aee-4061-4081-b5fc-d5786defb057/manifest.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Motorracing France
@@ -1904,10 +1896,10 @@ https://mytimemoviefrance-rakuten.amagi.tv/playlist.m3u8
 https://appletree-mytimemoviegerman-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Mytime Movies (1080p)
 https://mytimefrance-rakuten-samsung.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Myzen Fit
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-samsungen-samsungse/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",MYZen Fit [Geo-blocked]
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-samsungen-samsungnl/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Myzen Fit
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-samsungen-samsungse/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",MyZen Wellbeing TV (1080p)
 https://rakutenaa-myzen-en-rakuten-5sex7.amagi.tv/playlist/rakutenAA-myzen-en-rakuten/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",MyZen Wellbeing TV (French)
@@ -2042,8 +2034,6 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f
 https://nosey-confessbynosey-1-us.xumo.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Notisur TV
 https://ss9.domint.net:3006/nsb_str/notisur/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Novelas
-https://dai.google.com/linear/hls/event/4VaHBXfJSYihkeo7w_T0Qw/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Novelas Turcas
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5088
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Now TV 94.3FM Winnipeg (CHNW-FM)
@@ -2090,14 +2080,12 @@ https://d29rvfbwwm1vce.cloudfront.net/scheduler/scheduleMaster/459.m3u8
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6368e15a51e9560007c592ed/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7b6614-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=48221a4e-19a7-43c2-952b-2a59f488a79d
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Outer Vision
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/ea1ad8da-7c74-4dc3-999f-15088a0d942a/manifest.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Outersphere (1080p)
-https://livetv-fa.tubi.video/outersphere2/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",OuterSphere [Geo-blocked]
 https://amg00353-amg00353c17-xumo-us-2554.playouts.now.amagi.tv/lionsgate-otspr-xumo/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Outersphere (1080p)
+https://livetv-fa.tubi.video/outersphere2/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",OUTtv Proud
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6452c879e94c380008f6eb16/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a7817-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=ef048e14-69dc-4cee-9cd0-623bfaa5c559
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Oxi TV (720p)
-https://streamunoapp.com:3520/live/oxitvcanal36live.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Oxygen Music (1080p)
 https://oxygenmusic.hu:2443/hls/oxygenmusic.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Oxygen True Crime Archives
@@ -2138,8 +2126,18 @@ https://4a72da62.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Um9rdV
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/656538bb635c3c0008695660/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a9f25-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=45e6a446-ffdc-462d-8390-f228e5abc25c
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Perry Mason
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64eddc3485efec00085b0369/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=bc852c01-4b91-11ef-8a44-83c5e90e038f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=8ad7dcdd-c826-432e-b269-75cae76bc09e
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Persiana Emirates
+https://pemirateshls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Persiana Medical
+https://phd2hls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Persiana Medical
 https://tfnhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Persiana One Plus
+https://poneplushls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Persiana Teen
+https://kphls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Persiana Travel
+https://ptravelhls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Persiana Travel
 https://mardomhls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="ThePetCollective.us@Canada" tvg-logo="https://i.imgur.com/yH7n2dF.png" group-title="Family",Pet Collective
@@ -2503,6 +2501,8 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65
 https://amg00627-amg00627c34-rakuten-uk-4005.playouts.now.amagi.tv/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",POP Television (720p)
 https://stream1.aswifi.it/poptelevision/live/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Popcorn (720p)
+https://cdn3.skygo.mn/live/disk1/Popcorn/HLS-FTA/Popcorn.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Popflix (720p)
 https://signatureentertainment-popflix-1-gb.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Power Rangers (1080p) [Geo-blocked]
@@ -2513,6 +2513,16 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6254240a8256cb00079a9bf1/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=bc85ef53-4b91-11ef-8a44-83c5e90e038f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=7e768052-bfaa-430a-ab09-5932320bc20e
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Praxis Bülowbogen
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6254240a8256cb00079a9bf1/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84af15b1-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=6afc392a-35ed-4c17-836b-f67bc087a104
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Premier Sports 1 (720p) [Geo-blocked]
+https://cdn3.skygo.mn/live/disk1/SPSPrime/HLS-FTA/SPSPrime.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Premier Sports 2 (720p) [Geo-blocked]
+https://cdn3.skygo.mn/live/disk1/SPSPlay/HLS-FTA/SPSPlay.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Premier Sports 3 (720p) [Geo-blocked]
+https://cdn3.skygo.mn/live/disk1/SPSNational/HLS-FTA/SPSNational.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Premier Sports 4 (720p) [Geo-blocked]
+https://cdn3.skygo.mn/live/disk1/SPSFight/HLS-FTA/SPSFight.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Premier Sports 5 (720p) [Geo-blocked]
+https://cdn3.skygo.mn/live/disk1/SPSPlus/HLS-FTA/SPSPlus.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Preschool Pals
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62fb67cbb3af68000702db15/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7bb437-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=fff0d013-4b9f-4262-bd8b-8f09a990dd45
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Preschool Play
@@ -2677,14 +2687,14 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realcrimebe
 https://d1qznhvm4vjve7.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Real Crime Beta (1080p)
 https://lds-realcrimebeta-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Real Disaster Channel
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64e89cfc9c1e3900084ca663/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7bdb42-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=24208564-c527-4b10-9747-f554361463a7
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Real Disaster Channel
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64d2b6bf9b414d0008187d83/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2b6279-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=680bfa6f-fbaa-49ab-867d-ef3940cbe992
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Real Disaster Channel [Geo-blocked]
 https://linear-475.frequency.stream/dist/glewedtv/475/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Real Disaster Channel [Geo-blocked]
 https://linear-475.frequency.stream/dist/xumo/475/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Real Disaster Channel
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64e89cfc9c1e3900084ca663/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7bdb42-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=24208564-c527-4b10-9747-f554361463a7
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Real Disaster Channel
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64d2b6bf9b414d0008187d83/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2b6279-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=680bfa6f-fbaa-49ab-867d-ef3940cbe992
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Real Housewives Vault
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6549316d2c1d330008631496/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2b627a-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=848484a3-f7c4-4cf7-a5dc-4fc9d5658a8e
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Real Housewives Vault
@@ -2809,10 +2819,10 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/642be30baa2d690008ed2935/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7c0250-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=90602a89-140d-4b4a-b8d0-c360c511b227
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Sailor Moon
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/637e55347427a40007fac703/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2b8985-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=15c87267-b209-43f7-bd4a-3b14d32e2246
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Salem News Channel (720p) [Geo-blocked]
-https://amg00732-salemmediagroup-salemnews-klowdtv-79zyj.amagi.tv/playlist/amg00732-salemmediagroup-salemnews-klowdtv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Salem News Channel [Geo-blocked]
 https://amg00732-salemnewsfast-amg00732c2-xumo-us-1316.playouts.now.amagi.tv/snc-xm/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Salem News Channel (720p) [Geo-blocked]
+https://amg00732-salemmediagroup-salemnews-klowdtv-79zyj.amagi.tv/playlist/amg00732-salemmediagroup-salemnews-klowdtv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Sam & Cat
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e8b5ba20af628000707cee3/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=bc861665-4b91-11ef-8a44-83c5e90e038f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=d29fcbfe-ed00-4380-9ee8-05cc095aee50
 #EXTINF:-1 tvg-id="SamCat.us@Austria" tvg-logo="https://i.imgur.com/B6UolTW.png" group-title="Undefined",Sam & Cat
@@ -3093,6 +3103,8 @@ https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62e8e3bca3766a0007387
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62e8ddbbaed0390007b258a6/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Super! Victorious Italy (720p)
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/63c012504faf1c0007abfa93/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Supermarket Sweep [Geo-blocked]
+https://amg00145-letsplayinc-supermarketswep-xumo-59bvy.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Supermarket Sweep
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62e92b66f24d2800087777ec/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7c2964-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=609c7d22-d538-4290-84e3-7e68229e9d3f
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Supermarket Sweep
@@ -3101,8 +3113,6 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64
 https://amg00145-buzzr-bigballs-supermarket-rokuus-iqx8g.amagi.tv/playlist/amg00145-buzzr-bigballs-supermarket-rokuus/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Supermarket Sweep (1080p) [Geo-blocked]
 https://apollo.production-public.tubi.io/live/ac-supermarket.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Supermarket Sweep [Geo-blocked]
-https://amg00145-letsplayinc-supermarketswep-xumo-59bvy.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Supernatural Drama
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f24662bebe0f0000767de32/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2bd7a9-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=933590b4-25e8-478c-814f-49d93fd452c3
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Supremateve TV (720p)
@@ -3217,10 +3227,10 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65
 https://apollo.production-public.tubi.io/live/ac-biggest-loser.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",The Chat Show Channel (1080p)
 https://amg00426-lds-amg00426c11-rakuten-uk-3888.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",The Conners (720p) [Geo-blocked]
-https://aegis-cloudfront-1.tubi.video/b29092cd-e0e1-404f-8d84-f797633e26f4/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",The Conners [Geo-blocked]
 https://amg00353-amg00353c36-xumo-us-3803.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",The Conners (720p) [Geo-blocked]
+https://aegis-cloudfront-1.tubi.video/b29092cd-e0e1-404f-8d84-f797633e26f4/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",The Cycling Channel
 https://cyclingtv.playout.vju.tv/cyclingtv/main.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",The Dick Van Dyke Show
@@ -3385,6 +3395,8 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=1086
 https://apollo.production-public.tubi.io/live/tubi-originals.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Turismo HD (720p)
 https://stream.gia.tv/giatvplayout7/giatv-208343/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",TV7 (720p)
+https://cdn3.skygo.mn/live/disk1/TV7/HLS-FTA/TV7.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",TV7 Meteo (404p)
 https://www.gruppotv7.com:8090/hls/meteo.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",TV8 International (1080p)
@@ -3747,10 +3759,10 @@ https://d3p8ecnk6t4t73.cloudfront.net/scheduler/scheduleMaster/316.m3u8
 https://zylo-cinefriki-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Zylo Ciné Nanar
 https://zylo-cinenanar-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Zylo Ciné Western
-https://amg00711-zylo-amg00711c8-rakuten-uk-2686.playouts.now.amagi.tv/playlist/amg00711-zylofast-cinewestern-rakutenuk/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Zylo Cine Western (1080p) [Geo-blocked]
 https://amg00711-zylo-amg00711c9-rakuten-es-5783.playouts.now.amagi.tv/playlist/amg00711-zylofast-cinewesternes-rakutenes/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Zylo Ciné Western
+https://amg00711-zylo-amg00711c8-rakuten-uk-2686.playouts.now.amagi.tv/playlist/amg00711-zylofast-cinewestern-rakutenuk/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Zylo Emotion' L
 https://rakutenaa-zylo-emotional-rakuten-r1zkm.amagi.tv/playlist/rakutenAA-zylo-emotional-rakuten/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Zylo Fréquence Novelas
@@ -3814,6 +3826,8 @@ https://live-tvkrasnodar.cdnvideo.ru/tvkrasnodar/tvkrasnodar.sdp/playlist.m3u8
 https://krasnodar.mediacdn.ru/live/cdn/krasnodar/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Урал 24 (Челябинск)
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/chelyabinsk/ural24-hd/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Хөгжим (720p)
+https://cdn3.skygo.mn/live/disk1/Khugjim/HLS-FTA/Khugjim.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",万州三峡移民 (576p) [Not 24/7]
 http://123.146.162.24:8013/tslslive/PU2vzMI/hls/live_sd.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",万州影视 (576p) [Not 24/7]
@@ -4272,10 +4286,10 @@ http://live.zohi.tv/video/s10001-fztv-4/index.m3u8
 http://123.146.162.24:8017/c2F0hmi/1000/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",萬州三峽移民 (576p)
 http://wanzhoulive.cbg.cn:8017/c2F0hmi/1000/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",萬州影視文藝 (576p)
-http://wanzhoulive.cbg.cn:8017/d4ceB1a/1000/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",萬州影視文藝 (576p) [Not 24/7]
 http://123.146.162.24:8017/d4ceB1a/1000/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",萬州影視文藝 (576p)
+http://wanzhoulive.cbg.cn:8017/d4ceB1a/1000/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",萬州科教頻道 (576p)
 http://123.146.162.24:8017/Cz7WPb8/800/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",萬州科教頻道 (576p)

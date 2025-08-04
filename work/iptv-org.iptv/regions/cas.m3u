@@ -44,8 +44,8 @@ https://st.biztv.uz/hls/stream_hi/index.m3u8
 https://bloomberg.com/media-manifest/streams/eu-event.m3u8
 #EXTINF:-1 tvg-id="BloombergTV.us@Europe" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="Business",Bloomberg TV Europe (720p)
 https://bloomberg.com/media-manifest/streams/eu.m3u8
-#EXTINF:-1 tvg-id="Bolajon.uz" tvg-logo="https://i.imgur.com/s7o0ifu.png" group-title="Kids",Bolajon (486p)
-https://st1-allplay-uz.b-cdn.net/3/iptv-58/index.m3u8
+#EXTINF:-1 tvg-id="Bolajon.uz" tvg-logo="https://i.imgur.com/s7o0ifu.png" group-title="Kids",Bolajon (480p)
+http://gohoski.fvds.ru:3000/mediabay/148/playlist.m3u8
 #EXTINF:-1 tvg-id="CarouselInternational.ru@SD" tvg-logo="https://i.imgur.com/DnlngRZ.png" group-title="Kids",Carousel International
 https://cdn4.skygo.mn/live/disk1/Karusel/HLSv3-FTA/Karusel.m3u8
 #EXTINF:-1 tvg-id="CGTNRussian.cn" tvg-logo="https://i.imgur.com/nDWkCmL.png" group-title="News",CGTN Русский (1080p)
@@ -116,10 +116,10 @@ https://stream8.cinerama.uz/1217/tracks-v1a1/playlist.m3u8
 http://gohoski.fvds.ru:3000/mediabay/254/playlist.m3u8
 #EXTINF:-1 tvg-id="NextTV.kg" tvg-logo="https://i.imgur.com/9MiwdgD.png" group-title="Undefined",Next TV (1080p) [Not 24/7]
 http://gohoski.fvds.ru:3000/mediabay/601/playlist.m3u8
-#EXTINF:-1 tvg-id="Ozbekiston24.uz" tvg-logo="https://i.imgur.com/VRFhKbw.png" group-title="News",O'zbekiston 24 (480p)
-http://gohoski.fvds.ru:3000/mediabay/393/playlist.m3u8
 #EXTINF:-1 tvg-id="Ozbekiston.uz" tvg-logo="https://i.imgur.com/QUIIhTD.png" group-title="General",O'zbekiston (480p)
 http://gohoski.fvds.ru:3000/mediabay/140/playlist.m3u8
+#EXTINF:-1 tvg-id="Ozbekiston24.uz" tvg-logo="https://i.imgur.com/VRFhKbw.png" group-title="News",O'zbekiston 24 (480p)
+http://gohoski.fvds.ru:3000/mediabay/393/playlist.m3u8
 #EXTINF:-1 tvg-id="OzbekistonTarixi.uz" tvg-logo="https://i.imgur.com/iTTd3Ir.png" group-title="Documentary",O'zbekiston Tarixi (1080p)
 https://stream8.cinerama.uz/1209/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 tvg-id="Ontustik.kz" tvg-logo="https://i.imgur.com/xqr1hjN.png" group-title="Undefined",Ontústik (360p)
@@ -144,8 +144,6 @@ https://stream.kaztrk.kz/regional/kostanaytv/index.m3u8
 https://stream.kaztrk.kz/regional/petropavltv/index.m3u8
 #EXTINF:-1 tvg-id="Qyzylorda.kz" tvg-logo="https://i.imgur.com/r4BFQpE.png" group-title="Undefined",Qyzylorda (720p)
 https://stream.kaztrk.kz/regional/kyzylordatv/index.m3u8
-#EXTINF:-1 tvg-id="RaiItalia.it@EuropeAfrica" tvg-logo="https://i.imgur.com/1nN4rEP.png" group-title="Undefined",Rai Italia
-https://ilglobotv-live.akamaized.net/channels/RAIItaliaSudAfrica/Live.m3u8
 #EXTINF:-1 tvg-id="RakutenViki.es@Poland" tvg-logo="https://i.imgur.com/pbyd1g2.png" group-title="Undefined",Rakuten VIKI (720p)
 https://fd18f1cadd404894a31a3362c5f319bd.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_RakutenViki-1/playlist.m3u8
 #EXTINF:-1 tvg-id="RedCarpetTVInternational.pl" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/a52f843a-9a9c-4d96-8f77-57f3ec96acb0-width200-quality90.jpeg" group-title="Undefined",Red Carpet TV International (1080p)

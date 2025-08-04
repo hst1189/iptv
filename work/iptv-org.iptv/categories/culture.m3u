@@ -69,10 +69,10 @@ https://vcp.myplaytv.com/canaldiplomatico/canaldiplomatico/playlist.m3u8
 https://streamingc21.cdmx.gob.mx/capital21/stream.m3u8
 #EXTINF:-1 tvg-id="CatamarcaTV.ar" tvg-logo="https://i.imgur.com/CEuPoqG.png" group-title="Culture;News",Catamarca TV (720p)
 https://stream.arcast.com.ar/canal7catamarca/ngrp:canal7catamarca_all/playlist.m3u8?DVR=
-#EXTINF:-1 tvg-id="ChannelS.uk" tvg-logo="https://i.imgur.com/hJxFLvF.png" group-title="Culture",Channel S (576p) [Not 24/7]
-https://cdn149.anystream.uk:8082/g1/tvchsuk03/playlist.m3u8
 #EXTINF:-1 tvg-id="ChannelS.bd" tvg-logo="https://i.imgur.com/IDjoXfu.png" group-title="Culture",Channel S (1080p)
 https://amigofx.com:1936/channelsreporter/channelsreporter/playlist.m3u8
+#EXTINF:-1 tvg-id="ChannelS.uk" tvg-logo="https://i.imgur.com/hJxFLvF.png" group-title="Culture",Channel S (576p) [Not 24/7]
+https://cdn149.anystream.uk:8082/g1/tvchsuk03/playlist.m3u8
 #EXTINF:-1 tvg-id="ChiloeRed25.cl" tvg-logo="https://i.imgur.com/3tqrImm.png" group-title="Culture",Chiloe Red 25
 https://v2.tustreaming.cl/chiloered/index.m3u8
 #EXTINF:-1 tvg-id="CiftciTV.tr" tvg-logo="https://i.imgur.com/CLzP4vL.png" group-title="Culture;Education",Ciftci TV (576p)
@@ -85,6 +85,8 @@ https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
 https://5d8d85cf2c308.streamlock.net:1936/Condavision/endirecto/playlist.m3u8
 #EXTINF:-1 tvg-id="CostaRicaChannel.cr" tvg-logo="https://i.imgur.com/N4pFVVF.png" group-title="Culture;Travel",Costa Rica Channel (720p)
 https://panel2.streamingtv-mediacp.online:1936/rudcmzwtnh/rudcmzwtnh/playlist.m3u8
+#EXTINF:-1 tvg-id="DDBharati.in@SD" tvg-logo="https://i.imgur.com/4tfUIEo.png" group-title="Culture",DD Bharati (720p)
+https://cdn-1.pishow.tv/live/10/master.m3u8
 #EXTINF:-1 tvg-id="DDPunjabi.in" tvg-logo="https://i.imgur.com/WVtl6n2.png" group-title="Culture",DD Punjabi
 https://d3eyhgoylams0m.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/ed7bd2c7-8d10-4051-b397-2f6b90f99acb/20c8ad14-a158-4a42-8889-e032d070856e/2.m3u8
 #EXTINF:-1 tvg-id="DikhTV.hu" tvg-logo="https://i.imgur.com/aAcORTL.png" group-title="Culture",Dikh TV (576p)
@@ -131,7 +133,7 @@ https://pistream.ddns.net/hls/stream.m3u8
 https://vdo3.alphaserver.gr:3466/live/greektvlondonlive.m3u8
 #EXTINF:-1 tvg-id="GTV.si" tvg-logo="https://i.imgur.com/LHChpid.png" group-title="Culture",GTV (360p) [Not 24/7]
 http://91.220.221.60/gtv_hls/gtv_03.m3u8
-#EXTINF:-1 tvg-id="GuaymateTV.do@SD" tvg-logo="https://i.imgur.com/PBgQi9a.png" group-title="Culture",Guaymate TV [Not 24/7]
+#EXTINF:-1 tvg-id="GuaymateTV.do@SD" tvg-logo="https://i.imgur.com/PBgQi9a.png" group-title="Culture",Guaymate TV (720p) [Not 24/7]
 https://live20.bozztv.com/akamaissh101/ssh101/guaymatetv/playlist.m3u8
 #EXTINF:-1 tvg-id="HamaikaTelebista.es" tvg-logo="https://i.imgur.com/HR3G3Ie.png" group-title="Culture",Hamaika Telebista (1080p)
 https://cdn3.wowza.com/1/RERMR282dnU5eE5Z/OHY0dVFs/hls/live/playlist.m3u8
@@ -148,8 +150,6 @@ https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/HRT3/default/index.mpd
 http://cdn12.henico.net:8080/live/jbani/index.m3u8
 #EXTINF:-1 tvg-id="HyderTV.ca" tvg-logo="https://i.imgur.com/reHjjRZ.png" group-title="Culture",Hyder TV
 https://cdn.live247stream.com/hyder/tv/playlist.m3u8
-#EXTINF:-1 tvg-id="ImaiTV.lk" tvg-logo="https://i.imgur.com/9tODclu.png" group-title="Culture",Imai TV (720p)
-https://rpn3.bozztv.com/ssh101/ssh101/imaitv/playlist.m3u8
 #EXTINF:-1 tvg-id="IndigenousTV.tw" tvg-logo="https://i.imgur.com/vmk4F9u.png" group-title="Culture",Indigenous TV (720p)
 http://streamipcf.akamaized.net/live/_definst_/smil:liveabr.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="IRIB4.ir@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/IRIB_TV4_logo.svg/240px-IRIB_TV4_logo.svg.png" group-title="Culture",IRIB 4
@@ -188,6 +188,8 @@ http://193.225.32.62:8890/live.m3u8
 https://d2dw21aq0j0l5c.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-id="LuysTV.tr" tvg-logo="https://i.imgur.com/9EruWIQ.png" group-title="Culture",Luys TV (576p)
 http://185.234.111.229:8000/play/a06i
+#EXTINF:-1 tvg-id="MalchinTV.mn" tvg-logo="https://i.imgur.com/vCdEBZo.png" group-title="Culture",Malchin TV (720p)
+https://cdn3.skygo.mn/live/disk1/Malchin/HLS-FTA/Malchin.m3u8
 #EXTINF:-1 tvg-id="ManasTV.kg@SD" tvg-logo="https://i.ibb.co/2Kvcj5Q/manas.jpg" group-title="Culture;Education;Entertainment",Manas TV (1080p)
 http://212.42.111.152:8080/hls/manas.m3u8
 #EXTINF:-1 tvg-id="MBC3.mu@SD" tvg-logo="https://i.imgur.com/apouTRP.png" group-title="Culture",MBC 3
@@ -232,6 +234,8 @@ https://api.visionip.tv/live/ASHTTP/visiontvuk-entertainment-ntai-hsslive-25f-4x
 https://panel.miplay.cl:8082/ntv/index.m3u8
 #EXTINF:-1 tvg-id="NYXT.us" tvg-logo="https://i.imgur.com/7kuluji.png" group-title="Culture",NYXT (1080p)
 https://reflect-stream-bronxnet.cablecast.tv/live-10/live/live.m3u8
+#EXTINF:-1 tvg-id="OdishaTV.in@SD" tvg-logo="https://i.imgur.com/tCT3qL9.png" group-title="Culture",Odisha TV (720p)
+https://livetv.tarangplus.in/otv-origin/live/playlist.m3u8
 #EXTINF:-1 tvg-id="OfoghTV.ir" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/thumb/f/fe/Ofogh_TV_logo.svg/320px-Ofogh_TV_logo.svg.png" group-title="Culture",Ofogh
 https://lenz.splus.ir/PLTV/88888888/224/3221226143/index.m3u8
 #EXTINF:-1 tvg-id="OizmendiTelebista.es" tvg-logo="https://i.imgur.com/qEJsVal.png" group-title="Culture",Oizmendi Telebista (404p) [Not 24/7]
@@ -256,8 +260,8 @@ https://fl3.moveonjoy.com/Ovation/index.m3u8
 https://5f22d76e220e1.streamlock.net/pacicontemporarychannel/pacicontemporarychannel/playlist.m3u8
 #EXTINF:-1 tvg-id="PamirTV.ca" tvg-logo="https://i.imgur.com/sCBbBOj.png" group-title="Culture;Music",Pamir TV (1080p) [Not 24/7]
 http://live.stream.cdn.pamirtv.com/ptv/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
-#EXTINF:-1 tvg-id="PanarmenianTV.us" tvg-logo="https://i.imgur.com/ldLRe4j.png" group-title="Culture;Entertainment;Music",Panarmenian TV
-https://us1.ottstream.live:17071/C279/index.m3u8?token=123TREWQ456
+#EXTINF:-1 tvg-id="PanarmenianTV.us@SD" tvg-logo="https://i.imgur.com/ldLRe4j.png" group-title="Culture;Entertainment;Music",Panarmenian TV
+https://live20.bozztv.com/gin-36bay3/gt-panarmenian/index.m3u8
 #EXTINF:-1 tvg-id="PardesiTV.ca" tvg-logo="https://i.imgur.com/CwAdPpZ.jpg" group-title="Culture",Pardesi TV (720p)
 http://stream.pardesitv.online/pardesi/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="PLTV.ve" tvg-logo="https://i.imgur.com/ftblZ6f.jpg" group-title="Culture",PLTV (614p)

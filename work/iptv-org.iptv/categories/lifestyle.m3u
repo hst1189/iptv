@@ -49,8 +49,6 @@ https://magnolia-cinelife.amagi.tv/hls/amagi_hls_data_magnoliaA-cinelife-oando/C
 https://fl3.moveonjoy.com/Cleo_TV/index.m3u8
 #EXTINF:-1 tvg-id="CoolTV.hu" tvg-logo="https://i.imgur.com/rXJtthd.png" group-title="Lifestyle",Cool TV (1080p)
 http://146.59.85.40:89/coolhd/index.m3u8
-#EXTINF:-1 tvg-id="CTNLifestyle.us" tvg-logo="https://i.imgur.com/i1TBfGl.png" group-title="Lifestyle",CTN Lifestyle (540p)
-https://ctntv.getstreamhosting.com:1936/Lifestyle/Lifestyle/playlist.m3u8
 #EXTINF:-1 tvg-id="Diva.za" tvg-logo="https://i.imgur.com/U9wMnQ0.png" group-title="Lifestyle",Diva (720p)
 https://origin3.afxp.telemedia.co.za/PremiumFree/diva/playlist.m3u8
 #EXTINF:-1 tvg-id="DoctorLive.in" tvg-logo="https://i.imgur.com/D6cMaVs.png" group-title="Lifestyle",Doctor Live (720p)
@@ -59,6 +57,8 @@ https://5a1178b42cc03.streamlock.net/8250/8250/playlist.m3u8
 http://178.217.72.66:8080/Domashnie_Zhivotnye/index.m3u8
 #EXTINF:-1 tvg-id="DomashniyInternational.ru@SD" tvg-logo="https://i.imgur.com/nf7GRXb.png" group-title="Lifestyle",Domashniy International
 https://cdn4.skygo.mn/live/disk1/Domashni/HLSv3-FTA/Domashni.m3u8
+#EXTINF:-1 tvg-id="ETVLife.in@SD" tvg-logo="https://i.imgur.com/RFfpcoY.png" group-title="Lifestyle",ETV Life (480p)
+https://d2cj1h11htct8o.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_LIFE_H264_cloud_in/index.m3u8
 #EXTINF:-1 tvg-id="FashionFinds.us" tvg-logo="https://i.imgur.com/GvDRZgq.png" group-title="Lifestyle;Shop",Fashion Finds
 https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc5us/master.m3u8
 #EXTINF:-1 tvg-id="FashionTVParis.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/512px-Fashion_TV_logo.svg.png" group-title="Lifestyle",Fashion TV Paris (144p)
@@ -93,8 +93,8 @@ https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/7e8474e6daea44ccaa5aa2300191439e/i
 https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/0a76740c72b74fabae611845aa21e06a/index.m3u8
 #EXTINF:-1 tvg-id="JilinRuralChannel.cn" tvg-logo="https://www.tvchinese.net/uploads/tv/jlxcpd.jpg" group-title="Education;Lifestyle;Science",Jilin Rural Channel
 https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/3ffc4824dce54b92be185555923ce382/index.m3u8
-#EXTINF:-1 tvg-id="KappaTV.in" tvg-logo="https://i.imgur.com/e9qTjgB.png" group-title="Lifestyle",Kappa TV (360p)
-https://idvd.multitvsolution.com/idvo/kappatv.m3u8
+#EXTINF:-1 tvg-id="KappaTV.in@SD" tvg-logo="https://i.imgur.com/e9qTjgB.png" group-title="Lifestyle",Kappa TV (576p)
+https://yuppftalive.akamaized.net/080823/kappatv/playlist.m3u8
 #EXTINF:-1 tvg-id="KBSLife.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/KBS_Life.svg/512px-KBS_Life.svg.png" group-title="Lifestyle",KBS Life (480p)
 http://mytv.dothome.co.kr/ch/catv/5.php
 #EXTINF:-1 tvg-id="SmartLifeStyleTV.us" tvg-logo="https://i.imgur.com/kHFlTEy.png" group-title="Lifestyle",Lighting Lives Blessing Nations Smart Life Style TV (LLBN) (720p)
@@ -153,10 +153,10 @@ https://h030.video-stream-hosting.de/quantisana-live/_definst_/smil:livestream.s
 http://video10.qtv.com.cn/drm/qtv2at/manifest.m3u8
 #EXTINF:-1 tvg-id="QTV6.cn" tvg-logo="https://www.tvchinese.net/uploads/tv/qdtv6.jpg" group-title="Kids;Lifestyle",QTV-6
 http://video10.qtv.com.cn/drm/qtv6at/manifest.m3u8
-#EXTINF:-1 tvg-id="Revry2.us" tvg-logo="https://i.imgur.com/bKpligT.png" group-title="Lifestyle",Revry 2
-https://linear-5.frequency.stream/mt/brightcove/5/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="Revry.us" tvg-logo="https://i.imgur.com/XuTUaq4.png" group-title="Lifestyle",Revry (720p) [Not 24/7]
 https://linear-5.frequency.stream/dist/plex/5/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="Revry2.us" tvg-logo="https://i.imgur.com/bKpligT.png" group-title="Lifestyle",Revry 2
+https://linear-5.frequency.stream/mt/brightcove/5/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="RevryBrasil.us" tvg-logo="https://images.samsung.com/is/image/samsung/assets/br/tvs/smart-tv/channel-list/Revry_Brasil_476x476circle.png?$ORIGIN_PNG$" group-title="Lifestyle",Revry Brasil
 https://linear-181.frequency.stream/mt/brightcove/181/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="RevryNews.us@SD" tvg-logo="https://i.imgur.com/lKMYCkb.png" group-title="Lifestyle",Revry News (720p)
@@ -169,8 +169,6 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-soreal-cineve
 https://wmoy82n4y2a7-hls-live.5centscdn.com/sostv/live.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="SuperyachtTV.mc" tvg-logo="https://i.imgur.com/cgjgjE1.png" group-title="Lifestyle",Superyacht TV (1080p)
 https://sy.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="TheBeachChannel.us" tvg-logo="https://i.imgur.com/KShaqAp.png" group-title="Lifestyle",The Beach Channel
-https://cf-live29e5f8c.lwcdn.com/live/fallback/014dc067-4922-4168-bdcd-5278589269ed/playlist.m3u8
 #EXTINF:-1 tvg-id="TheDesignNetwork.us@SD" tvg-logo="https://i.imgur.com/J5YJ3r3.png" group-title="Lifestyle",The Design Network (1080p)
 https://amg00441-amg00441c1-rakuten-us-6050.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="TheJamieOliverChannel.us" tvg-logo="https://i.imgur.com/4v93XUB.png" group-title="Lifestyle",The Jamie Oliver Channel
